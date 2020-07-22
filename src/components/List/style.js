@@ -1,10 +1,15 @@
 import styled from 'styled-components';
 
-export const ListWrapper = styled.div`
-  display: flex;
-  flex-wrap: wrap;
+export default styled.div`
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
   padding-top: 3rem;
   padding-bottom: 3rem;
-`;
 
-export const Some = 'asd';
+  @media (max-width: 800px) {
+    grid-template-columns: 1fr 1fr;
+  }
+  @media (max-width: 680px) {
+    grid-template-columns: 1fr;
+  }
+`;

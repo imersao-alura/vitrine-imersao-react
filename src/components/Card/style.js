@@ -6,12 +6,16 @@ export const CardWrapper = styled.article`
   box-shadow: 0 0 4px #dedede;  display: flex;
   flex: 1;
   margin: 1rem;
-  max-width: 90vw;
+  max-width: 400px;
   min-width: 300px;
   min-height: 300px;
   padding: 1rem;
   position: relative;
   
+  @media (max-width: 800px) {
+    max-width: 90vw;
+  }
+
   ${({ thumbnail }) => css`
   background: url(${thumbnail});
   background-size: cover;
@@ -50,7 +54,7 @@ export const CardWrapper = styled.article`
     }
   }
 
-  &:nth-child(odd){
+  &:nth-child(odd) {
     & ${Button} {
       background-color: var(--secondary);
       fill: var(--white);
