@@ -1,4 +1,5 @@
-import React, { useState } from 'react';
+import React from 'react';
+import propTypes from 'prop-types';
 
 import { Form, Input, Button } from './style';
 import SearchIcon from '../../../assets/images/search-icon.svg';
@@ -23,6 +24,10 @@ const SearchBar = ({ updateSearchTerm }) => {
       </Button>
     </Form>
   );
+};
+
+SearchBar.propTypes = {
+  updateSearchTerm: propTypes.func.isRequired,
 };
 
 export default SearchBar;

@@ -10,4 +10,3 @@ export default styled.footer`
     margin-bottom: 50px;
   }
 `;
-

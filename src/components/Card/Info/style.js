@@ -1,6 +1,6 @@
 import styled, { css } from 'styled-components';
 
-export const Info = styled.div`
+export const InfoWrapper = styled.div`
   bottom: -10px;
   border-bottom-left-radius: 8px;
   border-bottom-right-radius: 8px;

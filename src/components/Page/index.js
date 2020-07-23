@@ -1,9 +1,9 @@
 import React from 'react';
-import styled from 'styled-components';
+import propTypes from 'prop-types';
 
 import Footer from './Footer';
 import Header from './Header';
-import { Main } from './style';
+import Main from './style';
 
 function Page({ children }) {
   return (
@@ -13,13 +13,14 @@ function Page({ children }) {
       <Main>
         {children}
       </Main>
-      
 
       <Footer />
     </>
   );
 }
 
-
+Page.propTypes = {
+  children: propTypes.node.isRequired,
+};
 
 export default Page;

@@ -1,5 +1,5 @@
 import styled, { css } from 'styled-components';
-import { Info, Button } from './Info/style';
+import { InfoWrapper, Button } from './Info/style';
 
 export const CardWrapper = styled.article`
   border-radius: 24px;
@@ -35,7 +35,7 @@ export const CardWrapper = styled.article`
       }
     }
 
-    & ${Info} {
+    & ${InfoWrapper} {
       background-color: var(--primary);
       color: var(--secondary);
       
@@ -67,7 +67,7 @@ export const CardWrapper = styled.article`
       }
     }
 
-    & ${Info} {
+    & ${InfoWrapper} {
       background-color: var(--secondary);
       color: var(--white);
       &:after,

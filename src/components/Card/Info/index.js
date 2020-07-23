@@ -1,13 +1,15 @@
 import React from 'react';
+import propTypes from 'prop-types';
+
 import {
-  Info, Image, Title, Subtitle, TextWrapper, Button,
+  InfoWrapper, Image, Title, Subtitle, TextWrapper, Button,
 } from './style';
 import { ReactComponent as ArrowIcon } from '../../../assets/images/arrow-icon.svg';
 
-const Front = ({
+const Info = ({
   foto, redeSocial, nome, nomeDoProjeto, url,
 }) => (
-  <Info>
+  <InfoWrapper>
     <Image
       foto={foto}
       href={redeSocial}
@@ -31,7 +33,20 @@ const Front = ({
     >
       <ArrowIcon className="arrow-icon" />
     </Button>
-  </Info>
+  </InfoWrapper>
 );
 
-export default Front;
+Info.defaultProps = {
+  foto: '',
+  redeSocial: '',
+};
+
+Info.propTypes = {
+  foto: propTypes.string,
+  redeSocial: propTypes.string,
+  nome: propTypes.string.isRequired,
+  nomeDoProjeto: propTypes.string.isRequired,
+  url: propTypes.string.isRequired,
+};
+
+export default Info;
