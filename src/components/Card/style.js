@@ -86,6 +86,18 @@ export const CardWrapper = styled.article`
   }
 `;
 
-export const Back = styled.div`
+export const Tags = styled.ul`
+  list-style: none;
+  margin-left: auto;
+`;
 
+export const Tag = styled.li`
+  font-size: 12px;
+  padding: 4px;
+  display: inline-block;
+  margin-left: 4px;
+  color: var(--primary);
+  background-color: var(--secondary);
+  border-radius: 4px;
+  text-transform: uppercase;
 `;

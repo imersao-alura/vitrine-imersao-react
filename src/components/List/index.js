@@ -27,7 +27,17 @@ const List = ({ projetos }) => (
 );
 
 List.propTypes = {
-  projetos: propTypes.arrayOf(propTypes.objectOf(propTypes.string)).isRequired,
+  projetos: propTypes.arrayOf(
+    propTypes.shape(
+      {
+        nome: propTypes.string,
+        foto: propTypes.string,
+        nomeDoProjeto: propTypes.string,
+        url: propTypes.string,
+        tags: propTypes.arrayOf(propTypes.string),
+      },
+    ),
+  ).isRequired,
 };
 
 export default List;

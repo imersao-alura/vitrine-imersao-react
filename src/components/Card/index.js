@@ -1,7 +1,7 @@
 import React from 'react';
 import propTypes from 'prop-types';
 
-import { CardWrapper } from './style';
+import { CardWrapper, Tags, Tag } from './style';
 import Info from './Info';
 
 const Card = ({
@@ -13,6 +13,11 @@ https://api.screenshotmachine.com?key=296fe8&url=${url}&dimension=1024x768
 
   return (
     <CardWrapper thumbnail={thumbnail}>
+      <Tags>
+        {tags.map((tag) => (
+          <Tag>{tag}</Tag>
+        ))}
+      </Tags>
       <Info
         foto={foto}
         redeSocial={redeSocial}
