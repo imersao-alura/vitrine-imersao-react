@@ -33,4 +33,15 @@ export default [
       'música',
     ],
   },
+  {
+    nome: 'Mateus Cirino',
+    foto: 'https://avatars0.githubusercontent.com/u/40328105?s=460&u=1c1aac08db6b9afce11593f4add4717fb005ffef&v=4',
+    nomeDoProjeto: 'CirinoFlix',
+    url: 'https://github.com/mateus-cirino',
+    tags: [
+      'programacao',
+      'series',
+      'filmes',
+    ],
+  },
 ];
