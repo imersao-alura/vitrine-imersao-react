@@ -33,4 +33,19 @@ export default [
       'música',
     ],
   },
+    {
+    nome: 'Vini Black',
+    redeSocial: 'https://twitter.com/BlackVinii',
+    foto: 'https://avatars2.githubusercontent.com/u/51183682?s=460&u=c1f09414d262ca2e62a855b9406881a3a26b5e84&v=4',
+    nomeDoProjeto: 'Sem Roteiro',
+    url: 'https://vercel.com/viniblack/sem-roteiro-react',
+    tags: [
+      'front end',
+      'filmes',
+      'música',
+      'podcast',
+      'jogos',
+      'series',
+    ],
+  },
 ];
