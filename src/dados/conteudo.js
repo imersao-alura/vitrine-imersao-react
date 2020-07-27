@@ -33,4 +33,20 @@ export default [
       'música',
     ],
   },
+  {
+    nome: 'Bruno Batalha',
+    foto: 'https://avatars1.githubusercontent.com/u/33035221?s=460&u=c7648589c95511abcb5e7172eeab23d8cd1b4fab&v=4',
+    nomeDoProjeto: 'LoLFlix',
+    url: 'https://lolflix.vercel.app/',
+    tags: [
+      'front end',
+      'jogos',
+      'league of legends',
+      'games',
+      'diversão',
+      'lol',
+      'bronze',
+      'x1',
+    ],
+  },
 ];
