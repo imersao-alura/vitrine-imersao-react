@@ -33,4 +33,17 @@ export default [
       'música',
     ],
   },
+    {
+    nome: 'Michael Nascimento',
+    foto: 'https://avatars2.githubusercontent.com/u/35317401?s=460&u=53f0a76fbf41bafa9f776c73d87ba73aefe0ff62&v=4',
+    nomeDoProjeto: 'Bateraflix',
+    url: 'https://bateraflix.vercel.app/',
+    tags: [
+      'front end',
+      'videos',
+      'música',
+      'bateria',
+      'instrumentos musicais'
+    ],
+  },
 ];
