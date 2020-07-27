@@ -33,4 +33,17 @@ export default [
       'música',
     ],
   },
+  {
+    nome: 'Ricardo Moura',
+    foto: 'https://avatars2.githubusercontent.com/u/9980738?s=460&u=b98daf24bb89c1c6f0e7a6675d71764723c51fa6&v=4',
+    nomeDoProjeto: 'RicardoMouraFlix',
+    url: 'https://www.netflix.com/',
+    tags: [
+      'back end',
+      'IA',
+      'Livros',
+      'filmes',
+      'música',
+    ],
+  },
 ];
