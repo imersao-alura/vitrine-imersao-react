@@ -33,4 +33,15 @@ export default [
       'música',
     ],
   },
+   {
+    nome: 'Davi Martins',
+    foto: 'https://avatars3.githubusercontent.com/u/65557478?s=460&v=4',
+    nomeDoProjeto: 'daviflix',
+    url: 'https://reactflix-woad.vercel.app',
+    tags: [
+      'filmes',
+      'séries',
+      'animes',
+    ],
+  },
 ];
