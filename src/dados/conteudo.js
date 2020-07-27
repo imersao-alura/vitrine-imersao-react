@@ -33,4 +33,17 @@ export default [
       'música',
     ],
   },
+  {
+    nome: 'Cleyton Silva',
+    foto: 'https://avatars0.githubusercontent.com/u/48761719?s=460&u=78ec251e3d865694c9f6cf3f05935b654502da9c&v=4',
+    nomeDoProjeto: 'RubyFlix',
+    url: 'https://rubyflix.vercel.app/',
+    tags: [
+      'front end',
+      'back end with ruby',
+      'TDD',
+      'Capybara',
+      'rspec',
+    ],
+  },
 ];
