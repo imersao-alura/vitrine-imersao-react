@@ -33,4 +33,18 @@ export default [
       'música',
     ],
   },
+  {
+    nome: 'Daniel Georges',
+    foto: 'https://avatars3.githubusercontent.com/u/64383305?s=460&v=4',
+    nomeDoProjeto: 'TrailerFlix',
+    url: 'https://trailerflix.vercel.app/',
+    tags: [
+      'front end',
+      'filmes',
+      'trailers',
+      'games',
+      'movies',
+      'lançamentos,
+    ],
+  },
 ];
