@@ -26,11 +26,11 @@ export default [
     nome: 'Mario Souto',
     foto: 'https://avatars1.githubusercontent.com/u/13791385?s=460&u=6f629f0aa7530d62552d7b746fc106531588f638&v=4',
     nomeDoProjeto: 'DevSoutinhoFlix',
-    url: 'https://www.netflix.com/',
+    url: 'https://devsoutinhoflix.com.br/',
     tags: [
-      'front end',
+      'tecnologia',
+      'games',
       'filmes',
-      'música',
     ],
   },
 ];
