@@ -26,11 +26,39 @@ export default [
     nome: 'Mario Souto',
     foto: 'https://avatars1.githubusercontent.com/u/13791385?s=460&u=6f629f0aa7530d62552d7b746fc106531588f638&v=4',
     nomeDoProjeto: 'DevSoutinhoFlix',
-    url: 'https://www.netflix.com/',
+    url: 'https://devsoutinhoflix.com.br/',
+    tags: [
+      'front-end',
+      'back-end',
+      'data science',
+      'tecnologia',
+      'games',
+      'filmes',
+    ],
+  },
+  {
+    nome: 'Vinicius Santos',
+    foto: 'https://avatars1.githubusercontent.com/u/62895999?s=460&u=90819b38224622bceb1b6f55d1bde2dae94d469f&v=4',
+    nomeDoProjeto: 'Viniflix',
+    url: 'https://viniflix.vercel.app/',
     tags: [
       'front end',
       'filmes',
       'música',
+    ],
+  },
+  {
+    nome: 'Stefânio Jr.',
+    foto: 'https://avatars0.githubusercontent.com/u/52108997?s=460&u=1c2893ad23d13844d3ced5d17970dfed772c61ce&v=4',
+    nomeDoProjeto: 'indieflix',
+    url: 'https://indieflix.vercel.app/',
+    tags: [
+      'livros',
+      'filmes',
+      'música',
+      'jogos',
+      'indie',
+      'folk'
     ],
   },
   {
@@ -42,6 +70,6 @@ export default [
       'Carreira',
       'Programação',
       'Desenvolvimento',
-    ],
-  },
+    ]
+  }
 ];
