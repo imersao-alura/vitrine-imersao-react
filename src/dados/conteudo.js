@@ -71,5 +71,19 @@ export default [
       'Programação',
       'Desenvolvimento',
     ]
-  }
+  },
+  {
+    nome: 'Marcos Alexandre dos Anjos',
+    foto: 'https://avatars2.githubusercontent.com/u/32145970?s=460&u=ec5ad3525963f3e636179eeb1a55b696a56ead08&v=4',
+    nomeDoProjeto: 'marcolaFlix',
+    url: 'https://marcola-flix.vercel.app/',
+    tags: [
+      'front-end',
+      'back-end',
+      'data science',
+      'tecnologia',
+      'games',
+      'filmes',
+    ]
+  },
 ];
