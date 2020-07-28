@@ -33,4 +33,14 @@ export default [
       'música',
     ],
   },
+    {
+    nome: 'Luís Henrique',
+    foto: 'https://avatars2.githubusercontent.com/u/63956850?s=460&u=96dcd152ff4caea77ab8eb01757d1015b4943b3d&v=4',
+    nomeDoProjeto: 'LigaFlix',
+    url: 'https://liga-flix.vercel.app/',
+    tags: [
+      'filmes',
+      'música',
+    ],
+  },
 ];
