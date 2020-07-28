@@ -33,4 +33,15 @@ export default [
       'música',
     ],
   },
+  {
+    nome: 'Higor Pires Oliveira',
+    foto: 'https://avatars1.githubusercontent.com/u/13791385?s=460&u=6f629f0aa7530d62552d7b746fc106531588f638&v=4',
+    nomeDoProjeto: 'Higorflix',
+    url: 'https://higorflix.vercel.app/',
+    tags: [
+      'front end',
+      'programação',
+      'back-end'
+    ],
+  },
 ];
