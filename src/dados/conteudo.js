@@ -33,4 +33,16 @@ export default [
       'música',
     ],
   },
+  {
+    nome: 'Jonathan Kevin',
+    foto: 'https://avatars2.githubusercontent.com/u/60829107?s=460&u=cb3a5b2374b5a035e1b07e548bff872013ff9a93&v=4',
+    nomeDoProjeto: 'Gameflix',
+    url: 'https://gameflix-gules.vercel.app/',
+    tags: [
+      'Games',
+      'filmes',
+      'gameplays',
+      'jogos',
+    ],
+  },
 ];
