@@ -22,22 +22,30 @@ A ideia das tags é facilitar a busca por algum conteúdo específico, então vo
 ##### Categorias Cadastradas
 
 <table>
-  <tr>
-    <td>back end</td>
-    <td>data science</td>
-    <td>filmes</td>
-    <td>folk</td>
-    <td>front end</td>
-  </tr>
-  <tr>
-    <td>indie</td>
-    <td>jogos</td>
-    <td>livros</td>
-    <td>música</td>
-    <td>séries </td>
-  </tr>
-  <tr>
-    <td>tecnologia </td>
-    <td></td>
-  </tr>
+	<tr>
+		<td>animes</td>
+		<td>aprendendo a aprender</td>
+		<td>back end</td>
+		<td>data science</td>
+		<td>filmes</td>
+	</tr>
+	<tr>
+		<td>folk</td>
+		<td>front end</td>
+		<td>indie</td>
+		<td>inglês</td>
+		<td>inteligência artificial</td>
+	</tr>
+	<tr>
+		<td>jogos</td>
+		<td>league of legends</td>
+		<td>livros</td>
+		<td>matemática</td>
+		<td>música</td>
+	</tr>
+	<tr>
+		<td>podcast</td>
+		<td>séries</td>
+		<td>tecnologia</td>
+	</tr>
 </table>
