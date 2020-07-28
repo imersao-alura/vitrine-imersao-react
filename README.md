@@ -21,17 +21,21 @@ Você pode escolher entre as categorias existentes ou adicionar uma nova.
 
 <table>
   <tr>
-    <td style="text-align: center;">back end</td>
+    <td>back end</td>
     <td>data science</td>
     <td>filmes</td>
+    <td>folk</td>
     <td>front end</td>
-    <td>jogos</td>
   </tr>
   <tr>
+    <td>indie</td>
+    <td>jogos</td>
+    <td>livros</td>
     <td>música</td>
     <td>séries </td>
+  </tr>
+  <tr>
     <td>tecnologia </td>
-    <td></td>
     <td></td>
   </tr>
 </table>
