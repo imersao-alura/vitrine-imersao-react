@@ -61,4 +61,15 @@ export default [
       'folk'
     ],
   },
+  {
+    nome: 'Caroline Santos',
+    foto: 'https://avatars3.githubusercontent.com/u/46604781?s=460&u=fa367e816e616880e5dfd9aa8979d2e88b22b178&v=4',
+    nomeDoProjeto: 'DevFlix',
+    url: 'https://devflix.carolinesantosalves.vercel.app/',
+    tags: [
+      'Carreira',
+      'Programação',
+      'Desenvolvimento',
+    ]
+  }
 ];
