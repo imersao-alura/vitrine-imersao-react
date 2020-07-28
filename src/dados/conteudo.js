@@ -28,6 +28,9 @@ export default [
     nomeDoProjeto: 'DevSoutinhoFlix',
     url: 'https://devsoutinhoflix.com.br/',
     tags: [
+      'front-end',
+      'back-end',
+      'data science',
       'tecnologia',
       'games',
       'filmes',
