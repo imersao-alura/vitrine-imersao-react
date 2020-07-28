@@ -39,7 +39,7 @@ export default [
     nomeDoProjeto: 'AndersonDiasFlix',
     url: 'https://andersonflix.vercel.app',
     tags: [
-      'heavy metal,
+      'heavy metal',
       'filmes',
       'séries',
       'ciência',
