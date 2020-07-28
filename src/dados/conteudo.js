@@ -71,5 +71,20 @@ export default [
       'Programação',
       'Desenvolvimento',
     ]
-  }
+  },
+  {
+    nome: 'Eliezer Garbin',
+    foto: 'https://avatars0.githubusercontent.com/u/59988262?s=460&u=6a0445314e2c6a6318c498dad61c55a368b0acaa&v=4',
+    nomeDoProjeto: 'Devflix',
+    url: 'https://devflix-eg.vercel.app/',
+    tags: [
+      'front end',
+      'back end',
+      'matemática',
+      'inglês',
+      'Aprendendo a aprender',
+      'Data Science',
+      'Inteligência Artificial',
+    ],
+  },
 ];
