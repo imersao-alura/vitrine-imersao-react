@@ -24,9 +24,23 @@ export default [
   },
   {
     nome: 'Mario Souto',
-    foto: 'https://avatars1.githubusercontent.com/u/13791385?s=460&u=6f629f0aa7530d62552d7b746fc106531588f638&v=4',
-    nomeDoProjeto: 'DevSoutinhoFlix',
+    foto: 'https://avatars3.githubusercontent.com/u/68758215?s=460&u=e996ee6ea0fdc629a90e2eb69d389b5cca9f362e&v=4',
+    nomeDoProjeto: 'MusicFlix',
     url: 'https://www.netflix.com/',
+    tags: [
+      'front end',
+      'filmes',
+      'música',
+      'jogos',
+      'web',
+      'react',
+    ],
+  },
+  {
+    nome: 'Bruno Dias',
+    foto: 'https://avatars1.githubusercontent.com/u/13791385?s=460&u=6f629f0aa7530d62552d7b746fc106531588f638&v=4',
+    nomeDoProjeto: 'MusicFlix',
+    url: 'https://musicflix-nu.vercel.app/',
     tags: [
       'front end',
       'filmes',
