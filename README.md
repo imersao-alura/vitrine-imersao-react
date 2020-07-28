@@ -1,5 +1,7 @@
 # Vitrine Imersão React Alura
 
+Você pode conferir a vitrine [aqui](https://vitrine-imersao-react.vercel.app/).
+
 ### Como subir o seu projeto?
 
 Caso prefira, você também pode acompanhar [esse vídeo da Ju Negreiros](https://youtu.be/4qy23EulMbw) explicando como subir o seu projeto.
