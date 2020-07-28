@@ -25,7 +25,7 @@ Você pode escolher entre as categorias existentes ou adicionar uma nova.
     <td>data science</td>
     <td>filmes</td>
     <td>front end</td>
-    <td>games</td>
+    <td>jogos</td>
   </tr>
   <tr>
     <td>música</td>
