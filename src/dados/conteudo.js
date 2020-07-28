@@ -47,4 +47,18 @@ export default [
       'música',
     ],
   },
+  {
+    nome: 'Stefânio Jr.',
+    foto: 'https://avatars0.githubusercontent.com/u/52108997?s=460&u=1c2893ad23d13844d3ced5d17970dfed772c61ce&v=4',
+    nomeDoProjeto: 'indieflix',
+    url: 'https://indieflix.vercel.app/',
+    tags: [
+      'livros',
+      'filmes',
+      'música',
+      'jogos',
+      'indie',
+      'folk'
+    ],
+  },
 ];
