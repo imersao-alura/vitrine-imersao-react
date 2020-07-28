@@ -36,4 +36,15 @@ export default [
       'filmes',
     ],
   },
+  {
+    nome: 'Vinicius Santos',
+    foto: 'https://avatars1.githubusercontent.com/u/62895999?s=460&u=90819b38224622bceb1b6f55d1bde2dae94d469f&v=4',
+    nomeDoProjeto: 'Viniflix',
+    url: 'https://viniflix.vercel.app/',
+    tags: [
+      'front end',
+      'filmes',
+      'música',
+    ],
+  },
 ];
