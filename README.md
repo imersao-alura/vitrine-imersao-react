@@ -19,5 +19,19 @@ Você pode escolher entre as categorias existentes ou adicionar uma nova.
 
 ##### Categorias Cadastradas
 
-| back end | data science | filmes | front end | 
-| games | música | séries | tecnologia |
+<table>
+  <tr>
+    <td>back end</td>
+    <td>data science</td>
+    <td>filmes</td>
+    <td>front end</td>
+    <td>games</td>
+  </tr>
+  <tr>
+    <td>música</td>
+    <td>séries </td>
+    <td>tecnologia </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+</table>
