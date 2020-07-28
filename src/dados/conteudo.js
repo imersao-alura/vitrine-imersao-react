@@ -33,4 +33,19 @@ export default [
       'música',
     ],
   },
+    {
+    nome: 'Augusto Calandrino',
+    foto: 'https://avatars2.githubusercontent.com/u/22560579?s=460&u=2df440a73ddf28bfafa837364a9ab1bd755a2b20&v=4',
+    nomeDoProjeto: 'code4gflix',
+    url: 'https://code-4gflix.vercel.app/',
+    tags: [
+      'Dev',
+      'Data Science'
+      'Front end'
+      'Business Analytics'
+      'Business Intelligence'
+      'filmes',
+      'música',
+    ],
+  },
 ];
