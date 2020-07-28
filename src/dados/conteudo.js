@@ -33,4 +33,15 @@ export default [
       'música',
     ],
   },
+  {
+    nome: 'João Felipe',
+    foto: 'https://avatars3.githubusercontent.com/u/65171379?s=460&u=54a50e130dd83d160199635d6d976624283e6d2c&v=4',
+    nomeDoProjeto: 'CapengaFlix',
+    url: 'https://capengaflix.vercel.app/',
+    tags: [
+      'front end',
+      'filmes',
+      'música',
+    ],
+  },
 ];
