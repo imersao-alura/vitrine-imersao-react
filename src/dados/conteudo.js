@@ -113,4 +113,15 @@ export default [
       'animes',
     ],
   },
+  {
+    nome: 'Bruno Pulis',
+    foto: 'https://avatars3.githubusercontent.com/u/1204692?s=460&v=4',
+    nomeDoProjeto: 'Brazillian Guitar',
+    url: 'https://brazillian-guitar-flix.vercel.app/',
+    tags: [
+      'violão',
+      'brazil',
+      'música'
+    ],
+  }
 ];
