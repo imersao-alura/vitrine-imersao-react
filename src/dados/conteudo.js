@@ -33,4 +33,27 @@ export default [
       'música',
     ],
   },
+  
+   {
+    nome: 'Deivid Almeida',
+    foto: 'https://avatars1.githubusercontent.com/u/61792159?s=460&u=a5311a9b0e24a80c478398023b48879cf7b54d96&v=4',
+    nomeDoProjeto: 'DEVFLIX',
+    url: 'https://devflixbr.netlify.app/',
+    tags: [
+      'inicianteProgramação',
+      'trabalhar no exterior',
+      'filmes relacionados a programação',
+      'música',
+      'back-end',
+      'front-end',
+      'inteligencia Artificial',
+      'JavaScript do zero',
+      'carreiras e negócios',
+      'startup',
+      'renda extra programação',
+      'movies',
+      'musics',
+      'series'
+    ],
+  },
 ];
