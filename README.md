@@ -21,7 +21,7 @@ Você pode escolher entre as categorias existentes ou adicionar uma nova.
 
 <table>
   <tr>
-    <td stule="text-align: center;">back end</td>
+    <td style="text-align: center;">back end</td>
     <td>data science</td>
     <td>filmes</td>
     <td>front end</td>
@@ -31,7 +31,7 @@ Você pode escolher entre as categorias existentes ou adicionar uma nova.
     <td>música</td>
     <td>séries </td>
     <td>tecnologia </td>
-    <td> </td>
-    <td> </td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
