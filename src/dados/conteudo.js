@@ -46,6 +46,16 @@ export default [
       'filmes',
       'música',
     ],
+  },{
+    nome: 'Juan Oaski',
+    foto: 'https://avatars2.githubusercontent.com/u/11061630?s=400&v=4',
+    nomeDoProjeto: 'jopflix',
+    url: 'https://jopflix.vercel.app/',
+    tags: [
+      'front end',
+      'filmes',
+      'música',
+    ],
   },
   {
     nome: 'Stefânio Jr.',
