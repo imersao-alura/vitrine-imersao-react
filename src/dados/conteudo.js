@@ -40,7 +40,7 @@ export default [
     url: 'https://bateraflix.vercel.app/',
     tags: [
       'front end',
-      'videos',
+      'vídeos',
       'música',
       'bateria',
       'instrumentos musicais'
