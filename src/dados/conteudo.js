@@ -33,4 +33,15 @@ export default [
       'música',
     ],
   },
+    {
+    nome: 'Paulo Henrique Gomes',
+    foto: 'https://avatars2.githubusercontent.com/u/1606453?s=400&u=495056a8dd4205cff7aa85b1053a0d84d34e2152&v=4',
+    nomeDoProjeto: 'DudaFlix',
+    url: 'https://dudaflix.vercel.app/',
+    tags: [
+      'front end',
+      'filmes',
+      'música',
+    ],
+  },
 ];
