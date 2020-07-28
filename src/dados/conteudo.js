@@ -84,7 +84,7 @@ export default [
       'inglês',
       'Aprendendo a aprender',
       'Data Science',
-      'Inteligência Artificia',
+      'Inteligência Artificial',
     ],
   },
 ];
