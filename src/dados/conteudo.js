@@ -33,4 +33,15 @@ export default [
       'música',
     ],
   },
+  {
+    nome: 'Nurian Coelho',
+    foto: 'https://avatars2.githubusercontent.com/u/50783727?s=460&u=f5ac94a764a403a830dc47a69729284e177bb449&v=4',
+    nomeDoProjeto: 'NuFlix',
+    url: 'https://nuflix.vercel.app/',
+    tags: [
+      'front end',
+      'back-end',
+      'Aprender',
+    ],
+  },
 ];
