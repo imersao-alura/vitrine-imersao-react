@@ -33,4 +33,19 @@ export default [
       'música',
     ],
   },
+  {
+    nome: 'Anderson O. Felizardo',
+    foto: 'https://avatars0.githubusercontent.com/u/50715613?s=460&u=0f62d7e605522755ca003a5c881015d50002d453&v=4',
+    nomeDoProjeto: 'ObeFlix',
+    url: 'https://obeflix.vercel.app/',
+    tags: [
+      'dev',
+      'filmes',
+      'música',
+      'nerdice',
+      'games',
+      'tech',
+      'inglês',
+    ],
+  },
 ];
