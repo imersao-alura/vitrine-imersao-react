@@ -21,7 +21,7 @@ Você pode escolher entre as categorias existentes ou adicionar uma nova.
 
 <table>
   <tr>
-    <td>back end</td>
+    <td stule="text-align: center;">back end</td>
     <td>data science</td>
     <td>filmes</td>
     <td>front end</td>
