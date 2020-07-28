@@ -33,4 +33,16 @@ export default [
       'música',
     ],
   },
+  {
+    nome: 'Anderson Dias',
+    foto: 'https://avatars2.githubusercontent.com/u/1341627?s=460&u=27c7097332d79c4a86cf212393d00b88fc1be289&v=4',
+    nomeDoProjeto: 'AndersonDiasFlix',
+    url: 'https://andersonflix.vercel.app',
+    tags: [
+      'heavy metal,
+      'filmes',
+      'séries',
+      'ciência',
+    ],
+  },
 ];
