@@ -33,4 +33,18 @@ export default [
       'música',
     ],
   },
+  {
+    nome: 'Ana Carolina Ferreira',
+    foto: 'https://avatars1.githubusercontent.com/u/32943355?s=460&u=e4aec1c1700a4cca2bc4b5100116486a145712c5&v=4',
+    nomeDoProjeto: 'CarolFlix',
+    url: 'https://carolflix-ten.vercel.app/',
+    tags: [
+      'front end',
+      'back-end',
+      'Canais de Programação',
+      'música',
+      'filmes',
+      'series',
+    ],
+  },
 ];
