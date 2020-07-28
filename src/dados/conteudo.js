@@ -33,4 +33,16 @@ export default [
       'música',
     ],
   },
+  {
+    nome: 'Nadia Ligia',
+    foto: 'https://avatars2.githubusercontent.com/u/66634283?s=460&u=831487dcfed5f2a7d86c971ed1dc376b1a718509&v=4',
+    nomeDoProjeto: 'StarDevFlix',
+    url: 'https://stardevflix.vercel.app/',
+    tags: [
+      'inspiração',
+      'filmes',
+      'música',
+      'comédia',
+    ],
+  },
 ];
