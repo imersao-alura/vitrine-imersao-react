@@ -33,4 +33,15 @@ export default [
       'música',
     ],
   },
+   {
+    nome: 'Raphael Alves',
+    foto: 'https://avatars2.githubusercontent.com/u/42312289?s=460&u=bae1cdf805e7797f3d6bd3ba9e706024181a35b2&v=4',
+    nomeDoProjeto: 'YvisFlix',
+    url: 'https://yvisflix.vercel.app/',
+    tags: [
+      'música',
+      'filmes',
+      'séries',
+    ],
+  },
 ];
