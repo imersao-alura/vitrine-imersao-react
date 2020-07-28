@@ -35,7 +35,7 @@ export default [
   },
   {
     nome: 'Higor Pires Oliveira',
-    foto: 'https://avatars1.githubusercontent.com/u/13791385?s=460&u=6f629f0aa7530d62552d7b746fc106531588f638&v=4',
+    foto: 'https://avatars1.githubusercontent.com/u/46327961?s=460&u=dddbb4f855239429e10dfe97abcddb2e446c9668&v=4',
     nomeDoProjeto: 'Higorflix',
     url: 'https://higorflix.vercel.app/',
     tags: [
