@@ -71,5 +71,17 @@ export default [
       'Programação',
       'Desenvolvimento',
     ]
+  },
+  {
+    nome: 'Jhonata Galante',
+    foto: 'https://avatars0.githubusercontent.com/u/16074925?s=460&u=ed25c17c1be881f20d1f59537173f1723d174ddc&v=4',
+    nomeDoProjeto: 'JhonFlix',
+    url: 'https://jhonflix-git-master.jhongalante.vercel.app/',
+    tags: [
+      'animes',
+      'amvs',
+      'openings',
+      'endings',
+    ],
   }
 ];
