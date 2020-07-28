@@ -99,7 +99,7 @@ export default [
       'música',
       'podcast',
       'jogos',
-      'series',
+      'séries',
     ],
   }
 ];
