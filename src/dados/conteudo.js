@@ -33,4 +33,15 @@ export default [
       'música',
     ],
   },
+  {
+    nome: 'Luiz Augusto',
+    foto: 'https://avatars1.githubusercontent.com/u/4944479?s=460&v=4',
+    nomeDoProjeto: 'MyFlix',
+    url: 'https://www.netflix.com/',
+    tags: [
+      'front end',
+      'filmes',
+      'música',
+    ],
+  }
 ];
