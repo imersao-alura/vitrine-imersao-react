@@ -36,12 +36,12 @@ export default [
   {
     nome: 'Luiz Augusto',
     foto: 'https://avatars1.githubusercontent.com/u/4944479?s=460&v=4',
-    nomeDoProjeto: 'MyFlix',
-    url: 'https://www.netflix.com/',
+    nomeDoProjeto: 'The RPG Reflix',
+    url: 'https://therpgreflix.vercel.app/',
     tags: [
-      'front end',
-      'filmes',
-      'música',
+      'MMORPG',
+      'ARPG',
+      'JRPG',
     ],
   }
 ];
