@@ -13,3 +13,11 @@ Para subir o seu projeto na nossa vitrine, você deve:
 1. Abrir um Pull Request da branch master do seu projeto para a branch master desse repositório
 1. Aguardar o nosso aceite da sua Pull Request!
 
+### Quais categorias adicionar no seu projeto?
+
+Você pode escolher entre as categorias existentes ou adicionar uma nova.
+
+##### Categorias Cadastradas
+
+| back end | data science | filmes | front end | 
+| games | música | séries | tecnologia |
