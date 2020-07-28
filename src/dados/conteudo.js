@@ -41,8 +41,8 @@ export default [
     tags: [
       'front end',
       'back end',
-      'matematica',
-      'ingles',
+      'matemática',
+      'inglês',
       'Aprendendo a aprender',
       'Data Science',
       'Inteligência Artificia',
