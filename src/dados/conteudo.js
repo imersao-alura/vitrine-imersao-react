@@ -33,4 +33,15 @@ export default [
       'música',
     ],
   },
+  {
+    nome: 'Diego Almeida',
+    foto: 'https://avatars0.githubusercontent.com/u/64554471?s=460&u=d27198722cc7bee7f7750aa3bc3cdbbc2c907ed3&v=4',
+    nomeDoProjeto: 'Metal Music',
+    url: 'https://metalmusic.netlify.app/',
+    tags: [
+      'front end',
+      'metal',
+      'música',
+    ],
+  },
 ];
