@@ -42,9 +42,7 @@ export default [
       'front end',
       'filmes',
       'trailers',
-      'games',
-      'movies',
-      'lançamentos,
+      'jogos',
     ],
   },
 ];
