@@ -33,4 +33,16 @@ export default [
       'música',
     ],
   },
+  {
+    nome: 'Marcela Mancino',
+    foto: 'https://avatars1.githubusercontent.com/u/39445836?s=460&u=a74b7c518b45d56b2490517bf6fac434bed5e83b&v=4',
+    nomeDoProjeto: 'Paranáflix',
+    url: 'https://paranaflix.vercel.app/',
+    tags: [
+      'paraná',
+      'filmes',
+      'cinema',
+      'arte'
+    ],
+  }
 ];
