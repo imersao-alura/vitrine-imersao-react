@@ -44,6 +44,5 @@ export default [
       'front-end',
       'back-end',
       'data science',
-      'cuba',
       ],
   },
