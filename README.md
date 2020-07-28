@@ -17,7 +17,7 @@ Para alterações, não esqueça de dar um rebase no projeto!
 
 ### Quais categorias adicionar no seu projeto?
 
-Você pode escolher entre as categorias existentes ou adicionar uma nova.
+A ideia das tags é facilitar a busca por algum conteúdo específico, então você pode escolher entre as categorias existentes ou adicionar uma nova.
 
 ##### Categorias Cadastradas
 
