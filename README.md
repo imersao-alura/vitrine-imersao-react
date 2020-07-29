@@ -37,30 +37,51 @@ Como a ideia das tags é facilitar a busca através de categorias, você pode es
 		<td>aprendendo a aprender</td>
 		<td>back end</td>
 		<td>bateria</td>
+		<td>copywriting</td>
+	</tr>
+	<tr>
+		<td>crossfit</td>
 		<td>data science</td>
+		<td>carreira</td>
+		<td>desenvolvimento</td>
+		<td>devops</td>
 	</tr>
 	<tr>
 		<td>filmes</td>
 		<td>folk</td>
 		<td>front end</td>
+		<td>humor</td>
 		<td>indie</td>
-		<td>inglês</td>
 	</tr>
 	<tr>
+		<td>inglês</td>
 		<td>instrumentos musicais</td>
 		<td>inteligência artificial</td>
+		<td>investimentos</td>
 		<td>jogos</td>
+	</tr>
+	<tr>
 		<td>league of legends</td>
 		<td>livros</td>
+		<td>marketing</td>
+		<td>matemática</td>
+		<td>metal</td>
 	</tr>
 	<tr>
-		<td>matemática</td>
 		<td>música</td>
 		<td>podcast</td>
+		<td>rap</td>
+		<td>react</td>
 		<td>séries</td>
-		<td>tecnologia</td>
 	</tr>
 	<tr>
+		<td>snipers</td>
+		<td>tecnologia</td>
+		<tr>trailers</tr>
+		<td>trap</td>
 		<td>vídeos</td>
+	</tr>
+	<tr>
+		<td>vídeo clipes</td>
 	</tr>
 </table>
