@@ -26,26 +26,31 @@ A ideia das tags é facilitar a busca por algum conteúdo específico, então vo
 		<td>animes</td>
 		<td>aprendendo a aprender</td>
 		<td>back end</td>
+		<td>bateria</td>
 		<td>data science</td>
-		<td>filmes</td>
 	</tr>
 	<tr>
+		<td>filmes</td>
 		<td>folk</td>
 		<td>front end</td>
 		<td>indie</td>
 		<td>inglês</td>
-		<td>inteligência artificial</td>
 	</tr>
 	<tr>
+		<td>instrumentos musicais</td>
+		<td>inteligência artificial</td>
 		<td>jogos</td>
 		<td>league of legends</td>
 		<td>livros</td>
-		<td>matemática</td>
-		<td>música</td>
 	</tr>
 	<tr>
+		<td>matemática</td>
+		<td>música</td>
 		<td>podcast</td>
 		<td>séries</td>
 		<td>tecnologia</td>
+	</tr>
+	<tr>
+		<td>vídeos</td>
 	</tr>
 </table>
