@@ -217,4 +217,18 @@ export default [
       'devops',
     ]
   },
+  {
+    nome: 'Rayon Lindraz Nunes',
+    redeSocial: 'https://instagram.com/rayonnunes',
+    foto: 'https://avatars2.githubusercontent.com/u/13816352?s=460&u=951f0beff58adc4c201448b514f5171b98323c10&v=4',
+    nomeDoProjeto: 'Rayonix',
+    url: 'https://rayonix.vercel.app/',
+    tags: [
+      'ciencia',
+      'tecnologia',
+      'filosofia',
+      'música',
+      'games',
+    ],
+  },
 ];
