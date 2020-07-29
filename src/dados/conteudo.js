@@ -299,4 +299,16 @@ export default [
       'séries',
     ],
   },
+  {
+    nome: 'Morgana Albuquerque',
+    foto: 'https://avatars0.githubusercontent.com/u/48961500',
+    nomeDoProjeto: 'Prideflix',
+    url: 'prideflix.vercel.app/',
+    tags: [
+      'indicações',
+      'arte',
+      'música',
+      'cinema',
+    ],
+  },
 ];
