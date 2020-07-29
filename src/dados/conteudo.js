@@ -41,7 +41,6 @@ export default [
     tags: [
       'front end',
       'back end',
-      'devops',
     ],
   },
 ];
