@@ -40,7 +40,8 @@ export default [
     url: 'https://rubyflix.vercel.app/',
     tags: [
       'front end',
-      'back end with ruby',
+      'back end',
+      'ruby',
       'TDD',
       'Capybara',
       'rspec',
