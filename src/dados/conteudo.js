@@ -217,4 +217,16 @@ export default [
       'devops',
     ],
   },
+  {
+    nome: 'Aline Naoe',
+    foto: 'https://avatars0.githubusercontent.com/u/33556958?s=460&u=621ac119698e36911bd1d9518cf26dc66678041d&v=4',
+    nomeDoProjeto: 'Veggielix',
+    url: 'https://veggieflix.vercel.app/',
+    tags: [
+      'receitas',
+      'vegetarianismo',
+      'vegan',
+      'comida'
+    ],
+  },
 ];
