@@ -158,5 +158,18 @@ export default [
       'programação',
       'back end',
     ]
-  }
+  },
+  {    
+    nome: 'Miguel Lima',
+    foto: 'https://avatars0.githubusercontent.com/u/50017221?s=460&u=473b9095cca4ecde42cb46ec2c32dd274da30a95&v=4',
+    nomeDoProjeto: 'GnomoFlix',
+    url: 'https://gnomoflix.vercel.app/',
+    tags: [
+      'snipers',
+      'humor',
+      'crossfit',
+      'react',
+      'front end',
+    ],
+  },
 ];
