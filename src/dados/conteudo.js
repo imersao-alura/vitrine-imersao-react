@@ -299,4 +299,15 @@ export default [
       'séries',
     ],
   },
+  {
+    nome: 'Daniel Nergisoli Batista',
+    foto: 'hhttps://lh3.googleusercontent.com/ogw/ADGmqu8_PtS80rFSR70taHDGvn_9LJW0dPbjEytAGvtE=s83-c-mo',
+    nomeDoProjeto: 'BookFlix',
+    url: 'https://react-bookflix.vercel.app/',
+    tags: [
+      'livros',
+      'resenhas',
+      'resenhas em videos'
+    ],
+  },
 ];
