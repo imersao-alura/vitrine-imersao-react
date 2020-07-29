@@ -217,4 +217,15 @@ export default [
       'devops',
     ]
   },
+    {
+    nome: 'Victor Akio',
+    foto: 'https://avatars0.githubusercontent.com/u/36519906?s=460&v=4',
+    nomeDoProjeto: 'Akioflix',
+    url: 'https://akioflix.vercel.app/',
+    tags: [
+      'front end',
+      'react',
+      'javascript',
+    ]
+  },
 ];
