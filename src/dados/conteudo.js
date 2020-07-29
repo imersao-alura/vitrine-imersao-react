@@ -148,4 +148,15 @@ export default [
       'jogos',
     ],
   },
+  {
+    nome: 'Higor Pires Oliveira',
+    foto: 'https://avatars1.githubusercontent.com/u/46327961?s=460&u=dddbb4f855239429e10dfe97abcddb2e446c9668&v=4',
+    nomeDoProjeto: 'Higorflix',
+    url: 'https://higorflix.vercel.app/',
+    tags: [
+      'front end',
+      'programação',
+      'back end',
+    ]
+  }
 ];
