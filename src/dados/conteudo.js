@@ -217,4 +217,18 @@ export default [
       'devops',
     ]
   },
+  {
+    nome: 'Hélio Akio Shinohara',
+    foto: 'https://avatars3.githubusercontent.com/u/38836108?s=460&v=4',
+    nomeDoProjeto: 'ShinoharaFlix',
+    url: 'https://shinoharaflix.vercel.app/',
+    tags: [
+      'animes',
+      'gamedev',
+      'create-react',
+      'front end',
+      'back end',
+      'produtividade'
+    ]
+  },
 ];
