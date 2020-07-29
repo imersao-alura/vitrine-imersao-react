@@ -28,8 +28,8 @@ export default [
     nomeDoProjeto: 'DevSoutinhoFlix',
     url: 'https://devsoutinhoflix.com.br/',
     tags: [
-      'front-end',
-      'back-end',
+      'front end',
+      'back end',
       'data science',
       'tecnologia',
       'games',
@@ -46,7 +46,7 @@ export default [
       'filmes',
       'música',
     ],
-  },{
+  }, {
     nome: 'Juan Oaski',
     foto: 'https://avatars2.githubusercontent.com/u/11061630?s=400&v=4',
     nomeDoProjeto: 'jopflix',
@@ -68,7 +68,7 @@ export default [
       'música',
       'jogos',
       'indie',
-      'folk'
+      'folk',
     ],
   },
   {
@@ -80,7 +80,7 @@ export default [
       'Carreira',
       'Programação',
       'Desenvolvimento',
-    ]
+    ],
   },
   {
     nome: 'Eliezer Garbin',
@@ -123,7 +123,7 @@ export default [
       'animes',
     ],
   },
-    {
+  {
     nome: 'Michael Nascimento',
     foto: 'https://avatars2.githubusercontent.com/u/35317401?s=460&u=53f0a76fbf41bafa9f776c73d87ba73aefe0ff62&v=4',
     nomeDoProjeto: 'Bateraflix',
@@ -133,7 +133,7 @@ export default [
       'vídeos',
       'música',
       'bateria',
-      'instrumentos musicais'
+      'instrumentos musicais',
     ],
   },
   {
@@ -157,9 +157,9 @@ export default [
       'front end',
       'programação',
       'back end',
-    ]
+    ],
   },
-  {    
+  {
     nome: 'Miguel Lima',
     foto: 'https://avatars0.githubusercontent.com/u/50017221?s=460&u=473b9095cca4ecde42cb46ec2c32dd274da30a95&v=4',
     nomeDoProjeto: 'GnomoFlix',
@@ -182,7 +182,7 @@ export default [
       'rap',
       'trap',
       'música',
-    ]
+    ],
   },
   {
     nome: 'Diego Almeida',
@@ -215,6 +215,6 @@ export default [
       'front end',
       'back end',
       'devops',
-    ]
+    ],
   },
 ];
