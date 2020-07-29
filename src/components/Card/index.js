@@ -23,7 +23,7 @@ https://api.screenshotmachine.com?key=296fe8&url=${url}&dimension=1024x768
           <Tag>{tag}</Tag>
         ))}
         {
-          quantityPopoverTags
+          tags.length > 3
             ? (
               <Popover tags={tagsPopover}>
                 <Tag>
