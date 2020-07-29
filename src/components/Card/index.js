@@ -3,6 +3,7 @@ import propTypes from 'prop-types';
 
 import { CardWrapper, Tags, Tag } from './style';
 import Info from './Info';
+import Popover from '../Popover';
 
 const Card = ({
   nome, redeSocial, foto, nomeDoProjeto, url, tags,
@@ -11,22 +12,26 @@ const Card = ({
 https://api.screenshotmachine.com?key=296fe8&url=${url}&dimension=1024x768
   `;
 
-  const quantidadeDeTagsInvisiveis = tags.length - 3;
+  const visibleTags = tags.slice(0, 3);
+  const quantityPopoverTags = tags.length - 3;
+  const tagsPopover = tags.slice(3, tags.length);
 
   return (
     <CardWrapper thumbnail={thumbnail}>
       <Tags>
-        {tags.slice(0, 3).map((tag) => (
+        {visibleTags.map((tag) => (
           <Tag>{tag}</Tag>
         ))}
         {
-          quantidadeDeTagsInvisiveis
+          quantityPopoverTags
             ? (
-              <Tag>
-                +
-                {' '}
-                {quantidadeDeTagsInvisiveis}
-              </Tag>
+              <Popover tags={tagsPopover}>
+                <Tag>
+                  +
+                  {' '}
+                  {quantityPopoverTags}
+                </Tag>
+              </Popover>
             )
             : ''
         }
