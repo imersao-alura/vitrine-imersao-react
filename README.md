@@ -15,9 +15,19 @@ Para subir o seu projeto na nossa vitrine, você deve:
 
 Para alterações, não esqueça de dar um rebase no projeto!
 
+
+### Quais informações posso adicionar?
+
+ - `nome`: O seu nome :)
+ - `foto`: a url da foto que você quer que apareça como sua
+ - `nomeDoProjeto`: o nome do seu projeto
+ - `url`: a url na qual o seu projeto está hospedado
+ - `tags`: em quais categorias o seu projeto irá aparecer nas buscas
+
+
 ### Quais categorias adicionar no seu projeto?
 
-A ideia das tags é facilitar a busca por algum conteúdo específico, então você pode escolher entre as categorias existentes ou adicionar uma nova.
+Como a ideia das tags é facilitar a busca através de categorias, você pode escolher entre as categorias existentes ou adicionar uma nova.
 
 ##### Categorias Cadastradas
 
