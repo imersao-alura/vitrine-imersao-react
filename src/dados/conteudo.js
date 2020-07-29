@@ -39,8 +39,8 @@ export default [
     nomeDoProjeto: 'CirinoFlix',
     url: 'https://github.com/mateus-cirino',
     tags: [
-      'programacao',
-      'series',
+      'programação',
+      'séries',
       'filmes',
     ],
   },
