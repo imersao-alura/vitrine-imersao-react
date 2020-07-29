@@ -206,4 +206,15 @@ export default [
       'copywriting',
     ],
   },
+  {
+    nome: 'Christian Testtzlaffe',
+    foto: 'https://avatars3.githubusercontent.com/u/50345995?s=460&u=44aa87e4ff3d423b7bb0566ef035f0d48bac6b00&v=4',
+    nomeDoProjeto: 'TetzFlix',
+    url: 'https://tetzflix.vercel.app/',
+    tags: [
+      'front end',
+      'back end',
+      'devops',
+    ]
+  },
 ];
