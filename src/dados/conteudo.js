@@ -39,11 +39,7 @@ export default [
     nomeDoProjeto: 'Projilme',
     url: 'https://projilme.vercel.app/',
     tags: [
-      'front end',
       'filmes',
-      'movie',
-      'filme',
-      'movies'
     ],
   },
 ];
