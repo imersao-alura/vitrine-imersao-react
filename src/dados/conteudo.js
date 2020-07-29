@@ -38,9 +38,14 @@ export default [
     nomeDoProjeto: 'jopflix',
     url: 'https://jopflix.vercel.app/',
     tags: [
-      'front end',
-      'filmes',
-      'música',
+      'carros',
+      'corridas',
+      'drift',
+      'racing',
+      'moto',
+      'motosport',
+      'motogp',
+      'rally'
     ],
   },
 ];
