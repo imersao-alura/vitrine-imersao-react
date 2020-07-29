@@ -228,4 +228,14 @@ export default [
       'devops',
     ],
   },
+  {
+    nome: 'David Alves',
+    foto: 'https://avatars2.githubusercontent.com/u/12610236?s=400&u=6045b8b2e315ca6d8d3362a70d7cbf5c64896114&v=4',
+    nomeDoProjeto: 'AwesomeFlix',
+    url: 'https://awesomeflix.netlify.app/',
+    tags: [
+      'front end',
+      'back end',
+    ]
+  },
 ];
