@@ -299,4 +299,14 @@ export default [
       'séries',
     ],
   },
+  {
+    nome: 'Maria Clara Pagotto',
+    foto: 'https://avatars0.githubusercontent.com/u/38994454?s=460&u=c1107e7508447ae483d18ad05123994f16567c6e&v=4',
+    nomeDoProjeto: 'Animalflix',
+    url: 'https://animalflix.vercel.app/',
+    tags: [
+      'animais',
+      'curiosidades',
+    ],
+  },
 ];
