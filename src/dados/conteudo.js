@@ -39,6 +39,8 @@ export default [
     nomeDoProjeto: 'The RPG Reflix',
     url: 'https://therpgreflix.vercel.app/',
     tags: [
+      'Jogos',
+      'RPG',
       'MMORPG',
       'ARPG',
       'JRPG',
