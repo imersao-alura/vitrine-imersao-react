@@ -15,9 +15,19 @@ Para subir o seu projeto na nossa vitrine, você deve:
 
 Para alterações, não esqueça de dar um rebase no projeto!
 
+
+### Quais informações posso adicionar?
+
+ - `nome`: O seu nome :)
+ - `foto`: a url da foto que você quer que apareça como sua
+ - `nomeDoProjeto`: o nome do seu projeto
+ - `url`: a url na qual o seu projeto está hospedado
+ - `tags`: em quais categorias o seu projeto irá aparecer nas buscas
+
+
 ### Quais categorias adicionar no seu projeto?
 
-A ideia das tags é facilitar a busca por algum conteúdo específico, então você pode escolher entre as categorias existentes ou adicionar uma nova.
+Como a ideia das tags é facilitar a busca através de categorias, você pode escolher entre as categorias existentes ou adicionar uma nova.
 
 ##### Categorias Cadastradas
 
@@ -26,26 +36,31 @@ A ideia das tags é facilitar a busca por algum conteúdo específico, então vo
 		<td>animes</td>
 		<td>aprendendo a aprender</td>
 		<td>back end</td>
+		<td>bateria</td>
 		<td>data science</td>
-		<td>filmes</td>
 	</tr>
 	<tr>
+		<td>filmes</td>
 		<td>folk</td>
 		<td>front end</td>
 		<td>indie</td>
 		<td>inglês</td>
-		<td>inteligência artificial</td>
 	</tr>
 	<tr>
+		<td>instrumentos musicais</td>
+		<td>inteligência artificial</td>
 		<td>jogos</td>
 		<td>league of legends</td>
 		<td>livros</td>
-		<td>matemática</td>
-		<td>música</td>
 	</tr>
 	<tr>
+		<td>matemática</td>
+		<td>música</td>
 		<td>podcast</td>
 		<td>séries</td>
 		<td>tecnologia</td>
+	</tr>
+	<tr>
+		<td>vídeos</td>
 	</tr>
 </table>

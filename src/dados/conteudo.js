@@ -46,6 +46,16 @@ export default [
       'filmes',
       'música',
     ],
+  },{
+    nome: 'Juan Oaski',
+    foto: 'https://avatars2.githubusercontent.com/u/11061630?s=400&v=4',
+    nomeDoProjeto: 'jopflix',
+    url: 'https://jopflix.vercel.app/',
+    tags: [
+      'front end',
+      'filmes',
+      'música',
+    ],
   },
   {
     nome: 'Stefânio Jr.',
@@ -112,6 +122,100 @@ export default [
       'séries',
       'animes',
     ],
+  },
+  {
+    nome: 'Michael Nascimento',
+    foto: 'https://avatars2.githubusercontent.com/u/35317401?s=460&u=53f0a76fbf41bafa9f776c73d87ba73aefe0ff62&v=4',
+    nomeDoProjeto: 'Bateraflix',
+    url: 'https://bateraflix.vercel.app/',
+    tags: [
+      'front end',
+      'vídeos',
+      'música',
+      'bateria',
+      'instrumentos musicais'
+    ],
+  }, 
+  {
+    nome: 'Daniel Georges',
+    foto: 'https://avatars3.githubusercontent.com/u/64383305?s=460&v=4',
+    nomeDoProjeto: 'TrailerFlix',
+    url: 'https://trailerflix.vercel.app/',
+    tags: [
+      'front end',
+      'filmes',
+      'trailers',
+      'jogos',
+    ],
+  },
+  {
+    nome: 'Higor Pires Oliveira',
+    foto: 'https://avatars1.githubusercontent.com/u/46327961?s=460&u=dddbb4f855239429e10dfe97abcddb2e446c9668&v=4',
+    nomeDoProjeto: 'Higorflix',
+    url: 'https://higorflix.vercel.app/',
+    tags: [
+      'front end',
+      'programação',
+      'back end',
+    ]
+  },
+  {    
+    nome: 'Miguel Lima',
+    foto: 'https://avatars0.githubusercontent.com/u/50017221?s=460&u=473b9095cca4ecde42cb46ec2c32dd274da30a95&v=4',
+    nomeDoProjeto: 'GnomoFlix',
+    url: 'https://gnomoflix.vercel.app/',
+    tags: [
+      'snipers',
+      'humor',
+      'crossfit',
+      'react',
+      'front end',
+    ],
+  },
+  {
+    nome: 'Murillo Fagundes',
+    foto: 'https://avatars3.githubusercontent.com/u/37411318?s=460&u=20172e5bffca5e7a9100b96a56e5ff9142d79210&v=4',
+    nomeDoProjeto: 'Rapflix',
+    url: 'https://reactflix-baxgrhonj.vercel.app/',
+    tags: [
+      'vídeo clipes',
+      'rap',
+      'trap',
+      'música',
+    ]
+  },
+  {
+    nome: 'Diego Almeida',
+    foto: 'https://avatars0.githubusercontent.com/u/64554471?s=460&u=d27198722cc7bee7f7750aa3bc3cdbbc2c907ed3&v=4',
+    nomeDoProjeto: 'Metal Music',
+    url: 'https://metalmusic.netlify.app/',
+    tags: [
+      'front end',
+      'metal',
+      'música',
+    ],
+  },
+  {
+    nome: 'Luiz Gustavo Togni',
+    foto: 'https://avatars1.githubusercontent.com/u/68093698?s=460&u=4282eb920a46d7e49ab54429946e1a2838e766a5&v=4',
+    nomeDoProjeto: 'Canguruflix',
+    url: 'https://canguruflix.vercel.app/',
+    tags: [
+      'marketing',
+      'investimentos',
+      'copywriting',
+    ],
+  },
+  {
+    nome: 'Christian Testtzlaffe',
+    foto: 'https://avatars3.githubusercontent.com/u/50345995?s=460&u=44aa87e4ff3d423b7bb0566ef035f0d48bac6b00&v=4',
+    nomeDoProjeto: 'TetzFlix',
+    url: 'https://tetzflix.vercel.app/',
+    tags: [
+      'front end',
+      'back end',
+      'devops',
+    ]
   },
   {
     nome: 'Bruno Pulis',
