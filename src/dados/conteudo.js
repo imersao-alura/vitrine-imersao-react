@@ -172,4 +172,16 @@ export default [
       'front end',
     ],
   },
+  {
+    nome: 'Murillo Fagundes',
+    foto: 'https://avatars3.githubusercontent.com/u/37411318?s=460&u=20172e5bffca5e7a9100b96a56e5ff9142d79210&v=4',
+    nomeDoProjeto: 'Rapflix',
+    url: 'https://reactflix-baxgrhonj.vercel.app/',
+    tags: [
+      'vídeo clipes',
+      'rap',
+      'trap',
+      'música',
+    ]
+  }
 ];
