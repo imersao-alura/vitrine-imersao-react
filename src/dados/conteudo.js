@@ -33,4 +33,17 @@ export default [
       'música',
     ],
   },
+  {
+    nome: 'Matheus Moura',
+    foto: 'https://avatars0.githubusercontent.com/u/52864773?s=460&u=40c6028b777eff371ce7bd1b73a03eb548872180&v=4',
+    nomeDoProjeto: 'Mouraflix',
+    url: 'https://mouraflix.vercel.app/',
+    tags: [
+      'desenvolvimento',
+      'curiosidades',
+      'filmes',
+      'músicas',
+      'séries',
+    ],
+  },
 ];
