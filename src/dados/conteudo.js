@@ -41,12 +41,7 @@ export default [
     tags: [
       'front end',
       'jogos',
-      'league of legends',
-      'games',
-      'diversão',
-      'lol',
-      'bronze',
-      'x1',
+      'league of legends',  
     ],
   },
 ];
