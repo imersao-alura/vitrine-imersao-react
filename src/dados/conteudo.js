@@ -39,8 +39,8 @@ export default [
     nomeDoProjeto: 'CirinoFlix',
     url: 'https://cirinoflix.vercel.app/',
     tags: [
-      'programacao',
-      'series',
+      'programação',
+      'séries',
       'filmes',
     ],
   },
