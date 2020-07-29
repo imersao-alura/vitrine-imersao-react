@@ -41,7 +41,7 @@ export default [
     tags: [
       'front end',
       'programação',
-      'back-end'
+      'back end'
     ],
   },
 ];
