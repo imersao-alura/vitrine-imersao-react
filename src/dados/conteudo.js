@@ -40,10 +40,10 @@ export default [
     url: 'https://devflix.mateuscnh.vercel.app/',
     tags: [
       'front end',
+      'back end',
       'programação',
       'computação',
       'youtube',
-      'youtubers'
     ],
   },
 ];
