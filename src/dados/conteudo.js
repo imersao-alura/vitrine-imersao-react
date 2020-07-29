@@ -41,7 +41,8 @@ export default [
     tags: [
       'front end',
       'photoshop',
-      'reviews e unboxing',
+      'reviews',
+      'unboxing',
     ],
   },
 ];
