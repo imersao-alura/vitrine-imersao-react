@@ -221,7 +221,7 @@ export default [
     nome: 'Bruno Garcia Vasconcelos',
     foto: 'https://avatars2.githubusercontent.com/u/45259198',
     nomeDoProjeto: 'DesorienPlay',
-    url: 'https://twitter.com/desorientech/',
+    url: 'https://desorienplay.vercel.app',
     tags: [
       'back end',
       'podcasts',
