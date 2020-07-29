@@ -273,5 +273,19 @@ export default [
       'cinema',
       'arte'
     ],
-  }
+  },
+  {
+    nome: 'Bruno Garcia Vasconcelos',
+    foto: 'https://avatars2.githubusercontent.com/u/45259198',
+    nomeDoProjeto: 'DesorienPlay',
+    url: 'https://desorienplay.vercel.app',
+    tags: [
+      'back end',
+      'podcast',
+      'coding',
+      'livros',
+      'tecnologia',
+      'documentários',
+    ],
+  },
 ];
