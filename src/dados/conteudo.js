@@ -39,9 +39,9 @@ export default [
     nomeDoProjeto: 'JhowFlix',
     url: 'https://flix.jhow.io/',
     tags: [
-      'músicas',
+      'música',
       'séries',
-      'jogos',
+      'games',
     ],
   },
 ];
