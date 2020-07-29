@@ -33,4 +33,21 @@ export default [
       'música',
     ],
   },
+  {
+    nome: 'Elton Santos',
+    foto: 'https://avatars3.githubusercontent.com/u/1292594',
+    nomeDoProjeto: 'ForensicFlix',
+    url: 'https://forensicflix.vercel.app/',
+    tags: [
+      'front end',
+      'back end',
+      'devops',
+      'perícia forense',
+      'computação forense',
+      'computer forensics',
+      'forensic expertise',
+      'forense',
+      'forensic',
+    ],
+  },
 ];
