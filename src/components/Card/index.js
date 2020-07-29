@@ -11,12 +11,25 @@ const Card = ({
 https://api.screenshotmachine.com?key=296fe8&url=${url}&dimension=1024x768
   `;
 
+  const quantidadeDeTagsInvisiveis = tags.length - 3;
+
   return (
     <CardWrapper thumbnail={thumbnail}>
       <Tags>
-        {tags.map((tag) => (
+        {tags.slice(0, 3).map((tag) => (
           <Tag>{tag}</Tag>
         ))}
+        {
+          quantidadeDeTagsInvisiveis
+            ? (
+              <Tag>
+                +
+                {' '}
+                {quantidadeDeTagsInvisiveis}
+              </Tag>
+            )
+            : ''
+        }
       </Tags>
       <Info
         foto={foto}
