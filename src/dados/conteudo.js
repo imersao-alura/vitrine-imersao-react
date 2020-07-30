@@ -299,4 +299,16 @@ export default [
       'séries',
     ],
   },
+    {
+    nome: 'Patrick Cruz',
+    foto: 'https://avatars0.githubusercontent.com/u/54329272?s=460&u=082247fc07ab60bcf25579dcffb9dfaf6ee6e3de&v=4',
+    nomeDoProjeto: 'Patriflix',
+    url: 'https://patriflix-alura.vercel.app/',
+    tags: [
+      'dev',
+      'frontend',
+      'backend',
+      'tecnologia',
+    ],
+  },
 ];
