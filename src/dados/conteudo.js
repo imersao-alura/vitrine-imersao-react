@@ -299,4 +299,18 @@ export default [
       'séries',
     ],
   },
+  {
+    nome: 'Tiago Pereira',
+    foto: 'https://avatars0.githubusercontent.com/u/22183984?s=460&u=aa1ee95a31ae271fafd1a8c8e8e5427993427425&v=4',
+    nomeDoProjeto: 'BjjFlix',
+    url: 'https://bjjflix.vercel.app/',
+    tags: [
+      'jiu-jitsu',
+      'raspagem',
+      'guarda',
+      'arm lock',
+      'leg lock',
+      'estrangulamento',
+    ],
+  },
 ];
