@@ -305,9 +305,9 @@ export default [
     nomeDoProjeto: 'MylFlix',
     url: 'https://mylflix.vercel.app/',
     tags: [
+      'nerdologia',
       'ragnarok',
       'cblol',
-      'nerdologia',
       'podcast',
     ],
   },
