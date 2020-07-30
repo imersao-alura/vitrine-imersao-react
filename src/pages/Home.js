@@ -7,6 +7,7 @@ import projetos from '../dados/conteudo';
 const Home = () => {
   const [projetosFiltrados, setProjetosFiltrados] = useState([]);
   const [searchTerm, setSearchTerm] = useState('');
+  const uniqueTags = [];
 
   const filterProjects = () => {
     const filteredProjects = projetos.filter((projeto) => {
@@ -25,11 +26,19 @@ const Home = () => {
   };
 
   useEffect(() => {
-    if (searchTerm) {
-      filterProjects();
-    } else {
-      setProjetosFiltrados(projetos);
-    }
+    setProjetosFiltrados(projetos);
+    const tags = projetos.map((projeto) => projeto.tags);
+    tags.forEach((tagArray) => {
+      tagArray.forEach((tag) => {
+        if (!uniqueTags.includes(tag.toLowerCase())) {
+          uniqueTags.push(tag.toLowerCase());
+        }
+      });
+    });
+  }, []);
+
+  useEffect(() => {
+    filterProjects();
   }, [searchTerm]);
 
   return (
