@@ -299,4 +299,16 @@ export default [
       'séries',
     ],
   },
+  {
+    nome: 'José Vitor',
+    foto: 'https://avatars2.githubusercontent.com/u/64286814?s=96&v=4',
+    nomeDoProjeto: 'ASMRFLIX',
+    url: 'https://asmrflix-seven.vercel.app/',
+    tags: [
+      'Melhores ASMR',
+      'ASMR - Sweet Carol',
+      'ASMR - Bella Sant ASMR',
+      'ASMR - 3DIO',
+    ],
+  },
 ];
