@@ -299,7 +299,6 @@ export default [
       'séries',
     ],
   },
-  ,
    {
     nome: 'GuiEnrik',
     redeSocial: 'https://www.instagram.com/guienrik_s/',
