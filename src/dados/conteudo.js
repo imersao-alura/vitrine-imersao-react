@@ -298,5 +298,17 @@ export default [
       'filmes',
       'séries',
     ],
+  },   
+  {
+    nome: 'Matheus Rodrigues',
+    foto: 'https://avatars2.githubusercontent.com/u/36890610?s=460&u=b0775141b0e149d0a8120a6f272456aba1f59624&v=4',
+    nomeDoProjeto: 'MylFlix',
+    url: 'https://mylflix.vercel.app/',
+    tags: [
+      'ragnarok',
+      'cblol',
+      'nerdologia',
+      'podcast',
+    ],
   },
 ];
