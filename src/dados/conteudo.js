@@ -299,4 +299,16 @@ export default [
       'séries',
     ],
   },
+  {
+    nome: 'Rafael Marreca',
+    foto: 'https://media-exp1.licdn.com/dms/image/C4D03AQEjEJ14ffNeig/profile-displayphoto-shrink_200_200/0?e=1601510400&v=beta&t=344GMsVFDXqod8q4b4oJi4GCgmwcUT4WE7Pkg9Jn2UA',
+    nomeDoProjeto: 'MarrecaFlix',
+    url: 'https://marrecaflix.vercel.app',
+    tags: [
+      'back end',
+      'front end',
+      'coding',
+      'tecnologia',
+    ],
+  },
 ];
