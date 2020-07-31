@@ -414,4 +414,14 @@ export default [
       'filmes',
     ],
   },
+  {
+    nome: 'Estevão Duarte',
+    foto: 'https://avatars1.githubusercontent.com/u/68926617?s=460&u=552c98d60c57ada5d7a95772a3f706a00178378a&v=4',
+    nomeDoProjeto: 'EcoMedia',
+    url: 'https://ecomedia.tevo.vercel.app/',
+    tags: [
+      'ecológico',
+      'meio-ambiente',
+    ],
+  },
 ];
