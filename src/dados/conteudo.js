@@ -228,7 +228,7 @@ export default [
       'datascience',
       'IA',
       'selenium',
-      'automacao',
+      'automação',
       'automation',
     ],
   },
