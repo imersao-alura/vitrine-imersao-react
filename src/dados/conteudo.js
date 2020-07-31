@@ -40,11 +40,11 @@ export default [
     url: 'https://carolflix-ten.vercel.app/',
     tags: [
       'front end',
-      'back-end',
-      'Canais de Programação',
+      'back end',
+      'programação',
       'música',
       'filmes',
-      'series',
+      'séries',
     ],
   },
 ];
