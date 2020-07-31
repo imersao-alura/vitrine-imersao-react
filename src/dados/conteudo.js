@@ -40,7 +40,7 @@ export default [
     url: 'https://musicx.vercel.app',
     tags: [
       'música',
-      'clips',
+      'vídeo clips',
     ],
   },
 ];
