@@ -368,4 +368,15 @@ export default [
       'unboxing',
     ],
   },
+  {
+    nome: 'Artur Freire',
+    foto: 'https://avatars3.githubusercontent.com/u/42844837?s=460&u=8f82e1d1934bdda3e0eb743916a2a17a9204cfaa&v=4',
+    nomeDoProjeto: '</freirart>',
+    url: 'https://freirart.vercel.app/',
+    tags: [
+      'Animes',
+      'filmes',
+      'música',
+    ],
+  },
 ];
