@@ -299,4 +299,17 @@ export default [
       'séries',
     ],
   },
+  {
+    nome: 'Matheus Reis',
+    foto: 'https://avatars3.githubusercontent.com/u/23380987?s=460&u=2afc67c46c005fd886ff5e4f76dbc8323350b9f2&v=4',
+    nomeDoProjeto: 'CodeFlix',
+    url: 'https://codeflix.reisdev.vercel.app',
+    tags: [
+      'tecnologia',
+      'back end',
+      'front end',
+      'programação',
+      'desenvolvimento'
+    ]
+  }
 ];
