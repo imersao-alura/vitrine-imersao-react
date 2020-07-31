@@ -38,6 +38,8 @@ export default [
   },
   {
     nome: 'Ismael Oliveira',
+    estado: 'Minas Gerais',
+    cidade: 'Cachoeira de Minas',
     foto: 'https://avatars1.githubusercontent.com/u/22065160?s=460&u=5d667bd59df5c926cb0942f03207e50c4e1905ba&v=4',
     nomeDoProjeto: 'KelloFlix',
     url: 'https://kelloflix.vercel.app/',
