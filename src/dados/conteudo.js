@@ -309,5 +309,16 @@ export default [
       'séries',
       'games',
     ],
+      {
+    nome: 'Davi Ramos de Sousa',
+    foto: 'https://avatars2.githubusercontent.com/u/45334263?s=400&u=d0a63eb1929d0656a7036668fa3f9dec44a1d990&v=4',
+    nomeDoProjeto: 'Reactflix',
+    url: 'https://reactflix-git-master.daviramosds.vercel.app/',
+    tags: [
+      'programação',
+      'jogos',
+       'Front End',
+       'Back End'
+    ],
   },
 ];
