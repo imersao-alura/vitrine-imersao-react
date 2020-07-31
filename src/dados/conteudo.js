@@ -299,4 +299,16 @@ export default [
       'séries',
     ],
   },
+  {
+    nome: 'Octávio Barbosa',
+    foto: 'https://avatars2.githubusercontent.com/u/40213753',
+    nomeDoProjeto: 'Beakmanflix',
+    url: 'https://beakmanflix.vercel.app/',
+    tags: [
+      'curiosidades',
+      'ciência',
+      'tecnologia',
+      'documentários',
+    ],
+  },
 ];
