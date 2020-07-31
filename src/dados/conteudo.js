@@ -299,4 +299,13 @@ export default [
       'séries',
     ],
   },
+   {
+    nome: 'Allex Valério Costa',
+    foto: 'https://avatars3.githubusercontent.com/u/13477681?s=460&u=3eba23bc6f14f25d43c82f76c9ffff0254063c39&v=4',
+    nomeDoProjeto: 'Lekaoflix',
+    url: 'https://lekaoflix.vercel.app/',
+    tags: [
+      'Aprendendo a Aprender',
+    ],
+  },
 ];
