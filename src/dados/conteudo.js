@@ -207,8 +207,6 @@ export default [
     ],
   },
   {
-<<<<<<< HEAD
-=======
     nome: 'Diego Almeida',
     foto: 'https://avatars0.githubusercontent.com/u/64554471?s=460&u=d27198722cc7bee7f7750aa3bc3cdbbc2c907ed3&v=4',
     nomeDoProjeto: 'Metal Music',
@@ -431,25 +429,14 @@ export default [
     ],
   },
   {
->>>>>>> master
     nome: 'Tadeu Barbosa',
     foto: 'https://avatars1.githubusercontent.com/u/4499999?s=460&u=43622f77e15ec22906e28f378467f7e32b5f9cea&v=4',
     nomeDoProjeto: 'TeedFlix',
     url: 'https://imersao-react-alura-git-master.tadeubarbosa.vercel.app/',
     tags: [
-<<<<<<< HEAD
-      'dev',
-      'programação',
-      'links',
-      'relax',
-      'música',
-    ],
-  },
-=======
       'música',
       'tecnologia',
       'vídeos'
     ],
   }
->>>>>>> master
 ];
