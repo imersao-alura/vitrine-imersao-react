@@ -68,6 +68,17 @@ export default [
       'música',
     ],
   },
+    {
+      nome: 'Rene Sena',
+      foto: ' https://avatars0.githubusercontent.com/u/36897083?s=460&u=82820176ecbee9cb529d2981b17a409ff8859443&v=4',
+      nomeDoProjeto: 'RangoFlix',
+      url: 'https://rangoflix.vercel.app/',
+      tags: [
+        'Receitas',
+        'Culinária',
+        'Vida Saudável',
+      ],
+    },
   {
     nome: 'Stefânio Jr.',
     foto: 'https://avatars0.githubusercontent.com/u/52108997?s=460&u=1c2893ad23d13844d3ced5d17970dfed772c61ce&v=4',
@@ -321,7 +332,80 @@ export default [
       'league of legends',  
     ],
   },
+ 
   {
+    nome: 'Cleyton Silva',
+    foto: 'https://avatars0.githubusercontent.com/u/48761719?s=460&u=78ec251e3d865694c9f6cf3f05935b654502da9c&v=4',
+    nomeDoProjeto: 'RubyFlix',
+    url: 'https://rubyflix.vercel.app/',
+    tags: [
+      'front end',
+      'back end',
+      'ruby',
+      'TDD',
+      'Capybara',
+      'rspec',
+    ],
+  },
+  {
+    nome: 'Leonardo Tavares',
+    foto: 'https://avatars1.githubusercontent.com/u/33882443?s=460&u=d287ae2c9047444af1a12a87bfe75c5189b7862a&v=4',
+    nomeDoProjeto: 'LFLIX',
+    url: 'https://lflix-imersaoalura.vercel.app/',
+    tags: [
+      'front end',
+      'photoshop',
+      'reviews',
+      'unboxing',
+    ],
+  },
+  {
+    nome: 'Artur Freire',
+    foto: 'https://avatars3.githubusercontent.com/u/42844837?s=460&u=8f82e1d1934bdda3e0eb743916a2a17a9204cfaa&v=4',
+    nomeDoProjeto: '</freirart>',
+    url: 'https://freirart.vercel.app/',
+    tags: [
+      'Animes',
+      'filmes',
+      'música',
+    ],
+  },
+    {
+    nome: 'Luís Henrique',
+    foto: 'https://avatars2.githubusercontent.com/u/63956850?s=460&u=96dcd152ff4caea77ab8eb01757d1015b4943b3d&v=4',
+    nomeDoProjeto: 'LigaFlix',
+    url: 'https://liga-flix.vercel.app/',
+    tags: [
+      'filmes',
+      'música',
+    ],
+  },
+  {
+    nome: 'Luiz Augusto',
+    foto: 'https://avatars1.githubusercontent.com/u/4944479?s=460&v=4',
+    nomeDoProjeto: 'The RPG Reflix',
+    url: 'https://therpgreflix.vercel.app/',
+    tags: [
+      'Jogos',
+      'RPG',
+      'MMORPG',
+      'ARPG',
+      'JRPG',
+    ],
+  },
+  {
+    nome: 'Junio Horniche',
+    foto: 'https://avatars2.githubusercontent.com/u/26903892?s=460&u=83c26b0ca136b8406b496b508c655bc6930e1277&v=4',
+    nomeDoProjeto: 'juhflix',
+    url: 'https://juhflix.vercel.app/',
+    tags: [
+      'animes',
+      'tecnologia',
+      'jogos',
+      'filmes',
+    ],
+  },
+   {
     nome: 'Henrique Faria',
     foto: 'https://avatars0.githubusercontent.com/u/66914517?s=60&v=4',
     nomeDoProjeto: 'SailFlix',
@@ -329,7 +413,7 @@ export default [
     tags: [
       'veleiro',
       'regata',
-      'velejar',  
+      'velejar',
     ],
   },
 ];
