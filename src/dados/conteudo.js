@@ -403,6 +403,18 @@ export default [
     ],
   },
   {
+    nome: 'Junio Horniche',
+    foto: 'https://avatars2.githubusercontent.com/u/26903892?s=460&u=83c26b0ca136b8406b496b508c655bc6930e1277&v=4',
+    nomeDoProjeto: 'juhflix',
+    url: 'https://juhflix.vercel.app/',
+    tags: [
+      'animes',
+      'tecnologia',
+      'jogos',
+      'filmes',
+    ],
+  },
+  {
     nome: 'Lais Frigério',
     foto: 'https://avatars0.githubusercontent.com/u/20709086?s=460&u=a2bbd98064a6a27ba01c6bfbd8d5e8378382ee3c&v=4',
     nomeDoProjeto: 'Sportflix',
