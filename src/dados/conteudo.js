@@ -321,4 +321,13 @@ export default [
       'league of legends',  
     ],
   },
+  {
+    nome: 'Felipe Saraiva',
+    foto: 'https://avatars1.githubusercontent.com/u/14803717?s=460&u=6a7e534056ea2670c55ce755828c715885d2b102&v=4',
+    nomeDoProjeto: 'FsFlix',
+    url: 'https://fsflix.vercel.app/',
+    tags: [
+      'podcast',
+    ],
+  },
 ];
