@@ -405,6 +405,54 @@ export default [
       'filmes',
     ],
   },
+  {
+    nome: 'Gabriela Gonçalves',
+    foto: 'https://avatars0.githubusercontent.com/u/68876780?s=460&u=c11ec0571a10be54488e1675499930b8ad2bef08&v=4',
+    nomeDoProjeto: 'GogFilms',
+    url: 'https://gogfilms.vercel.app/',
+    tags: [
+      'quarentena',
+      'comédia',
+      'filmes',
+      'DIY',
+      'meditação',
+      'decoração'
+    ],
+  },
+   {
+    nome: 'Valker Vinicius',
+    foto: 'https://avatars2.githubusercontent.com/u/65914461?s=460&u=7cfb97c0bbda1123729da20099b1ef1d820397c2&v=4',
+    nomeDoProjeto: 'Purinflix',
+    url: 'https://aluraflix-xi.vercel.app/',
+    tags: [
+      'anime',
+      'game',
+      'música',
+    ],
+  },
+    {
+    nome: 'Paulo Henrique Gomes',
+    foto: 'https://avatars2.githubusercontent.com/u/1606453?s=400&u=495056a8dd4205cff7aa85b1053a0d84d34e2152&v=4',
+    nomeDoProjeto: 'DudaFlix',
+    url: 'https://dudaflix.vercel.app/',
+    tags: [
+      'front end',
+      'filmes',
+      'música',
+    ],
+  },
+  {
+    nome: 'William Sousa',
+    foto: 'https://avatars1.githubusercontent.com/u/28930281?s=460&u=dcfb0a75ba1c812a722b9cd29bd1b892fd990876&v=4',
+    nomeDoProjeto: 'williamflix',
+    url: 'https://will-imersao-react.vercel.app/',
+    tags: [
+      'Jogos',
+      'Música',
+      'Desenvolvimento',
+      'Geral'
+    ]
+  },
    {
     nome: 'Henrique Faria',
     foto: 'https://avatars0.githubusercontent.com/u/66914517?s=60&v=4',
