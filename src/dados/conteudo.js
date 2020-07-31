@@ -428,4 +428,18 @@ export default [
       'decoração'
     ],
   },
+  {
+    nome: 'Diego Nonato',
+    foto: 'https://avatars0.githubusercontent.com/u/42761103?s=460&u=8986ae2b70ead9848c53f8c84bdb2189da54b684&v=4',
+    nomeDoProjeto: 'Trapflix',
+    url: 'https://trapflix.vercel.app/',
+    tags: [
+      'trap',
+      'rap',
+      'musica',
+      'street',
+      'rua',
+      'playlist'
+    ],
+  },
 ];
