@@ -23,7 +23,12 @@ const Home = () => {
       const name = projeto.nome.toLowerCase();
       const hasCategory = selectedTag === 'all' || verifyCategories(projeto.tags, selectedTag);
 
-      return hasCategory && (project.includes(searchTermLowerCase) || name.includes(searchTermLowerCase));
+      return (
+        hasCategory
+        && (
+          project.includes(searchTermLowerCase)
+          || name.includes(searchTermLowerCase))
+      );
     });
 
     setProjetosFiltrados(filteredProjects);

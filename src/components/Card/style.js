@@ -88,6 +88,9 @@ export const CardWrapper = styled.article`
 
 export const Tags = styled.ul`
   display: flex;
+  flex-wrap: wrap;
+  height: fit-content;
+  justify-content: flex-end;
   list-style: none;
   margin-left: auto;
 `;
@@ -100,6 +103,7 @@ export const Tag = styled.li`
   display: inline-block;
   font-size: 12px;
   margin-left: 4px;
+  margin-bottom: 4px;
   padding: 4px;
   text-align: center;
   text-transform: uppercase;
