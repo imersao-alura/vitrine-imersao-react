@@ -299,4 +299,17 @@ export default [
       'séries',
     ],
   },
+  {
+    nome: 'Gabriel Rodrigues',
+    foto: 'https://avatars0.githubusercontent.com/u/46937128?s=460&u=09bbac331f15f35d0d3ceaff7436335b8fb89b05&v=4',
+    nomeDoProjeto: 'AluraFlix',
+    url: 'https://aluraflix-gavr.vercel.app/',
+    tags: [
+      'alura',
+      'dev',
+      'front end',
+      'back end',
+      'data science',
+    ],
+  },
 ];
