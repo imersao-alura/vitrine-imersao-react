@@ -414,4 +414,26 @@ export default [
       'filmes',
     ],
   },
+    {
+    nome: 'Paulo Henrique Gomes',
+    foto: 'https://avatars2.githubusercontent.com/u/1606453?s=400&u=495056a8dd4205cff7aa85b1053a0d84d34e2152&v=4',
+    nomeDoProjeto: 'DudaFlix',
+    url: 'https://dudaflix.vercel.app/',
+    tags: [
+      'front end',
+      'filmes',
+      'música',
+    ],
+  },
+  {
+    nome: 'Gabriel Lisboa Barbosa',
+    foto: 'https://avatars3.githubusercontent.com/u/63424657?s=460&u=89e0f0bb261d3c37ba7f0861e72c9b3104a4acc8&v=4',
+    nomeDoProjeto: 'Barbosaflix',
+    url: 'https://barbosaflix.vercel.app/',
+    tags: [
+      'front end',
+      'filmes',
+      'séries',
+    ],
+  },
 ];
