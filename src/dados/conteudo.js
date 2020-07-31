@@ -414,4 +414,16 @@ export default [
       'filmes',
     ],
   },
+  {
+    nome: 'Paulo Roberto',
+    foto: 'https://media-exp1.licdn.com/dms/image/C4E03AQH6XMm5eE3AWA/profile-displayphoto-shrink_400_400/0?e=1601510400&v=beta&t=GzF2c0SKI4teGFTKkp_n4yYGZlXEB64E4c9NCutkYMk',
+    nomeDoProjeto: 'CursosCompletos',
+    url: 'https://agregadordecursos.vercel.app/',
+    tags: [
+      'agregador de cursos',
+      'agregador de cursos completos',
+      'cursos',
+      'cursos completos',
+    ],
+  },
 ];
