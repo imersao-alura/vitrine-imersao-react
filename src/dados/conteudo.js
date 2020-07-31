@@ -389,4 +389,17 @@ export default [
       'música',
     ],
   },
+  {
+    nome: 'Luiz Augusto',
+    foto: 'https://avatars1.githubusercontent.com/u/4944479?s=460&v=4',
+    nomeDoProjeto: 'The RPG Reflix',
+    url: 'https://therpgreflix.vercel.app/',
+    tags: [
+      'Jogos',
+      'RPG',
+      'MMORPG',
+      'ARPG',
+      'JRPG',
+    ],
+  }
 ];
