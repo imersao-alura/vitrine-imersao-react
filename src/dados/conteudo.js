@@ -368,4 +368,18 @@ export default [
       'unboxing',
     ],
   },
+  {
+    nome: 'Gustavoo Base2',
+    foto: 'https://avatars0.githubusercontent.com/u/52971259?s=460&u=28f16111eef377f1e136f1877f0ec7c8f166cf2c&v=4',
+    nomeDoProjeto: 'BASEFLIX',
+    url: 'https://baseflix.vercel.app/',
+    tags: [
+      'front end',
+      'back end',
+      'data science',
+      'tecnologia',
+      'games',
+      'filmes',
+    ],
+  },
 ];
