@@ -8,6 +8,12 @@ export const Logo = styled.img`
   }
 `;
 
+Logo.Icone = styled(Logo)`
+  @media (max-width: 800px) {
+    display: none;
+  }
+`;
+
 export const Menu = styled.nav`
   width: 100%;
   height: 94px;
@@ -26,19 +32,9 @@ export const Menu = styled.nav`
 
   background: var(--grayLight);
   border-bottom: 1px solid var(--grayMedium);
-
-  @media (max-width: 800px) {
-    height: 40px;
-    justify-content: center;    
-  }
-  `;
+`;
 
 export const HeaderWrapper = styled.header`
   --bodyPaddingTop: 94px;
   padding-top: var(--bodyPaddingTop);
-
-  @media (max-width: 800px) {
-    --bodyPaddingTop: 40px;
-    padding-top: var(--bodyPaddingTop);
-  }
-  `;
+`;
