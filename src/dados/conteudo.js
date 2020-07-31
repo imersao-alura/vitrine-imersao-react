@@ -299,4 +299,16 @@ export default [
       'séries',
     ],
   },
+  {
+    nome: 'Caique Giovannini',
+    foto: 'https://avatars0.githubusercontent.com/u/49538313?s=460&u=3d05e4d58bcae17d11a2354e95f432668b289e0f&v=4',
+    nomeDoProjeto: 'Rockyflix',
+    url: 'https://rockyflix.vercel.app/',
+    tags: [
+      'filmes',
+      'música',
+      'vídeos',
+      'entretenimento',
+    ],
+  },
 ];
