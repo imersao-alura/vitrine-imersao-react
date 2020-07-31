@@ -321,4 +321,16 @@ export default [
       'league of legends',  
     ],
   },
+  {
+    nome: 'Adailson Aguiar',
+    foto: 'https://avatars2.githubusercontent.com/u/19656546?s=460&u=1670b315054f11b9f359b226711ec53fe927c524&v=4',
+    nomeDoProjeto: 'Ar|Livre',
+    url: 'https://ar-livre.vercel.app/',
+    tags: [
+      'front end',
+      'aventura',
+      'séries', 
+      'documentários', 
+    ],
+  },
 ];
