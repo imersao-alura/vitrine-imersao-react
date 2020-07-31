@@ -47,6 +47,18 @@ export default [
       'filmes',
     ],
   },
+  { 
+    nome: 'Fernanda Degolin',
+    foto: 'https://avatars3.githubusercontent.com/u/57374044?s=460&u=aecf13928486b9197a36f2510840efec261082d7&v=4',
+    nomeDoProjeto: 'Fernanda Degolin',
+    url: 'https://fernandadegolin.vercel.app',
+    tags: [
+      'front-end',
+      'atriz',
+      'arte',
+      'códigos',
+    ],
+  },
   {
     nome: 'Vinicius Santos',
     foto: 'https://avatars1.githubusercontent.com/u/62895999?s=460&u=90819b38224622bceb1b6f55d1bde2dae94d469f&v=4',
