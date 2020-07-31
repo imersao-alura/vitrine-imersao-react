@@ -299,4 +299,15 @@ export default [
       'séries',
     ],
   },
+  {
+      nome: 'Jonathan Santos',
+    foto: 'https://avatars0.githubusercontent.com/u/18014023?s=460&u=37a96704fa38c8ad238e053ea4dda9a97f1ff297&v=4',
+    nomeDoProjeto: 'JhowFlix',
+    url: 'https://flix.jhow.io/',
+    tags: [
+      'música',
+      'séries',
+      'games',
+    ],
+  },
 ];
