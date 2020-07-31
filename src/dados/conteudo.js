@@ -321,4 +321,14 @@ export default [
       'league of legends',  
     ],
   },
+  {
+    nome: 'Kalmax Sousa',
+    foto: 'https://avatars3.githubusercontent.com/u/61906193?s=460&u=0e8224926e220121b50728ac8c02a240be96cb65&v=4',
+    nomeDoProjeto: 'Musicx',
+    url: 'https://musicx.vercel.app',
+    tags: [
+      'música',
+      'vídeo clips',
+    ],
+  },
 ];
