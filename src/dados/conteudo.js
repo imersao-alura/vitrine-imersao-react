@@ -44,7 +44,7 @@ export default [
     tags: [
       'animes',
       'tecnologia',
-      'games',
+      'jogos',
       'filmes',
     ],
   },
