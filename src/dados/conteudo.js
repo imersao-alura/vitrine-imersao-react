@@ -321,4 +321,17 @@ export default [
       'league of legends',  
     ],
   },
+  {
+    nome: 'Igor Henrique Araújo',
+    foto: 'https://avatars1.githubusercontent.com/u/829719?s=460&u=bbca97d0f485899890169d882ee7f6a2c3bb457e&v=4',
+    nomeDoProjeto: 'FatFlix',
+    url: 'https://fatflix.vercel.app/',
+    tags: [
+      'front end',
+      'react',
+      'comida',
+      'churrasco',
+      'hamburguer',
+    ],
+  },  
 ];
