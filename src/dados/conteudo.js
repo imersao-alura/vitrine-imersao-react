@@ -321,4 +321,14 @@ export default [
       'league of legends',  
     ],
   },
+  {
+    nome: 'Luiz Henrique Kafer Silva',
+    foto: 'https://media-exp1.licdn.com/dms/image/C4E03AQHJoIiUX-3b6Q/profile-displayphoto-shrink_100_100/0?e=1601510400&v=beta&t=nzSgT79r0d8cGHubLr4jZBBb6hSMrUVdZHJLKxTdAZc',
+    nomeDoProjeto: 'Zulflix',
+    url: 'https://zulflix.vercel.app/',
+    tags: [
+      'animes',
+      'música' 
+    ],
+  },
 ];
