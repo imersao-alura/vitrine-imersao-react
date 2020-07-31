@@ -288,7 +288,7 @@ export default [
       'documentários',
     ],
   },
-   {
+  {
     nome: 'Raphael Alves',
     foto: 'https://avatars2.githubusercontent.com/u/42312289?s=460&u=bae1cdf805e7797f3d6bd3ba9e706024181a35b2&v=4',
     nomeDoProjeto: 'YvisFlix',
@@ -297,6 +297,23 @@ export default [
       'música',
       'filmes',
       'séries',
+    ],
+  },
+  {
+    nome: 'Maicon F. Santos',
+    foto: 'https://avatars1.githubusercontent.com/u/19980648?s=460&v=4',
+    nomeDoProjeto: 'Sailing BR',
+    url: 'https://sailingbr.vercel.app/',
+    tags: [
+      'veleiro',
+      'velejar',
+      'velejadora',
+      'velejador',
+      'velejadoras',
+      'velejadores',
+      'viver a bordo',
+      'veleiros de cruzeiro',
+      'cruzeiristas',
     ],
   },
 ];
