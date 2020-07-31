@@ -87,17 +87,20 @@ export const CardWrapper = styled.article`
 `;
 
 export const Tags = styled.ul`
+  display: flex;
   list-style: none;
   margin-left: auto;
 `;
 
 export const Tag = styled.li`
-  font-size: 12px;
-  padding: 4px;
-  display: inline-block;
-  margin-left: 4px;
-  color: var(--primary);
+  align-self: baseline;
   background-color: var(--secondary);
   border-radius: 4px;
+  color: var(--primary);
+  display: inline-block;
+  font-size: 12px;
+  margin-left: 4px;
+  padding: 4px;
+  text-align: center;
   text-transform: uppercase;
 `;

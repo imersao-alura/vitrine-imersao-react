@@ -11,12 +11,18 @@ const Home = () => {
   const [selectedTag, setSelectedTag] = useState('all');
   const [uniqueTags, setUniqueTags] = useState([]);
 
+  const verifyCategories = (categories, tag) => {
+    const categoriesToLowerCase = categories.map((category) => category.toLowerCase());
+    return categoriesToLowerCase.includes(tag);
+  };
+
   const filterProjects = () => {
     const filteredProjects = projetos.filter((projeto) => {
       const searchTermLowerCase = searchTerm.toLowerCase();
       const project = projeto.nomeDoProjeto.toLowerCase();
       const name = projeto.nome.toLowerCase();
-      const hasCategory = selectedTag === 'all' || projeto.tags.includes(selectedTag);
+      const hasCategory = selectedTag === 'all' || verifyCategories(projeto.tags, selectedTag);
+
       return hasCategory && (project.includes(searchTermLowerCase) || name.includes(searchTermLowerCase));
     });
 
@@ -48,7 +54,7 @@ const Home = () => {
 
   useEffect(() => {
     filterProjects();
-    console.log(selectedTag)
+    console.log(selectedTag);
   }, [searchTerm, selectedTag]);
 
   return (

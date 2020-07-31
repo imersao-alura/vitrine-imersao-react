@@ -2,9 +2,11 @@ import styled from 'styled-components';
 import { Tag } from '../Card/style';
 
 export const PopoverButton = styled.button`
+  align-self: baseline;
   background: transparent;
   border: none;
   cursor: pointer;
+  display: inherit;
   outline: none;
   padding: 0;
   position: relative;
