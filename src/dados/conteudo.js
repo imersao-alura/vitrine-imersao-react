@@ -43,7 +43,7 @@ export default [
     url: 'https://aluraflix-xi.vercel.app/',
     tags: [
       'anime',
-      'game',
+      'jogos',
       'música',
     ],
   },
