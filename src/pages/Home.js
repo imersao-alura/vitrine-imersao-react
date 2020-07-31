@@ -8,12 +8,15 @@ import projetos from '../dados/conteudo';
 const Home = () => {
   const [projetosFiltrados, setProjetosFiltrados] = useState([]);
   const [searchTerm, setSearchTerm] = useState('');
-  const [selectedTag, setSelectedTag] = useState('all');
+  const [selectedTags, setSelectedTags] = useState([]);
   const [uniqueTags, setUniqueTags] = useState([]);
 
-  const verifyCategories = (categories, tag) => {
+  const verifyCategories = (categories) => {
     const categoriesToLowerCase = categories.map((category) => category.toLowerCase());
-    return categoriesToLowerCase.includes(tag);
+
+    const filteredCategories = categoriesToLowerCase.filter((tag) => selectedTags.includes(tag));
+
+    return filteredCategories.length;
   };
 
   const filterProjects = () => {
@@ -21,25 +24,27 @@ const Home = () => {
       const searchTermLowerCase = searchTerm.toLowerCase();
       const project = projeto.nomeDoProjeto.toLowerCase();
       const name = projeto.nome.toLowerCase();
-      const hasCategory = selectedTag === 'all' || verifyCategories(projeto.tags, selectedTag);
+
+      const hasCategory = selectedTags.length === 0 || verifyCategories(projeto.tags);
 
       return (
         hasCategory
         && (
           project.includes(searchTermLowerCase)
-          || name.includes(searchTermLowerCase))
+          || name.includes(searchTermLowerCase)
+        )
       );
     });
-
-    setProjetosFiltrados(filteredProjects);
+    const valueToUpdate = selectedTags.length > 0 ? filteredProjects : projetos;
+    setProjetosFiltrados(valueToUpdate);
   };
 
   const updateSearchTerm = (term) => {
     setSearchTerm(term);
   };
 
-  const updateSelectedTag = (tag) => {
-    setSelectedTag(tag);
+  const updateSelectedTags = (tag) => {
+    setSelectedTags(tag);
   };
 
   useEffect(() => {
@@ -59,16 +64,15 @@ const Home = () => {
 
   useEffect(() => {
     filterProjects();
-    console.log(selectedTag);
-  }, [searchTerm, selectedTag]);
+  }, [searchTerm, selectedTags]);
 
   return (
     <Page>
       <Filter
         tags={uniqueTags}
         updateSearchTerm={updateSearchTerm}
-        selectedTag={selectedTag}
-        updateSelectedTag={updateSelectedTag}
+        selectedTags={selectedTags}
+        updateSelectedTags={updateSelectedTags}
       />
       <List projetos={projetosFiltrados} />
     </Page>

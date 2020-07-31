@@ -5,12 +5,17 @@ import {
   Category, RadioButton, CategoriesWrapper, CategoriesItem,
 } from './style';
 
-const Categories = ({ tags, updateSelectedTag }) => {
+const Categories = ({ tags, selectedTags, updateSelectedTags }) => {
   const handleChange = (e) => {
+    const newSelectedTags = [...selectedTags];
     const targetValue = e.target.value;
-    const valueIsCheched = e.target.checked;
-    const newValue = valueIsCheched ? targetValue : 'all';
-    updateSelectedTag(newValue);
+    const targetValueIndex = selectedTags.indexOf(targetValue);
+    if (targetValueIndex < 0) {
+      newSelectedTags.push(targetValue);
+    } else {
+      newSelectedTags.splice(targetValueIndex, 1);
+    }
+    updateSelectedTags(newSelectedTags);
   };
 
   return (
@@ -33,7 +38,8 @@ const Categories = ({ tags, updateSelectedTag }) => {
 
 Categories.propTypes = {
   tags: propTypes.arrayOf(propTypes.string).isRequired,
-  updateSelectedTag: propTypes.func.isRequired,
+  selectedTags: propTypes.arrayOf(propTypes.string).isRequired,
+  updateSelectedTags: propTypes.func.isRequired,
 };
 
 export default Categories;
