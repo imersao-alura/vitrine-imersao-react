@@ -309,6 +309,7 @@ export default [
       'front end',
       'coding',
       'tecnologia',
+      'música',
     ],
   },
 ];
