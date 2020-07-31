@@ -299,4 +299,17 @@ export default [
       'séries',
     ],
   },
+  {
+    nome: 'Andresa Braz',
+    foto: 'https://avatars1.githubusercontent.com/u/3681971?s=460&u=d0b47f79e7292f6e4dc26d751eb21ba56ecda308&v=4',
+    nomeDoProjeto: 'AndresinhaFlix',
+    url: 'https://andresinhaflix.vercel.app/',
+    tags: [
+      'música',
+      'tecnologia',
+      'vídeo clipes',
+      'investimentos',
+      'podcast',
+    ],
+  },  
 ];
