@@ -299,4 +299,17 @@ export default [
       'séries',
     ],
   },
+   {
+    nome: 'Jean Jacques Barros',
+    foto: 'https://avatars3.githubusercontent.com/u/32225403?s=460&u=9c1a04035cc7b4e8749679fd87d0732c26a3dcd4&v=4',
+    nomeDoProjeto: 'Scienceflix',
+    url: 'http://scienceflix.jjeanjacques10.vercel.app/',
+    tags: [
+      'ciência',
+      'estudos',
+      'vídeos',
+      'tecnologia',
+      'aprendizado',
+    ],
+  },
 ];
