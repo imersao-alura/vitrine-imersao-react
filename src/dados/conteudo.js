@@ -321,4 +321,17 @@ export default [
       'league of legends',  
     ],
   },
+  {
+    nome: 'Mateus Cunha',
+    foto: 'https://avatars3.githubusercontent.com/u/62311743',
+    nomeDoProjeto: 'DevFlix',
+    url: 'https://devflix.mateuscnh.vercel.app/',
+    tags: [
+      'front end',
+      'back end',
+      'programação',
+      'computação',
+      'youtube',
+    ],
+  },
 ];
