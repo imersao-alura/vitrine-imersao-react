@@ -68,6 +68,17 @@ export default [
       'música',
     ],
   },
+    {
+      nome: 'Rene Sena',
+      foto: ' https://avatars0.githubusercontent.com/u/36897083?s=460&u=82820176ecbee9cb529d2981b17a409ff8859443&v=4',
+      nomeDoProjeto: 'RangoFlix',
+      url: 'https://rangoflix.vercel.app/',
+      tags: [
+        'Receitas',
+        'Culinária',
+        'Vida Saudável',
+      ],
+    },
   {
     nome: 'Stefânio Jr.',
     foto: 'https://avatars0.githubusercontent.com/u/52108997?s=460&u=1c2893ad23d13844d3ced5d17970dfed772c61ce&v=4',
