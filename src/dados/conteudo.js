@@ -28,11 +28,22 @@ export default [
     nomeDoProjeto: 'DevSoutinhoFlix',
     url: 'https://devsoutinhoflix.com.br/',
     tags: [
-      'front-end',
-      'back-end',
+      'front end',
+      'back end',
       'data science',
       'tecnologia',
       'games',
+      'filmes',
+    ],
+  },
+  { 
+    nome: 'Mateus Cirino',
+    foto: 'https://avatars0.githubusercontent.com/u/40328105?s=460&u=1c1aac08db6b9afce11593f4add4717fb005ffef&v=4',
+    nomeDoProjeto: 'CirinoFlix',
+    url: 'https://cirinoflix.vercel.app/',
+    tags: [
+      'programação',
+      'séries',
       'filmes',
     ],
   },
@@ -46,7 +57,7 @@ export default [
       'filmes',
       'música',
     ],
-  },{
+  }, {
     nome: 'Juan Oaski',
     foto: 'https://avatars2.githubusercontent.com/u/11061630?s=400&v=4',
     nomeDoProjeto: 'jopflix',
@@ -68,7 +79,7 @@ export default [
       'música',
       'jogos',
       'indie',
-      'folk'
+      'folk',
     ],
   },
   {
@@ -80,7 +91,7 @@ export default [
       'Carreira',
       'Programação',
       'Desenvolvimento',
-    ]
+    ],
   },
   {
     nome: 'Eliezer Garbin',
@@ -123,7 +134,7 @@ export default [
       'animes',
     ],
   },
-    {
+  {
     nome: 'Michael Nascimento',
     foto: 'https://avatars2.githubusercontent.com/u/35317401?s=460&u=53f0a76fbf41bafa9f776c73d87ba73aefe0ff62&v=4',
     nomeDoProjeto: 'Bateraflix',
@@ -133,7 +144,7 @@ export default [
       'vídeos',
       'música',
       'bateria',
-      'instrumentos musicais'
+      'instrumentos musicais',
     ],
   },
   {
@@ -157,9 +168,9 @@ export default [
       'front end',
       'programação',
       'back end',
-    ]
+    ],
   },
-  {    
+  {
     nome: 'Miguel Lima',
     foto: 'https://avatars0.githubusercontent.com/u/50017221?s=460&u=473b9095cca4ecde42cb46ec2c32dd274da30a95&v=4',
     nomeDoProjeto: 'GnomoFlix',
@@ -182,7 +193,7 @@ export default [
       'rap',
       'trap',
       'música',
-    ]
+    ],
   },
   {
     nome: 'Diego Almeida',
@@ -215,7 +226,78 @@ export default [
       'front end',
       'back end',
       'devops',
+    ],
+  },
+  {
+    nome: 'David Alves',
+    foto: 'https://avatars2.githubusercontent.com/u/12610236?s=400&u=6045b8b2e315ca6d8d3362a70d7cbf5c64896114&v=4',
+    nomeDoProjeto: 'AwesomeFlix',
+    url: 'https://awesomeflix.netlify.app/',
+    tags: [
+      'front end',
+      'back end',
     ]
+  },
+  {
+    nome: 'Anderson Dias',
+    foto: 'https://avatars2.githubusercontent.com/u/1341627?s=460&u=27c7097332d79c4a86cf212393d00b88fc1be289&v=4',
+    nomeDoProjeto: 'AndersonDiasFlix',
+    url: 'https://andersonflix.vercel.app',
+    tags: [
+      'heavy metal',
+      'filmes',
+      'séries',
+      'ciência',
+    ],
+  },
+  {
+    nome: 'Nadia Ligia',
+    foto: 'https://avatars2.githubusercontent.com/u/66634283?s=460&u=831487dcfed5f2a7d86c971ed1dc376b1a718509&v=4',
+    nomeDoProjeto: 'StarDevFlix',
+    url: 'https://stardevflix.vercel.app/',
+    tags: [
+      'inspiração',
+      'filmes',
+      'música',
+      'comédia',
+    ],
+  },
+  {
+    nome: 'Marcela Mancino',
+    foto: 'https://avatars1.githubusercontent.com/u/39445836?s=460&u=a74b7c518b45d56b2490517bf6fac434bed5e83b&v=4',
+    nomeDoProjeto: 'Paranáflix',
+    url: 'https://paranaflix.vercel.app/',
+    tags: [
+      'paraná',
+      'filmes',
+      'cinema',
+      'arte'
+    ],
+  },
+  {
+    nome: 'Bruno Garcia Vasconcelos',
+    foto: 'https://avatars2.githubusercontent.com/u/45259198',
+    nomeDoProjeto: 'DesorienPlay',
+    url: 'https://desorienplay.vercel.app',
+    tags: [
+      'back end',
+      'podcast',
+      'coding',
+      'livros',
+      'tecnologia',
+      'documentários',
+    ],
+  },
+   {
+    nome: 'Raphael Alves',
+    foto: 'https://avatars2.githubusercontent.com/u/42312289?s=460&u=bae1cdf805e7797f3d6bd3ba9e706024181a35b2&v=4',
+    nomeDoProjeto: 'YvisFlix',
+    url: 'https://yvisflix.vercel.app/',
+    tags: [
+      'música',
+      'filmes',
+      'séries',
+    ],
   },
   {
     nome: 'Henrique Faria',
@@ -227,6 +309,6 @@ export default [
       'vela',
       'regata',
       'mar',
-    ]
+    ],
   },
 ];
