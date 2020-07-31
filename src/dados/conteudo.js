@@ -299,4 +299,19 @@ export default [
       'séries',
     ],
   },
+  {
+    nome: 'Antonio Lazaro (Popete)',
+    foto: 'https://pbs.twimg.com/profile_images/1140251119568019456/3k8uoLan_400x400.jpg',
+    nomeDoProjeto: 'BlackFlix',
+    url: 'https://imersao-alura-blackflix.vercel.app/',
+    tags: [
+      'black',
+      'racismo',
+      'consciencia',
+      'filmes',
+      'documentarios',
+      'entrevistas',
+      'livros',
+    ],
+  },  
 ];
