@@ -311,4 +311,26 @@ export default [
       'documentários',
     ],
   },
+  {
+      nome: 'Jonathan Santos',
+    foto: 'https://avatars0.githubusercontent.com/u/18014023?s=460&u=37a96704fa38c8ad238e053ea4dda9a97f1ff297&v=4',
+    nomeDoProjeto: 'JhowFlix',
+    url: 'https://flix.jhow.io/',
+    tags: [
+      'música',
+      'séries',
+      'games',
+    ],
+  },
+  {
+    nome: 'Bruno Batalha',
+    foto: 'https://avatars1.githubusercontent.com/u/33035221?s=460&u=c7648589c95511abcb5e7172eeab23d8cd1b4fab&v=4',
+    nomeDoProjeto: 'LoLFlix',
+    url: 'https://lolflix.vercel.app/',
+    tags: [
+      'front end',
+      'jogos',
+      'league of legends',
+    ],
+  },
 ];
