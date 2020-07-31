@@ -299,4 +299,17 @@ export default [
       'séries',
     ],
   },
+  {
+    nome: 'Rodrigo Freitas',
+    foto: 'https://avatars0.githubusercontent.com/u/40476225?s=460&u=0151b4a35e8dc217c5003bfecd0c842eabc6ea40&v=4',
+    nomeDoProjeto: 'MotorFlix',
+    url: 'https://rodrigoflix-imersao-react.vercel.app/',
+    tags: [
+      'Carros',
+      'Formula 1',
+      'Moto GP',
+      'Corrida',
+      'Podcast',
+    ],
+  }
 ];
