@@ -345,4 +345,16 @@ export default [
       'rspec',
     ],
   },
+  {
+    nome: 'Leonardo Tavares',
+    foto: 'https://avatars1.githubusercontent.com/u/33882443?s=460&u=d287ae2c9047444af1a12a87bfe75c5189b7862a&v=4',
+    nomeDoProjeto: 'LFLIX',
+    url: 'https://lflix-imersaoalura.vercel.app/',
+    tags: [
+      'front end',
+      'photoshop',
+      'reviews',
+      'unboxing',
+    ],
+  },
 ];
