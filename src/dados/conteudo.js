@@ -40,13 +40,11 @@ export default [
     url: 'https://gogfilms.vercel.app/',
     tags: [
       'quarentena',
-      'dicas',
-      'seriesDeComedia',
+      'comédia',
       'filmes',
-      'trabalhosManuais',
-      'meditacao',
-      'yoga',
-      'decoracao',
+      'DIY',
+      'meditação',
+      'decoração'
     ],
   },
 ];
