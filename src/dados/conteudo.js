@@ -42,11 +42,11 @@ export default [
     nomeDoProjeto: 'KelloFlix',
     url: 'https://kelloflix.vercel.app/',
     tags: [
-      'front-end',
+      'front end',
       'api',
       'tecnologia',
       'animes',
-      'games',
+      'jogos',
       'filmes',
     ],
   },
