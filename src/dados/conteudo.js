@@ -428,26 +428,16 @@ export default [
       'decoração'
     ],
   },
-   {
-    nome: 'Valker Vinicius',
-    foto: 'https://avatars2.githubusercontent.com/u/65914461?s=460&u=7cfb97c0bbda1123729da20099b1ef1d820397c2&v=4',
-    nomeDoProjeto: 'Purinflix',
-    url: 'https://aluraflix-xi.vercel.app/',
-    tags: [
-      'anime',
-      'game',
-      'música',
-    ],
-  },
     {
-    nome: 'Paulo Henrique Gomes',
-    foto: 'https://avatars2.githubusercontent.com/u/1606453?s=400&u=495056a8dd4205cff7aa85b1053a0d84d34e2152&v=4',
-    nomeDoProjeto: 'DudaFlix',
-    url: 'https://dudaflix.vercel.app/',
+    nome: 'Ezequiel França dos Santos',
+    foto: 'hhttps://avatars1.githubusercontent.com/u/3648336?s=460&u=f22b9eed6ef13f2b99db56cfb52051473fc7fad5&v=4',
+    nomeDoProjeto: 'ZupFlix',
+    url: 'hhttps://zupflix-git-master.ezefranca.vercel.app/',
     tags: [
-      'front end',
-      'filmes',
-      'música',
+      'tecnologia',
+      'carreira',
+      'talks',
+      'palestras'
     ],
   },
 ];
