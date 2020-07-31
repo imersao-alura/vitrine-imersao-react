@@ -299,4 +299,13 @@ export default [
       'séries',
     ],
   },
+   {
+    nome: 'Lucas Frigo de Souza',
+    foto: 'https://avatars1.githubusercontent.com/u/19676697?s=460&u=ada1d4318185992a782bd55ba9b8dab529e8d227&v=4',
+    nomeDoProjeto: 'PodFlix',
+    url: 'https://podflix.vercel.app/',
+    tags: [
+      'podcast'      
+    ],
+  },
 ];
