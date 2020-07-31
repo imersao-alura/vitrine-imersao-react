@@ -450,4 +450,16 @@ export default [
       'música',
     ],
   },
+  {
+    nome: 'William Sousa',
+    foto: 'https://avatars1.githubusercontent.com/u/28930281?s=460&u=dcfb0a75ba1c812a722b9cd29bd1b892fd990876&v=4',
+    nomeDoProjeto: 'williamflix',
+    url: 'https://will-imersao-react.vercel.app/',
+    tags: [
+      'Jogos',
+      'Música',
+      'Desenvolvimento',
+      'Geral'
+    ]
+  },
 ];
