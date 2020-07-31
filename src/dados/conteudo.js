@@ -428,4 +428,15 @@ export default [
       'decoração'
     ],
   },
+   {
+    nome: 'Valker Vinicius',
+    foto: 'https://avatars2.githubusercontent.com/u/65914461?s=460&u=7cfb97c0bbda1123729da20099b1ef1d820397c2&v=4',
+    nomeDoProjeto: 'Purinflix',
+    url: 'https://aluraflix-xi.vercel.app/',
+    tags: [
+      'anime',
+      'game',
+      'música',
+    ],
+  },
 ];
