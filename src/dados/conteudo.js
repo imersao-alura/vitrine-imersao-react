@@ -414,4 +414,18 @@ export default [
       'filmes',
     ],
   },
+  {
+    nome: 'Gabriela Gonçalves',
+    foto: 'https://avatars0.githubusercontent.com/u/68876780?s=460&u=c11ec0571a10be54488e1675499930b8ad2bef08&v=4',
+    nomeDoProjeto: 'GogFilms',
+    url: 'https://gogfilms.vercel.app/',
+    tags: [
+      'quarentena',
+      'comédia',
+      'filmes',
+      'DIY',
+      'meditação',
+      'decoração'
+    ],
+  },
 ];
