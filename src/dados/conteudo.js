@@ -299,4 +299,15 @@ export default [
       'séries',
     ],
   },
+   {
+    nome: 'Mateus Souza',
+    foto: 'https://avatars2.githubusercontent.com/u/61070878?s=460&u=8ee46a489d2d21a094b1612ae37ec70e9dd2b90b&v=4',
+    nomeDoProjeto: 'Travelerflix',
+    url: 'https://travelerflix.vercel.app/',
+    tags: [
+      'viagem',
+      'cultura',
+      'mundo',
+    ],
+  },
 ];
