@@ -299,4 +299,17 @@ export default [
       'séries',
     ],
   },
+  {
+    nome: 'Tori Calasans',
+    foto: 'https://avatars2.githubusercontent.com/u/56488155?s=400&u=9b21fa50917f45e3684d23d34cc91ecf962b1732&v=4',
+    nomeDoProjeto: 'NerdFlix',
+    url: 'https://nerd-flix-git-master.toricalasans.vercel.app',
+    tags: [
+      'Animes',
+      'Mangás',
+      'Jogos',
+      'Tecnologia',
+      'Ciência',
+    ],
+  },
 ];
