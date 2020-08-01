@@ -475,6 +475,17 @@ export default [
     ],
   },
   {
+    nome: 'Victor Akio',
+    foto: 'https://avatars0.githubusercontent.com/u/36519906?s=460&v=4',
+    nomeDoProjeto: 'Akioflix',
+    url: 'https://akioflix.vercel.app/',
+    tags: [
+      'front end',
+      'react',
+      'javascript',
+    ],
+  },
+  {
     nome: 'William Sousa',
     foto: 'https://avatars1.githubusercontent.com/u/28930281?s=460&u=dcfb0a75ba1c812a722b9cd29bd1b892fd990876&v=4',
     nomeDoProjeto: 'williamflix',
@@ -578,7 +589,7 @@ export default [
       'Séries',
       'Vídeos',
       'Desenvolvimento',
-      'Geral'
-    ]
-  }
+      'Geral',
+    ],
+  },
 ];
