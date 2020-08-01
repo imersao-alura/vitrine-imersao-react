@@ -462,4 +462,15 @@ export default [
       'Geral'
     ]
   },
+  {
+    nome: 'Francisco Noberto',
+    foto: 'https://avatars2.githubusercontent.com/u/32619479?s=460&u=73445bb9ec11dd30e838bc7f9f2c7c8a6b0ab2d3&v=4',
+    nomeDoProjeto: 'Mineflix',
+    url: 'https://imersao-aluraflix-1bldplo65.vercel.app/',
+    tags: [
+      'minecraft',
+      'Jogos',
+      'pixelart',
+    ],
+  },
 ];
