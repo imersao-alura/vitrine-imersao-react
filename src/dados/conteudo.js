@@ -661,4 +661,18 @@ export default [
       'curiosidades',
     ],
   },
+  {
+    nome: 'Rosana Oliveira da Cruz',
+    foto: 'https://avatars3.githubusercontent.com/u/53317405?s=400&u=d220c9b63d5a80f68ef33c1f5826d4306e09ed53&v=4',
+    nomeDoProjeto: 'rosyflix',
+    url: 'https://rosy-flix.vercel.app/',
+    tags: [
+      'Filmes',
+      'Séries',
+      'Tecnologias',
+      'Games',
+      'Podcast',
+      'Músicas',
+    ],
+  },
 ];
