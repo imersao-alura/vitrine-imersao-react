@@ -152,7 +152,7 @@ export default [
     tags: [
       'filmes',
       'séries',
-      'animes',
+      'anime',
     ],
   },
   {
@@ -384,7 +384,7 @@ export default [
     nomeDoProjeto: '</freirart>',
     url: 'https://freirart.vercel.app/',
     tags: [
-      'Animes',
+      'Anime',
       'filmes',
       'música',
     ],
@@ -418,7 +418,7 @@ export default [
     nomeDoProjeto: 'juhflix',
     url: 'https://juhflix.vercel.app/',
     tags: [
-      'animes',
+      'anime',
       'tecnologia',
       'jogos',
       'filmes',
