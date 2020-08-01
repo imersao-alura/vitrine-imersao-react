@@ -661,4 +661,16 @@ export default [
       'curiosidades',
     ],
   },
+  {
+    nome: 'Monise F. Gomes',
+    foto: 'https://avatars2.githubusercontent.com/u/63984437?s=460&u=702a040753a3478b875596c879017ba922d44732&v=4',
+    nomeDoProjeto: 'MoniseFlix',
+    url: 'https://moniseflix.vercel.app/',
+    tags: [
+      'libras',
+      'escola',
+      'música',
+      'educação',
+    ],
+  },
 ];
