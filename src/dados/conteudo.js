@@ -462,4 +462,17 @@ export default [
       'Geral'
     ]
   },
+  {
+    nome: 'Augusto Pedro Gomes',
+    foto: 'https://avatars2.githubusercontent.com/u/52221457?s=460&v=4',
+    nomeDoProjeto: 'My Top List',
+    url: 'https://mytoplist.vercel.app/',
+    tags: [
+      'Jogos',
+      'Música',
+      'Filmes',
+      'Geral',
+      'Séries'
+    ]
+  },
 ];
