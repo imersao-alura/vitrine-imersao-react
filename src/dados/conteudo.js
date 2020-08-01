@@ -554,4 +554,17 @@ export default [
       'jogos',
     ],
   },
+  {
+    nome: 'Heverton Reis',
+    foto: 'https://avatars1.githubusercontent.com/u/66853052?s=400&v=4',
+    nomeDoProjeto: 'HSRMax',
+    url: 'https://hsrmax.vercel.app/',
+    tags: [
+      'ciência',
+      'música',
+      'desenhos animados',
+      'filmes',
+      'tecnologia',
+    ],
+  },
 ];
