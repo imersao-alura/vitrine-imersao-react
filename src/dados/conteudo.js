@@ -80,6 +80,17 @@ export default [
       ],
     },
   {
+    nome: 'João Felipe',
+    foto: 'https://avatars3.githubusercontent.com/u/65171379?s=460&u=54a50e130dd83d160199635d6d976624283e6d2c&v=4',
+    nomeDoProjeto: 'CapengaFlix',
+    url: 'https://capengaflix.vercel.app/',
+    tags: [
+      'front end',
+      'back end',
+      'Curiosidades',
+    ],
+  },
+  {
     nome: 'Stefânio Jr.',
     foto: 'https://avatars0.githubusercontent.com/u/52108997?s=460&u=1c2893ad23d13844d3ced5d17970dfed772c61ce&v=4',
     nomeDoProjeto: 'indieflix',
@@ -121,7 +132,6 @@ export default [
   },
   {
     nome: 'Vini Black',
-    redeSocial: 'https://twitter.com/BlackVinii',
     foto: 'https://avatars2.githubusercontent.com/u/51183682?s=460&u=c1f09414d262ca2e62a855b9406881a3a26b5e84&v=4',
     nomeDoProjeto: 'Sem Roteiro',
     url: 'https://vercel.com/viniblack/sem-roteiro-react',
