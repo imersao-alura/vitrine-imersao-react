@@ -513,4 +513,18 @@ export default [
       'música',
     ],
   },
+  {
+    nome: 'Simão Freire',
+    foto: 'https://avatars0.githubusercontent.com/u/51380943?s=460&u=cc6ee09fa9a1598cfe3669207d825bbc16987909&v=4',
+    nomeDoProjeto: 'simasTV',
+    url: 'https://simastv.vercel.app/',
+    tags: [
+      'Tecnologia',
+      'Programação',
+      'Filmes',
+      'e-Sports',
+      'Games',
+      'Animes',
+    ],
+  },
 ];
