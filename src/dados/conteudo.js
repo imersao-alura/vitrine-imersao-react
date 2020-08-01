@@ -250,6 +250,18 @@ export default [
     ],
   },
   {
+    nome: 'Aline Naoe',
+    foto: 'https://avatars0.githubusercontent.com/u/33556958?s=460&u=621ac119698e36911bd1d9518cf26dc66678041d&v=4',
+    nomeDoProjeto: 'Veggielix',
+    url: 'https://veggieflix.vercel.app/',
+    tags: [
+      'receitas',
+      'vegetarianismo',
+      'vegan',
+      'comida',
+    ],
+  },
+  {
     nome: 'David Alves',
     foto: 'https://avatars2.githubusercontent.com/u/12610236?s=400&u=6045b8b2e315ca6d8d3362a70d7cbf5c64896114&v=4',
     nomeDoProjeto: 'AwesomeFlix',
