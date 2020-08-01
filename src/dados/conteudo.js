@@ -669,6 +669,8 @@ export default [
     url: 'https://dgsdev.vercel.app/',
     tags: [
       'Tecnologia',
+      'FrontEnd',
+      'BackEnd',
       'Alura',
       'Cursos',
       'Desenvolvimente web',
