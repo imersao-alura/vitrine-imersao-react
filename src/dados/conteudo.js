@@ -472,4 +472,19 @@ export default [
       'Geral'
     ]
   },
+  {
+    nome: 'Thiago Santiago',
+    foto: 'https://avatars3.githubusercontent.com/u/3447962?s=460&u=9e674b6d98b334fa96a61aab11e02caa7c08618c&v=4',
+    nomeDoProjeto: 'santiagoflix',
+    url: 'https://santiagoflix.vercel.app/',
+    tags: [
+      'jogos',
+      'jogos de Tabuleiro',
+      'filmes',
+      'front end',
+      'back end',
+      'esportes',
+      'bola de gude',
+    ]
+  },
 ];
