@@ -36,7 +36,7 @@ export default [
       'filmes',
     ],
   },
-  { 
+  {
     nome: 'Mateus Cirino',
     foto: 'https://avatars0.githubusercontent.com/u/40328105?s=460&u=1c1aac08db6b9afce11593f4add4717fb005ffef&v=4',
     nomeDoProjeto: 'CirinoFlix',
@@ -68,17 +68,17 @@ export default [
       'música',
     ],
   },
-    {
-      nome: 'Rene Sena',
-      foto: ' https://avatars0.githubusercontent.com/u/36897083?s=460&u=82820176ecbee9cb529d2981b17a409ff8859443&v=4',
-      nomeDoProjeto: 'RangoFlix',
-      url: 'https://rangoflix.vercel.app/',
-      tags: [
-        'Receitas',
-        'Culinária',
-        'Vida Saudável',
-      ],
-    },
+  {
+    nome: 'Rene Sena',
+    foto: ' https://avatars0.githubusercontent.com/u/36897083?s=460&u=82820176ecbee9cb529d2981b17a409ff8859443&v=4',
+    nomeDoProjeto: 'RangoFlix',
+    url: 'https://rangoflix.vercel.app/',
+    tags: [
+      'Receitas',
+      'Culinária',
+      'Vida Saudável',
+    ],
+  },
   {
     nome: 'João Felipe',
     foto: 'https://avatars3.githubusercontent.com/u/65171379?s=460&u=54a50e130dd83d160199635d6d976624283e6d2c&v=4',
@@ -257,7 +257,7 @@ export default [
     tags: [
       'front end',
       'back end',
-    ]
+    ],
   },
   {
     nome: 'Marcos Alexandre dos Anjos',
@@ -271,7 +271,7 @@ export default [
       'tecnologia',
       'jogos',
       'filmes',
-    ]
+    ],
   },
   {
     nome: 'Anderson Dias',
@@ -306,7 +306,7 @@ export default [
       'paraná',
       'filmes',
       'cinema',
-      'arte'
+      'arte',
     ],
   },
   {
@@ -323,7 +323,7 @@ export default [
       'documentários',
     ],
   },
-   {
+  {
     nome: 'Raphael Alves',
     foto: 'https://avatars2.githubusercontent.com/u/42312289?s=460&u=bae1cdf805e7797f3d6bd3ba9e706024181a35b2&v=4',
     nomeDoProjeto: 'YvisFlix',
@@ -335,7 +335,7 @@ export default [
     ],
   },
   {
-      nome: 'Jonathan Santos',
+    nome: 'Jonathan Santos',
     foto: 'https://avatars0.githubusercontent.com/u/18014023?s=460&u=37a96704fa38c8ad238e053ea4dda9a97f1ff297&v=4',
     nomeDoProjeto: 'JhowFlix',
     url: 'https://flix.jhow.io/',
@@ -353,7 +353,7 @@ export default [
     tags: [
       'front end',
       'jogos',
-      'league of legends',  
+      'league of legends',
     ],
   },
   {
@@ -403,7 +403,7 @@ export default [
       'música',
     ],
   },
-    {
+  {
     nome: 'Luís Henrique',
     foto: 'https://avatars2.githubusercontent.com/u/63956850?s=460&u=96dcd152ff4caea77ab8eb01757d1015b4943b3d&v=4',
     nomeDoProjeto: 'LigaFlix',
@@ -449,10 +449,10 @@ export default [
       'filmes',
       'DIY',
       'meditação',
-      'decoração'
+      'decoração',
     ],
   },
-   {
+  {
     nome: 'Valker Vinicius',
     foto: 'https://avatars2.githubusercontent.com/u/65914461?s=460&u=7cfb97c0bbda1123729da20099b1ef1d820397c2&v=4',
     nomeDoProjeto: 'Purinflix',
@@ -463,7 +463,7 @@ export default [
       'música',
     ],
   },
-    {
+  {
     nome: 'Paulo Henrique Gomes',
     foto: 'https://avatars2.githubusercontent.com/u/1606453?s=400&u=495056a8dd4205cff7aa85b1053a0d84d34e2152&v=4',
     nomeDoProjeto: 'DudaFlix',
@@ -483,8 +483,8 @@ export default [
       'Jogos',
       'Música',
       'Desenvolvimento',
-      'Geral'
-    ]
+      'Geral',
+    ],
   },
   {
     nome: 'Jhonata Galante',
@@ -498,7 +498,7 @@ export default [
       'endings',
     ],
   },
-    {
+  {
     nome: 'Ismael Oliveira',
     foto: 'https://avatars1.githubusercontent.com/u/22065160?s=460&u=5d667bd59df5c926cb0942f03207e50c4e1905ba&v=4',
     nomeDoProjeto: 'KelloFlix',
@@ -512,17 +512,17 @@ export default [
       'filmes',
     ],
   },
-    {
+  {
     nome: 'Augusto Calandrino',
     foto: 'https://avatars2.githubusercontent.com/u/22560579?s=460&u=2df440a73ddf28bfafa837364a9ab1bd755a2b20&v=4',
     nomeDoProjeto: 'code4gflix',
     url: 'https://code-4gflix.vercel.app/',
     tags: [
       'programação',
-      'Data Science'
-      'Front end'
-      'Business Analytics'
-      'Business Intelligence'
+      'Data Science',
+      'Front end',
+      'Business Analytics',
+      'Business Intelligence',
       'filmes',
       'música',
     ],
@@ -541,6 +541,7 @@ export default [
       'Animes',
     ],
   },
+  {
     nome: 'Rayon Lindraz Nunes',
     redeSocial: 'https://instagram.com/rayonnunes',
     foto: 'https://avatars2.githubusercontent.com/u/13816352?s=460&u=951f0beff58adc4c201448b514f5171b98323c10&v=4',
