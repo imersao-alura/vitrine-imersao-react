@@ -639,4 +639,16 @@ export default [
       'séries',
     ],
   },
+  {    
+    nome: 'Vinicius Figueiredo Santana',
+    foto: 'https://avatars1.githubusercontent.com/u/30605801?s=460&v=4',
+    nomeDoProjeto: 'Duplo 6',
+    url: 'https://duplo-6.vercel.app/',
+    tags: [
+      'front end',
+      'jogos',
+      'tabuleiro',
+      'demo',
+    ],
+  },
 ];
