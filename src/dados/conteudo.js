@@ -39,7 +39,7 @@ export default [
     nomeDoProjeto: 'code4gflix',
     url: 'https://code-4gflix.vercel.app/',
     tags: [
-      'Dev',
+      'programação',
       'Data Science'
       'Front end'
       'Business Analytics'
