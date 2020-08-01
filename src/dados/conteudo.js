@@ -472,7 +472,12 @@ export default [
       'Música',
       'Filmes',
       'Geral',
-      'Séries'
+      'Séries',
+      'Cult',
+      'Brasil',
+      'Switch',
+      'Playstation',
+      'Xbox'
     ]
   },
 ];
