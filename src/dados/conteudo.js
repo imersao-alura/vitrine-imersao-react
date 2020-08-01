@@ -472,4 +472,17 @@ export default [
       'Geral'
     ]
   },
+  {
+    nome: 'Ciro Moura',
+    foto: 'https://avatars0.githubusercontent.com/u/28021343?s=460&u=5fb5f38d67fc6ccc26540bbce0718ad05f170db3&v=4',
+    nomeDoProjeto: 'GuardaVídeos',
+    url: 'https://guardavideos.vercel.app/',
+    tags: [
+      'Filmes',
+      'Séries',
+      'Vídeos',
+      'Desenvolvimento',
+      'Geral'
+    ]
+  }
 ];
