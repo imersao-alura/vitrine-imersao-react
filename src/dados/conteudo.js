@@ -225,7 +225,7 @@ export default [
     tags: [
       'harry potter',
       'filmes',
-      'games',
-    ]
-  }
+      'jogos',
+    ],
+  },
 ];
