@@ -661,4 +661,15 @@ export default [
       'curiosidades',
     ],
   },
+  {
+    nome: 'Momoe Mori',
+    foto: 'https://avatars2.githubusercontent.com/u/62037594?s=460&u=c019f1abd59ded0e656a5473e0ba44430f8f9b9e&v=4',
+    nomeDoProjeto: 'Sakura Gakuin Flix',
+    url: 'https://sakura-gakuin-flix.vercel.app/',
+    tags: [
+      'música',
+      'metal',
+      'japao',
+    ],
+  },  
 ];
