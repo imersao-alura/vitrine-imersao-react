@@ -603,4 +603,15 @@ export default [
       'devops',
     ]
   },
+  {
+    nome: 'Bruno Dornela',
+    foto: 'https://avatars1.githubusercontent.com/u/20133242?s=460&u=0ede521e8ad285ef91e87299bc5d376878348000&v=4',
+    nomeDoProjeto: 'PotterFlix',
+    url: 'https://potterflix.vercel.app/',
+    tags: [
+      'harry potter',
+      'filmes',
+      'jogos',
+    ],
+  },
 ];
