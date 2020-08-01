@@ -2,26 +2,30 @@ import styled from 'styled-components';
 import { Tag } from '../Card/style';
 
 export const PopoverButton = styled.button`
+  align-self: baseline;
   background: transparent;
   border: none;
   cursor: pointer;
+  display: inherit;
   outline: none;
   padding: 0;
   position: relative;
 `;
 
 export const PopoverContent = styled.ul`
+  background-color: var(--secondary);
+  border-radius: 4px;
+  color: var(--secondary);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  list-style: none;
+  min-width: 250px;
+  padding: 10px;
   position: absolute;
   right: 10px;
   top: calc(100% + 10px);
-  background-color: var(--secondary);
-  color: var(--secondary);
-  padding: 10px;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  list-style: none;
-  border-radius: 4px;
 
   &:after {
     border: 8px solid;
