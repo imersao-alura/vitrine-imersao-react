@@ -306,6 +306,7 @@ export default [
     url: 'prideflix.vercel.app/',
     tags: [
       'indicações',
+      'lgbt+',
       'arte',
       'música',
       'cinema',
