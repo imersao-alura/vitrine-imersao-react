@@ -465,13 +465,13 @@ export default [
   {
     nome: 'Leandro Almeida',
     foto: 'https://avatars2.githubusercontent.com/u/30052919?s=460&u=e7f2efe21341d9159a6dc944d1b795f9bd04b807&v=4',
-    nomeDoProjeto: 'garouflix',
+    nomeDoProjeto: 'garoupicks',
     url: 'https://garoupicks.vercel.app/',
     tags: [
       'Filmes',
       'Ficção científica',
       'Terror',
-      'Games'
+      'Games',
     ]
   },
 ];
