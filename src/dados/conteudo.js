@@ -592,4 +592,15 @@ export default [
       'Geral',
     ],
   },
+  {
+    nome: 'Pedro Leão',
+    foto: 'https://avatars0.githubusercontent.com/u/2072809?s=460&u=9e15fb5e41d177242262e1b3d6226ba72002feea&v=4',
+    nomeDoProjeto: 'PedroFlix',
+    url: 'https://pedroflix-seven.vercel.app/',
+    tags: [
+      'front end',
+      'back end',
+      'devops',
+    ]
+  },
 ];
