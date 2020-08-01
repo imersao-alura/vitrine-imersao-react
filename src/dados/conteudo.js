@@ -669,7 +669,7 @@ export default [
     url: 'https://dgsdev.vercel.app/',
     tags: [
       'Tecnologia',
-      'Filmes',
+      'Alura',
       'Cursos',
       'Desenvolvimente web',
       'Programação',
