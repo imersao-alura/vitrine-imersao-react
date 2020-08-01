@@ -661,4 +661,16 @@ export default [
       'curiosidades',
     ],
   },
+  {
+    nome: 'Josias Costa',
+    foto: 'https://avatars3.githubusercontent.com/u/6339691?s=460&v=4',
+    nomeDoProjeto: 'JoxFlix',
+    url: 'https://joxflix.vercel.app/',
+    tags: [
+      'filmes',
+      'trabalhos manuais',
+      'series',
+      'tecnologia',
+    ],
+  },
 ];
