@@ -661,4 +661,14 @@ export default [
       'curiosidades',
     ],
   },
+    {
+    nome: 'Samara Lima',
+    foto: 'https://avatars2.githubusercontent.com/u/31517158?s=460&u=628c45b301cb82c8494856162deef7d50d070481&v=4',
+    nomeDoProjeto: 'BookFlix',
+    url: 'https://bookflix.vercel.app/',
+    tags: [
+      'livros',
+      'resenhas',
+    ],
+  },
 ];
