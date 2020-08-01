@@ -661,4 +661,15 @@ export default [
       'curiosidades',
     ],
   },
+   {
+    nome: 'Gabriel Rios',
+    foto: 'https://avatars2.githubusercontent.com/u/60109015?s=460&u=941726645c23518f8cbcb9fca84ea7becc0508c5&v=4',
+    nomeDoProjeto: 'Enlgishflix',
+    url: 'https://englishflix.vercel.app/',
+    tags: [
+      'carreira',
+      'inglês',
+      'videos',
+    ],
+  },
 ];
