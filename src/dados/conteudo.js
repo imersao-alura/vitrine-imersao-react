@@ -7,7 +7,7 @@ export default [
     tags: [
       'front end', 
       'filmes', 
-      'música'
+      'música',
     ],
   },
   {
@@ -20,7 +20,7 @@ export default [
     tags: [
       'front end', 
       'filmes', 
-      'música'
+      'música',
     ],
   },
   {
@@ -32,7 +32,7 @@ export default [
     tags: [
       'front end', 
       'filmes', 
-      'música'
+      'música',
     ],
   },
   {
@@ -43,7 +43,7 @@ export default [
     tags: [
       'front end', 
       'Back end', 
-      'Games'
+      'Games',
     ],
   },
 ]
