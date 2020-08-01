@@ -260,6 +260,20 @@ export default [
     ]
   },
   {
+    nome: 'Marcos Alexandre dos Anjos',
+    foto: 'https://avatars2.githubusercontent.com/u/32145970?s=460&u=ec5ad3525963f3e636179eeb1a55b696a56ead08&v=4',
+    nomeDoProjeto: 'marcolaFlix',
+    url: 'https://marcola-flix.vercel.app/',
+    tags: [
+      'front end',
+      'back end',
+      'data science',
+      'tecnologia',
+      'jogos',
+      'filmes',
+    ]
+  },
+  {
     nome: 'Anderson Dias',
     foto: 'https://avatars2.githubusercontent.com/u/1341627?s=460&u=27c7097332d79c4a86cf212393d00b88fc1be289&v=4',
     nomeDoProjeto: 'AndersonDiasFlix',
