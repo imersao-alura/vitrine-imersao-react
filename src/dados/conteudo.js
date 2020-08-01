@@ -462,4 +462,15 @@ export default [
       'Geral'
     ]
   },
+  {
+    nome: 'Vanessa Ribeiro Koch',
+    foto: 'https://avatars1.githubusercontent.com/u/49540299?s=460&u=f88ab6da79935e30fc189625bfb9e46301e32f23&v=4',
+    nomeDoProjeto: 'healthflix',
+    url: 'https://healthflix.vercel.app/',
+    tags: [
+      'saúde',
+      'quarentena',
+      'vida saudável',
+    ],
+  },
 ];
