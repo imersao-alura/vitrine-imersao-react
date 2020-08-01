@@ -223,12 +223,12 @@ export default [
     nomeDoProjeto: 'ShinoharaFlix',
     url: 'https://shinoharaflix.vercel.app/',
     tags: [
-      'animes',
-      'gamedev',
-      'create-react',
+      'react',
+      'tecnologia',
       'front end',
       'back end',
-      'produtividade'
+      'produtividade',
+      'carreira',
     ]
   },
 ];
