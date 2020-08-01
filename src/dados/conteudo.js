@@ -661,4 +661,16 @@ export default [
       'curiosidades',
     ],
   },
+  {
+    nome: 'Kleber Rocha',
+    foto: 'https://avatars2.githubusercontent.com/u/65262770?v=4',
+    nomeDoProjeto: 'HorrorFlix',
+    url: 'https://horror-flix.vercel.app/',
+    tags: [
+      'Filmes',
+      'Jogos',
+      'Séries',
+      'Terror',
+    ],
+  },
 ];
