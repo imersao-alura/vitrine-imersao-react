@@ -661,4 +661,13 @@ export default [
       'curiosidades',
     ],
   },
+  {
+    nome: 'Christian Testtzlaffe',
+    foto: 'https://avatars3.githubusercontent.com/u/50345995?s=460&u=44aa87e4ff3d423b7bb0566ef035f0d48bac6b00&v=4',
+    nomeDoProjeto: 'Netfenix',
+    url: 'https://netfenix.vercel.app/',
+    tags: [
+      'anime',
+    ],
+  },
 ];
