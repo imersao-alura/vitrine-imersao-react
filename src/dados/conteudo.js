@@ -661,4 +661,16 @@ export default [
       'curiosidades',
     ],
   },
+    {
+    nome: 'Michel Bernardo',
+    foto: 'https://avatars2.githubusercontent.com/u/47263354?s=400&u=e02a441acc959b16334d30ab8e9d96f1adcb6b76&v=4',
+    nomeDoProjeto: 'Tibiaflix',
+    url: 'https://tibiaflix-six.vercel.app/',
+    tags: [
+      'Games',
+      'Jogos',
+      'RPG',
+      'Vídeo',
+    ],
+  },
 ];
