@@ -519,10 +519,10 @@ export default [
     url: 'https://code-4gflix.vercel.app/',
     tags: [
       'programação',
-      'Data Science'
-      'Front end'
-      'Business Analytics'
-      'Business Intelligence'
+      'Data Science',
+      'Front end',
+      'Business Analytics',
+      'Business Intelligence',
       'filmes',
       'música',
     ],
@@ -541,6 +541,7 @@ export default [
       'Animes',
     ],
   },
+  {
     nome: 'Rayon Lindraz Nunes',
     redeSocial: 'https://instagram.com/rayonnunes',
     foto: 'https://avatars2.githubusercontent.com/u/13816352?s=460&u=951f0beff58adc4c201448b514f5171b98323c10&v=4',
@@ -565,6 +566,16 @@ export default [
       'desenhos animados',
       'filmes',
       'tecnologia',
+    ],
+  },
+  {
+    nome: 'Hudson Lima',
+    foto: 'https://media-exp1.licdn.com/dms/image/C4E03AQHZwFn79Ynz1A/profile-displayphoto-shrink_100_100/0?e=1601510400&v=beta&t=XS0U7qooFi5n5heu9v0wB4zVuVGibK8Irwtnd-gO0sU',
+    nomeDoProjeto: 'HuudFlix',
+    url: 'https://huudflix.vercel.app/',
+    tags: [
+      'música',
+      'filmes'
     ],
   },
 ];
