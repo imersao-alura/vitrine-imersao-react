@@ -312,4 +312,3 @@ export default [
       'selenium',
     ],
   },
-];
