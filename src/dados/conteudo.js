@@ -42,8 +42,8 @@ export default [
     url: 'https://emerflix.vercel.app/',
     tags: [
       'front end', 
-      'Back end', 
-      'Games',
+      'back end', 
+      'games',
     ],
   },
 ]
