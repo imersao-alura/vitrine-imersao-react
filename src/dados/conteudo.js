@@ -662,7 +662,7 @@ export default [
     ],
   },
    {
-    nome: 'Kamila Vieira',
+    nome: 'Kamila Almeida',
     foto: 'https://avatars1.githubusercontent.com/u/60486364?s=460&u=62d7a70278f4484b041cd2c6658b4f2075b748e3&v=4',
     nomeDoProjeto: 'DocumentaryFlix',
     url: 'https://documentaryflix.vercel.app/',
