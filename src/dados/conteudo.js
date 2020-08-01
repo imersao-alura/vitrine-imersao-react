@@ -68,10 +68,7 @@ export default [
       'devops',
       'perícia forense',
       'computação forense',
-      'computer forensics',
-      'forensic expertise',
       'forense',
-      'forensic',
     ],
   },
   {
