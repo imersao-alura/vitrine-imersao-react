@@ -472,4 +472,18 @@ export default [
       'Geral'
     ]
   },
+  {
+    nome: 'Douglas de Assis',
+    redeSocial: 'https://www.instagram.com/ddads/',
+    foto: 'https://avatars1.githubusercontent.com/u/32401953?s=460&u=df7a4e57a57b31f4cec758a7d9268db4821a2406&v=4',
+    nomeDoProjeto: 'DougFlix',
+    url: 'https://dougflix-tech.vercel.app/',
+    tags: [
+      'culinaria',
+      'jardinagem',
+      'quarentena',
+      'financas',
+      'politica',
+    ],
+  },
 ];
