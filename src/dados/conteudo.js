@@ -661,4 +661,14 @@ export default [
       'curiosidades',
     ],
   },
+  {
+    nome: 'Larissa Silva',
+    foto: 'https://avatars1.githubusercontent.com/u/18752456?s=460&u=453c472b8c1da2066ab9ce5da49e394fd59c7f7a&v=4',
+    nomeDoProjeto: 'AnimeFlix',
+    url: 'animeflix.lagcrs.vercel.app',
+    tags: [
+      'front end',
+      'animes',
+    ],
+  },
 ];
