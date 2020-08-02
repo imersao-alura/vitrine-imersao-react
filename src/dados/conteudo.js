@@ -661,4 +661,15 @@ export default [
       'curiosidades',
     ],
   },
+    {
+    nome: 'Ericka Lima',
+    foto: 'https://avatars2.githubusercontent.com/u/60022131?s=460&u=9bc8d75fd14180f6da77481e249632b922060534&v=4',
+    nomeDoProjeto: 'KnFlix',
+    url: 'https://knreactflix.vercel.app',
+    tags: [
+      'séries',
+      'arrowverse',
+      'crossover',
+    ],
+  },
 ];
