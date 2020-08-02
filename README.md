@@ -2,6 +2,10 @@
 
 Você pode conferir a vitrine [aqui](https://vitrine-imersao-react.vercel.app/).
 
+> PS: Coloca seu projeto também na vitrine dos alunos criada por um aluno!
+> - https://twitter.com/Theduardds/status/1289022500819566592
+> - https://alunosflix-frontend.vercel.app/
+
 ### Como subir o seu projeto?
 
 Caso prefira, você também pode acompanhar [esse vídeo da Ju Negreiros](https://youtu.be/4qy23EulMbw) explicando como subir o seu projeto.
