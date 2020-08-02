@@ -36,7 +36,7 @@ export default [
       'filmes',
     ],
   },
-  { 
+  {
     nome: 'Mateus Cirino',
     foto: 'https://avatars0.githubusercontent.com/u/40328105?s=460&u=1c1aac08db6b9afce11593f4add4717fb005ffef&v=4',
     nomeDoProjeto: 'CirinoFlix',
@@ -68,17 +68,28 @@ export default [
       'música',
     ],
   },
-    {
-      nome: 'Rene Sena',
-      foto: ' https://avatars0.githubusercontent.com/u/36897083?s=460&u=82820176ecbee9cb529d2981b17a409ff8859443&v=4',
-      nomeDoProjeto: 'RangoFlix',
-      url: 'https://rangoflix.vercel.app/',
-      tags: [
-        'Receitas',
-        'Culinária',
-        'Vida Saudável',
-      ],
-    },
+  {
+    nome: 'Rene Sena',
+    foto: ' https://avatars0.githubusercontent.com/u/36897083?s=460&u=82820176ecbee9cb529d2981b17a409ff8859443&v=4',
+    nomeDoProjeto: 'RangoFlix',
+    url: 'https://rangoflix.vercel.app/',
+    tags: [
+      'Receitas',
+      'Culinária',
+      'Vida Saudável',
+    ],
+  },
+  {
+    nome: 'João Felipe',
+    foto: 'https://avatars3.githubusercontent.com/u/65171379?s=460&u=54a50e130dd83d160199635d6d976624283e6d2c&v=4',
+    nomeDoProjeto: 'CapengaFlix',
+    url: 'https://capengaflix.vercel.app/',
+    tags: [
+      'front end',
+      'back end',
+      'Curiosidades',
+    ],
+  },
   {
     nome: 'Stefânio Jr.',
     foto: 'https://avatars0.githubusercontent.com/u/52108997?s=460&u=1c2893ad23d13844d3ced5d17970dfed772c61ce&v=4',
@@ -121,7 +132,6 @@ export default [
   },
   {
     nome: 'Vini Black',
-    redeSocial: 'https://twitter.com/BlackVinii',
     foto: 'https://avatars2.githubusercontent.com/u/51183682?s=460&u=c1f09414d262ca2e62a855b9406881a3a26b5e84&v=4',
     nomeDoProjeto: 'Sem Roteiro',
     url: 'https://vercel.com/viniblack/sem-roteiro-react',
@@ -142,7 +152,7 @@ export default [
     tags: [
       'filmes',
       'séries',
-      'animes',
+      'anime',
     ],
   },
   {
@@ -240,6 +250,18 @@ export default [
     ],
   },
   {
+    nome: 'Aline Naoe',
+    foto: 'https://avatars0.githubusercontent.com/u/33556958?s=460&u=621ac119698e36911bd1d9518cf26dc66678041d&v=4',
+    nomeDoProjeto: 'Veggielix',
+    url: 'https://veggieflix.vercel.app/',
+    tags: [
+      'receitas',
+      'vegetarianismo',
+      'vegan',
+      'comida',
+    ],
+  },
+  {
     nome: 'David Alves',
     foto: 'https://avatars2.githubusercontent.com/u/12610236?s=400&u=6045b8b2e315ca6d8d3362a70d7cbf5c64896114&v=4',
     nomeDoProjeto: 'AwesomeFlix',
@@ -247,7 +269,21 @@ export default [
     tags: [
       'front end',
       'back end',
-    ]
+    ],
+  },
+  {
+    nome: 'Marcos Alexandre dos Anjos',
+    foto: 'https://avatars2.githubusercontent.com/u/32145970?s=460&u=ec5ad3525963f3e636179eeb1a55b696a56ead08&v=4',
+    nomeDoProjeto: 'marcolaFlix',
+    url: 'https://marcola-flix.vercel.app/',
+    tags: [
+      'front end',
+      'back end',
+      'data science',
+      'tecnologia',
+      'jogos',
+      'filmes',
+    ],
   },
   {
     nome: 'Anderson Dias',
@@ -282,7 +318,7 @@ export default [
       'paraná',
       'filmes',
       'cinema',
-      'arte'
+      'arte',
     ],
   },
   {
@@ -299,7 +335,7 @@ export default [
       'documentários',
     ],
   },
-   {
+  {
     nome: 'Raphael Alves',
     foto: 'https://avatars2.githubusercontent.com/u/42312289?s=460&u=bae1cdf805e7797f3d6bd3ba9e706024181a35b2&v=4',
     nomeDoProjeto: 'YvisFlix',
@@ -342,7 +378,7 @@ export default [
     tags: [
       'front end',
       'jogos',
-      'league of legends',  
+      'league of legends',
     ],
   },
   {
@@ -387,12 +423,12 @@ export default [
     nomeDoProjeto: '</freirart>',
     url: 'https://freirart.vercel.app/',
     tags: [
-      'Animes',
+      'Anime',
       'filmes',
       'música',
     ],
   },
-    {
+  {
     nome: 'Luís Henrique',
     foto: 'https://avatars2.githubusercontent.com/u/63956850?s=460&u=96dcd152ff4caea77ab8eb01757d1015b4943b3d&v=4',
     nomeDoProjeto: 'LigaFlix',
@@ -421,10 +457,221 @@ export default [
     nomeDoProjeto: 'juhflix',
     url: 'https://juhflix.vercel.app/',
     tags: [
-      'animes',
+      'anime',
       'tecnologia',
       'jogos',
       'filmes',
+    ],
+  },
+  {
+    nome: 'Gabriela Gonçalves',
+    foto: 'https://avatars0.githubusercontent.com/u/68876780?s=460&u=c11ec0571a10be54488e1675499930b8ad2bef08&v=4',
+    nomeDoProjeto: 'GogFilms',
+    url: 'https://gogfilms.vercel.app/',
+    tags: [
+      'quarentena',
+      'comédia',
+      'filmes',
+      'DIY',
+      'meditação',
+      'decoração',
+    ],
+  },
+  {
+    nome: 'Valker Vinicius',
+    foto: 'https://avatars2.githubusercontent.com/u/65914461?s=460&u=7cfb97c0bbda1123729da20099b1ef1d820397c2&v=4',
+    nomeDoProjeto: 'Purinflix',
+    url: 'https://aluraflix-xi.vercel.app/',
+    tags: [
+      'anime',
+      'game',
+      'música',
+    ],
+  },
+  {
+    nome: 'Paulo Henrique Gomes',
+    foto: 'https://avatars2.githubusercontent.com/u/1606453?s=400&u=495056a8dd4205cff7aa85b1053a0d84d34e2152&v=4',
+    nomeDoProjeto: 'DudaFlix',
+    url: 'https://dudaflix.vercel.app/',
+    tags: [
+      'front end',
+      'filmes',
+      'música',
+    ],
+  },
+  {
+    nome: 'Victor Akio',
+    foto: 'https://avatars0.githubusercontent.com/u/36519906?s=460&v=4',
+    nomeDoProjeto: 'Akioflix',
+    url: 'https://akioflix.vercel.app/',
+    tags: [
+      'front end',
+      'react',
+      'javascript',
+    ],
+  },
+  {
+    nome: 'William Sousa',
+    foto: 'https://avatars1.githubusercontent.com/u/28930281?s=460&u=dcfb0a75ba1c812a722b9cd29bd1b892fd990876&v=4',
+    nomeDoProjeto: 'williamflix',
+    url: 'https://will-imersao-react.vercel.app/',
+    tags: [
+      'Jogos',
+      'Música',
+      'Desenvolvimento',
+      'Geral',
+    ],
+  },
+  {
+    nome: 'Jhonata Galante',
+    foto: 'https://avatars0.githubusercontent.com/u/16074925?s=460&u=ed25c17c1be881f20d1f59537173f1723d174ddc&v=4',
+    nomeDoProjeto: 'JhonFlix',
+    url: 'https://jhonflix-git-master.jhongalante.vercel.app/',
+    tags: [
+      'anime',
+      'amv',
+      'openings',
+      'endings',
+    ],
+  },
+  {
+    nome: 'Ismael Oliveira',
+    foto: 'https://avatars1.githubusercontent.com/u/22065160?s=460&u=5d667bd59df5c926cb0942f03207e50c4e1905ba&v=4',
+    nomeDoProjeto: 'KelloFlix',
+    url: 'https://kelloflix.vercel.app/',
+    tags: [
+      'front end',
+      'api',
+      'tecnologia',
+      'animes',
+      'jogos',
+      'filmes',
+    ],
+  },
+  {
+    nome: 'Augusto Calandrino',
+    foto: 'https://avatars2.githubusercontent.com/u/22560579?s=460&u=2df440a73ddf28bfafa837364a9ab1bd755a2b20&v=4',
+    nomeDoProjeto: 'code4gflix',
+    url: 'https://code-4gflix.vercel.app/',
+    tags: [
+      'programação',
+      'Data Science',
+      'Front end',
+      'Business Analytics',
+      'Business Intelligence',
+      'filmes',
+      'música',
+    ],
+  },
+  {
+    nome: 'Simão Freire',
+    foto: 'https://avatars0.githubusercontent.com/u/51380943?s=460&u=cc6ee09fa9a1598cfe3669207d825bbc16987909&v=4',
+    nomeDoProjeto: 'simasTV',
+    url: 'https://simastv.vercel.app/',
+    tags: [
+      'Tecnologia',
+      'Programação',
+      'Filmes',
+      'e-Sports',
+      'Games',
+      'Animes',
+    ],
+  },
+  {
+    nome: 'Rayon Lindraz Nunes',
+    redeSocial: 'https://instagram.com/rayonnunes',
+    foto: 'https://avatars2.githubusercontent.com/u/13816352?s=460&u=951f0beff58adc4c201448b514f5171b98323c10&v=4',
+    nomeDoProjeto: 'Rayonix',
+    url: 'https://rayonix.vercel.app/',
+    tags: [
+      'ciencia',
+      'tecnologia',
+      'filosofia',
+      'música',
+      'jogos',
+    ],
+  },
+  {
+    nome: 'Heverton Reis',
+    foto: 'https://avatars1.githubusercontent.com/u/66853052?s=400&v=4',
+    nomeDoProjeto: 'HSRMax',
+    url: 'https://hsrmax.vercel.app/',
+    tags: [
+      'ciência',
+      'música',
+      'desenhos animados',
+      'filmes',
+      'tecnologia',
+    ],
+  },
+  {
+    nome: 'Ciro Moura',
+    foto: 'https://avatars0.githubusercontent.com/u/28021343?s=460&u=5fb5f38d67fc6ccc26540bbce0718ad05f170db3&v=4',
+    nomeDoProjeto: 'GuardaVídeos',
+    url: 'https://guardavideos.vercel.app/',
+    tags: [
+      'Filmes',
+      'Séries',
+      'Vídeos',
+      'Desenvolvimento',
+      'Geral',
+    ],
+  },
+  {
+    nome: 'Pedro Leão',
+    foto: 'https://avatars0.githubusercontent.com/u/2072809?s=460&u=9e15fb5e41d177242262e1b3d6226ba72002feea&v=4',
+    nomeDoProjeto: 'PedroFlix',
+    url: 'https://pedroflix-seven.vercel.app/',
+    tags: [
+      'front end',
+      'back end',
+      'devops',
+    ]
+  },
+  {
+    nome: 'Bruno Dornela',
+    foto: 'https://avatars1.githubusercontent.com/u/20133242?s=460&u=0ede521e8ad285ef91e87299bc5d376878348000&v=4',
+    nomeDoProjeto: 'PotterFlix',
+    url: 'https://potterflix.vercel.app/',
+    tags: [
+      'harry potter',
+      'filmes',
+      'jogos',
+    ],
+  },
+  {
+    nome: 'Matheus Moura',
+    foto: 'https://avatars0.githubusercontent.com/u/52864773?s=460&u=40c6028b777eff371ce7bd1b73a03eb548872180&v=4',
+    nomeDoProjeto: 'Mouraflix',
+    url: 'https://mouraflix.vercel.app/',
+    tags: [
+      'desenvolvimento',
+      'curiosidades',
+      'filmes',
+      'músicas',
+      'séries',
+    ],
+  },
+  {    
+    nome: 'Vinicius Figueiredo Santana',
+    foto: 'https://avatars1.githubusercontent.com/u/30605801?s=460&v=4',
+    nomeDoProjeto: 'Duplo 6',
+    url: 'https://duplo-6.vercel.app/',
+    tags: [
+      'front end',
+      'jogos',
+      'tabuleiro',
+      'demo',
+    ],
+  },
+  {
+    nome: 'Maria Clara Pagotto',
+    foto: 'https://avatars0.githubusercontent.com/u/38994454?s=460&u=c1107e7508447ae483d18ad05123994f16567c6e&v=4',
+    nomeDoProjeto: 'Animalflix',
+    url: 'https://animalflix.vercel.app/',
+    tags: [
+      'animais',
+      'curiosidades',
     ],
   },
 ];
