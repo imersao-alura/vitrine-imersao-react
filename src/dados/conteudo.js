@@ -661,4 +661,17 @@ export default [
       'curiosidades',
     ],
   },
+  {
+    nome: 'Gabriel Ronei de Oliveira Paulo',
+    foto: 'http://1.gravatar.com/avatar/64e08c3e7e5eef2745e087b3f379adbc',
+    nomeDoProjeto: 'MUSICHUB',
+    url: 'https://musichub.vercel.app/',
+    tags: [
+      'músicas',
+      'metal',
+      'rap',
+      'folk',
+      'curiosidades',
+    ],
+  },
 ];
