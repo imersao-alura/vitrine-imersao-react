@@ -661,4 +661,15 @@ export default [
       'curiosidades',
     ],
   },
+  {
+    nome: 'tati alves',
+    foto: 'https://avatars0.githubusercontent.com/u/56259137?s=460&u=7e53ab0b5edbecb022fec2b1c7b9ba25170fca74&v=4',
+    nomeDoProjeto: 'Bookflix',
+    url: 'https://book-flix.vercel.app/',
+    tags: [
+      'livros',
+      'booktube',
+      'literatura',
+    ],
+  },
 ];
