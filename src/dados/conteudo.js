@@ -661,4 +661,22 @@ export default [
       'curiosidades',
     ],
   },
+  {    
+    nome: 'Rodrigo Simões Ribeiro',
+    foto: 'https://avatars2.githubusercontent.com/u/25260155?s=460&u=062f8d7dcc1511f2dc85db5f2da78934631f383d&v=4',
+    nomeDoProjeto: 'RODDIEFLIX',
+    url: 'https://roddieflix.vercel.app/',
+    tags: [
+      'front end',
+      'back end',
+      'jogos',
+      'motorsport',
+      'filmes',
+      'desenvolvimento web',
+      'rock',
+      'drummers',
+      'bateras',
+      'bateristas',
+    ],
+  },
 ];
