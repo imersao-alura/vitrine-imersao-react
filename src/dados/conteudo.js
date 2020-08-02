@@ -661,4 +661,20 @@ export default [
       'curiosidades',
     ],
   },
+  {
+    nome: 'Italo Nedilson',
+    foto: 'https://avatars0.githubusercontent.com/u/10869396?s=460&u=ec8edbff91e29cf3bc446860b0e2925a2b80f341&v=4',
+    nomeDoProjeto: 'Nedflix',
+    url: 'https://nedflix.vercel.app/',
+    tags: [
+      'podcast',
+      'musica',
+      'vida saudável',
+      'aprendendo a aprender',
+      'humor',
+      'ciência',
+      'quarentena',
+      'ciencia',
+    ],
+  },
 ];
