@@ -661,4 +661,15 @@ export default [
       'curiosidades',
     ],
   },
+  {
+    nome: 'Bruno Cesar',
+    foto: 'https://avatars1.githubusercontent.com/u/49824126?s=460&u=77007c3e580016fd3ec31501f8cbb29eeba4eafd&v=4',
+    nomeDoProjeto: 'brnoflix',
+    url: 'https://brnoflix.vercel.app/',
+    tags: [
+      'front end',
+      'back end',
+      'teste',
+    ],
+  },
 ];
