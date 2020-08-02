@@ -661,4 +661,16 @@ export default [
       'curiosidades',
     ],
   },
+  {
+    nome: 'Juliana dos Santos Ribeiro',
+    foto: 'https://avatars1.githubusercontent.com/u/54780605?s=460&u=58d983e84d01a6500dcb1fab3d9287ad1c1c2268&v=4',
+    nomeDoProjeto: 'KaraokêFlix',
+    url: 'https://karaokeflix.vercel.app/',
+    tags: [
+      'música',
+      'músicas',
+      'diversão',
+      'karaokê',
+    ],
+  },
 ];
