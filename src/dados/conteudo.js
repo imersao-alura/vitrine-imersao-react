@@ -661,4 +661,18 @@ export default [
       'curiosidades',
     ],
   },
+  {
+    nome: 'Caroline Heloíse de Oliveira',
+    foto: 'https://avatars1.githubusercontent.com/u/63017741?s=460&u=16f8a9bd4bb07380d10b9e422c286acdafa1752e&v=4',
+    nomeDoProjeto: 'DiverStudy',
+    url: 'https://diver-study.vercel.app/',
+    tags: [
+      'estudos',
+      'ensino médio',
+      'física',
+      'biologia',
+      'matemática',
+      'ciência',
+    ],
+  },
 ];
