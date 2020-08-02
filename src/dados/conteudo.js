@@ -661,4 +661,13 @@ export default [
       'curiosidades',
     ],
   },
+  {
+    nome: 'Ricardo Fernandes',
+    foto: 'https://lh3.googleusercontent.com/a-/AOh14GgzOIfz6Jm4r0bWwzUVNEp3itoOy-YZrQGwHTe2lg=s360-c',
+    nomeDoProjeto: 'Projilme',
+    url: 'https://projilme.vercel.app/',
+    tags: [
+      'filmes',
+    ],
+  },
 ];
