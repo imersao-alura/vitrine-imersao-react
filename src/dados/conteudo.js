@@ -661,4 +661,15 @@ export default [
       'curiosidades',
     ],
   },
+  {
+    nome: 'Henrique Falkovski Pasa',
+    foto: 'https://avatars3.githubusercontent.com/u/51676261?s=460&u=ee579981c3baae399a3c03acc88e67e686038ad3&v=4',
+    nomeDoProjeto: 'Amazonflix',
+    url: 'https://amazonflix.vercel.app/',
+    tags: [
+      'Videos',
+      'Humor',
+      'Series'
+    ],
+  },
 ];
