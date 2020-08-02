@@ -661,4 +661,17 @@ export default [
       'curiosidades',
     ],
   },
+  {
+    nome: 'Ícaro Apolo',
+    foto: 'https://avatars2.githubusercontent.com/u/42072562?s=460&u=30190d410875d2122e08a479737f9172dd10a734&v=4',
+    nomeDoProjeto: 'ApoloFlix',
+    url: 'https://apoloflix.vercel.app/',
+    tags: [
+      'Filmes',
+      'Séries',
+      'Documentários',
+      'Animes',
+      'Tecnologia',
+    ],
+  },
 ];
