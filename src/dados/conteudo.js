@@ -661,4 +661,13 @@ export default [
       'curiosidades',
     ],
   },
+  {
+    nome: 'Thélio Freitas',
+    foto: 'https://avatars1.githubusercontent.com/u/21229988?s=460&u=63c85a9dfd7a1f6d2b46e79f52d231f136e7e5fc&v=4',
+    nomeDoProjeto: 'Lolflix',
+    url: 'https://lolflix-ten.vercel.app/',
+    tags: [
+      'jogos',
+    ],
+  },
 ];
