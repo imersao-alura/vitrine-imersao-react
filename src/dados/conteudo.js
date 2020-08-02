@@ -661,4 +661,18 @@ export default [
       'curiosidades',
     ],
   },
+  {
+    nome: 'Willian Marciel',
+    redeSocial: 'https://instagram.com/willian.dev',
+    foto: 'https://user-images.githubusercontent.com/50757994/89129566-b00cb700-d4d4-11ea-8786-7e2feea75034.jpg',
+    nomeDoProjeto: 'NerdFlix',
+    url: 'https://nerdflix.mrwillian.vercel.app/',
+    tags: [
+      'nerd',
+      'filmes',
+      'séries',
+      'games',
+      'ciência',
+    ],
+  },
 ];
