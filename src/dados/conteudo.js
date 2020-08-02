@@ -661,4 +661,18 @@ export default [
       'curiosidades',
     ],
   },
+    {
+    nome: 'Thainá Biudes Conforto Costa',
+    foto: 'https://avatars3.githubusercontent.com/u/63984741?s=400&u=e31817fa213b0059788a6e7ec31106154297d92d&v=4',
+    nomeDoProjeto: 'Thainaflix',
+    url: 'https://thainaflix.vercel.app/',
+    tags: [
+      'Cachorros',
+      'Animações',
+      'Reality Shows',
+      'Culinaria',
+      'Filmes',
+      'Games',
+    ],
+  },
 ];
