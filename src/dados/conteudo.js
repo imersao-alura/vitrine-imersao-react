@@ -661,4 +661,15 @@ export default [
       'curiosidades',
     ],
   },
+  {
+    nome: 'Tadeu Barbosa',
+    foto: 'https://avatars1.githubusercontent.com/u/4499999?s=460&u=43622f77e15ec22906e28f378467f7e32b5f9cea&v=4',
+    nomeDoProjeto: 'TeedFlix',
+    url: 'https://imersao-react-alura-git-master.tadeubarbosa.vercel.app/',
+    tags: [
+      'música',
+      'tecnologia',
+      'vídeos'
+    ],
+  }
 ];
