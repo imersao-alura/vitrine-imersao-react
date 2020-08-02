@@ -670,4 +670,15 @@ export default [
       'filmes',
     ],
   },
+  {
+    nome: 'Wagner Esser',
+    foto: 'https://avatars0.githubusercontent.com/u/17770639?s=460&u=11dbf1eec22008c2fbbfeb31b508ab25ff64bf1d&v=4',
+    nomeDoProjeto: 'Fireflix',
+    url: 'https://fireflix.vercel.app/',
+    tags: [
+      'front end',
+      'filmes',
+      'música',
+    ],
+  },
 ];
