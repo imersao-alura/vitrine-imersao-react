@@ -37,6 +37,18 @@ export default [
     ],
   },
   {
+    nome: 'Lucas Gomes',
+    foto: 'https://avatars1.githubusercontent.com/u/66390420?s=460&u=51a160473ef1856496e6c925178153c0cbe66fd4&v=4',
+    nomeDoProjeto: 'InsFlix',
+    url: 'https://insflix.vercel.app/',
+    tags: [
+      'música',
+      'vídeos',
+      'vídeo clipes',
+      'instrumentos musicais',
+    ],
+  },
+  {
     nome: 'Mateus Cirino',
     foto: 'https://avatars0.githubusercontent.com/u/40328105?s=460&u=1c1aac08db6b9afce11593f4add4717fb005ffef&v=4',
     nomeDoProjeto: 'CirinoFlix',
