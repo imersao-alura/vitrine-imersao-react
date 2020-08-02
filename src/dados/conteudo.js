@@ -661,4 +661,15 @@ export default [
       'curiosidades',
     ],
   },
+  {
+    nome: 'Brian Izaki',
+    foto: 'https://avatars2.githubusercontent.com/u/42379617?s=460&u=c2ed659c216bb168210a7592d073c9d75aaa1ce8&v=4',
+    nomeDoProjeto: 'bkFlix',
+    url: 'https://bkflix.vercel.app/',
+    tags: [
+      'animes',
+      'front end',
+      'aprendendo a aprender',
+    ],
+  },
 ];
