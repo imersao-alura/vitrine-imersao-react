@@ -661,4 +661,16 @@ export default [
       'curiosidades',
     ],
   },
+  {
+    nome: 'Luiz Sonego Yavorski',
+    foto: 'https://avatars1.githubusercontent.com/u/6979367?s=460&u=def67438cbbbe373011c134514dc1cba63aa2f5c&v=4',
+    nomeDoProjeto: '500 Milhas Racing',
+    url: 'https://imersao-alura-500-videos.vercel.app/',
+    tags: [
+      'Carros',
+      'curiosidades',
+      '500 milhas',
+      'Front end',
+    ],
+  },
 ];
