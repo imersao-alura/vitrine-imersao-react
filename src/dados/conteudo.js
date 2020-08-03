@@ -1089,4 +1089,14 @@ export default [
       'Games',
     ],
   },
+ {
+    nome: 'Brenno Givigier',
+    foto: 'https://avatars2.githubusercontent.com/u/35437262?s=460&u=3a3a9e84a9b912c89a271c2f43b071a86cba9ad4&v=4',
+    nomeDoProjeto: 'Spotflix',
+    url: 'http://spotflix.tk/',
+    tags: [
+      'música',
+      'trap'
+    ],
+  },
 ];
