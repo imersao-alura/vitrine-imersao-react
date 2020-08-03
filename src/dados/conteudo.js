@@ -1089,4 +1089,19 @@ export default [
       'Games',
     ],
   },
+   {
+    nome: 'Priscila Netto',
+    foto: 'https://avatars1.githubusercontent.com/u/50964720?s=460&u=760a3a8a5ef8a5755411bfcd995f494599924b16&v=4',
+    nomeDoProjeto: 'priflix',
+    url: 'https://priflix.vercel.app/',
+    tags: [
+      'Idiomas',
+      'Culinária',
+      'Desenvolvimento Pessoal',
+      'Tecnologia',
+      'Filmes',
+      'Yoga',
+      'Meditação',
+    ],
+  },
 ];
