@@ -353,10 +353,20 @@ export default [
     url: 'https://cuteflix.carollira.vercel.app/',
     tags: [
       'animação',
-      'curta metragem',
       'animais',
-      'desenho',
-      'curtas'
+      'desenho'
+    ],
+  }
+  {
+    nome: 'Matheus Rodrigues',
+    foto: 'https://avatars2.githubusercontent.com/u/36890610?s=460&u=b0775141b0e149d0a8120a6f272456aba1f59624&v=4',
+    nomeDoProjeto: 'MylFlix',
+    url: 'https://mylflix.vercel.app/',
+    tags: [
+      'nerdologia',
+      'ragnarok',
+      'cblol',
+      'podcast',
     ],
   },
   {
@@ -626,7 +636,7 @@ export default [
       'front end',
       'back end',
       'devops',
-    ]
+    ],
   },
   {
     nome: 'Bruno Dornela',
@@ -652,7 +662,7 @@ export default [
       'séries',
     ],
   },
-  {    
+  {
     nome: 'Vinicius Figueiredo Santana',
     foto: 'https://avatars1.githubusercontent.com/u/30605801?s=460&v=4',
     nomeDoProjeto: 'Duplo 6',
@@ -672,6 +682,110 @@ export default [
     tags: [
       'animais',
       'curiosidades',
+    ],
+  },
+  {
+    nome: 'Ricardo Fernandes',
+    foto: 'https://lh3.googleusercontent.com/a-/AOh14GgzOIfz6Jm4r0bWwzUVNEp3itoOy-YZrQGwHTe2lg=s360-c',
+    nomeDoProjeto: 'Projilme',
+    url: 'https://projilme.vercel.app/',
+    tags: [
+      'filmes',
+    ],
+  },
+  {
+    nome: 'Wagner Esser',
+    foto: 'https://avatars0.githubusercontent.com/u/17770639?s=460&u=11dbf1eec22008c2fbbfeb31b508ab25ff64bf1d&v=4',
+    nomeDoProjeto: 'Fireflix',
+    url: 'https://fireflix.vercel.app/',
+    tags: [
+      'front end',
+      'filmes',
+      'música',
+    ],
+  },
+  {
+    nome: 'Patrick Cruz',
+    foto: 'https://avatars0.githubusercontent.com/u/54329272?s=460&u=082247fc07ab60bcf25579dcffb9dfaf6ee6e3de&v=4',
+    nomeDoProjeto: 'Patriflix',
+    url: 'https://patriflix-alura.vercel.app/',
+    tags: [
+      'dev',
+      'frontend',
+      'backend',
+      'tecnologia',
+    ],
+  },
+  {
+    nome: 'Thalita Mayra',
+    foto: 'https://avatars1.githubusercontent.com/u/45610020?s=460&u=dcd943c455d01bf39aaeed83619f8142d2510064&v=4',
+    nomeDoProjeto: 'BitaFlix',
+    url: 'https://bitaflix.vercel.app/',
+    tags: [
+      'música',
+      'infantil',
+      'dança',
+    ],
+  },
+  {
+    nome: 'Carlos Barros',
+    foto: 'https://avatars2.githubusercontent.com/u/49073667?s=460&u=10faeafe3b1cf01647af4f44a682930ba2728e2a&v=4',
+    nomeDoProjeto: 'CarlosFlix',
+    url: 'https://reactflix.casbjr.vercel.app/',
+    tags: [
+      'data science',
+      'dataviz',
+      'podcast',
+      'música',
+    ],
+  },
+  {
+    nome: 'Vinicius Santos',
+    foto: 'https://avatars0.githubusercontent.com/u/46813491?s=460&u=bc2d6b762fe0b8472b7ab9c85da4380c6627f7a4&v=4',
+    nomeDoProjeto: 'ViniFlix',
+    url: 'https://vinisantosflix.vercel.app/',
+    tags: [
+      'front end',
+      'filmes',
+      'séries',
+      'tecnologia',
+    ],
+  },
+  {
+    nome: 'Nathaly Mesquita',
+    foto: 'https://avatars0.githubusercontent.com/u/19518771?s=460&u=d7d3f2a6399376e71e2279bfc6599ce47446deb6&v=4',
+    nomeDoProjeto: 'Nathyflix',
+    url: 'https://nathyflix.vercel.app/',
+    tags: [
+      'investimentos',
+      'tecnologia',
+      'empreendedorismo',
+      'concurso',
+      'viagens',
+      'yoga',
+    ],
+  },
+  {
+    nome: 'Rodrigo Freitas',
+    foto: 'https://avatars0.githubusercontent.com/u/40476225?s=460&u=0151b4a35e8dc217c5003bfecd0c842eabc6ea40&v=4',
+    nomeDoProjeto: 'MotorFlix',
+    url: 'https://rodrigoflix-imersao-react.vercel.app/',
+    tags: [
+      'Carros',
+      'Formula 1',
+      'Moto GP',
+      'Corrida',
+      'Podcast',
+    ],
+  },
+  {
+    nome: 'Daniel Leal',
+    foto: 'https://avatars2.githubusercontent.com/u/37132172?s=460&u=7c43bece5e3160c317bfd4b2162999753567abb5&v=4%22',
+    nomeDoProjeto: 'gmFlix',
+    url: 'https://gm-flix.vercel.app/',
+    tags: [
+      'jogos',
+      'trailers',
     ],
   },
 ];
