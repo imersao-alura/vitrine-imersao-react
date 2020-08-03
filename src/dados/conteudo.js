@@ -1013,5 +1013,19 @@ export default [
       'churrasco',
       'hamburguer',
     ],
+  }, 
+  {
+    nome: 'Vittoria Thomasini',
+    foto: 'https://avatars0.githubusercontent.com/u/53311902?s=460&u=b1ded6b2a0d2fb82d807493bd5dd2b4fcf4768d5&v=4',
+    nomeDoProjeto: 'CyberFlix',
+    url: 'https://cyberpunk-flix.vercel.app/',
+    tags: [
+      'front end',
+      'react',
+      'jogos',
+      'games',
+      'cyber',
+      'cyberpunk',
+    ],
   },  
 ];
