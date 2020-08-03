@@ -883,4 +883,18 @@ export default [
       'programação',
     ],
  },
+  {
+    nome: 'Marcos Serra',
+    redeSocial: 'https://twitter.com/jcs_marcos13',
+    foto: 'https://avatars2.githubusercontent.com/u/62188086?s=460&u=677fee0b6e639173dd7a3f9491d5789ae2f9636c&v=4',
+    nomeDoProjeto: 'ChessFlix',
+    url: 'https://chessflix.vercel.app',
+    tags: [
+      'chess',
+      'xadrez',
+      'jogos',
+      'games',
+      'tabuleiro',
+    ],
+ },
 ];
