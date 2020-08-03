@@ -50,6 +50,17 @@ export default [
     ],
   },
   {
+    nome: 'Juana Paiva',
+    foto: 'https://avatars1.githubusercontent.com/u/50418249?s=460&u=1e8ab4d0bf93c047f43515333d043fa44ff6950d&v=4',
+    nomeDoProjeto: 'Rabanetflix',
+    url: 'https://rabanetflix.vercel.app/',
+    tags: [
+      'culinaria',
+      'comida',
+      'receitas',
+    ],
+  },
+  {
     nome: 'Mateus Cirino',
     foto: 'https://avatars0.githubusercontent.com/u/40328105?s=460&u=1c1aac08db6b9afce11593f4add4717fb005ffef&v=4',
     nomeDoProjeto: 'CirinoFlix',
