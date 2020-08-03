@@ -1089,4 +1089,17 @@ export default [
       'Games',
     ],
   },
+  {
+    nome: 'Jean Ferreira',
+    foto: 'https://avatars0.githubusercontent.com/u/16404783?s=96&v=4',
+    nomeDoProjeto: 'TIBIAFLIX',
+    url: 'https://tibiaflix-react.vercel.app/',
+    tags: [
+      'games',
+      'tibia',
+      'gameplay',
+      'jogos',
+      'mmorpg',
+    ],
+  },
 ];
