@@ -957,4 +957,15 @@ export default [
       'esporte','bmx','racing','bike','bicicleta','cross'
     ],
   },
+    {
+    nome: 'Gabriel Gomes de Oliveira',
+    foto: 'https://avatars3.githubusercontent.com/u/17833683?s=460&u=1b95ad233192dcc057d416c0222fb48760c0aca1&v=4',
+    nomeDoProjeto: 'ScholarFlix',
+    url: 'https://scholarflix.vercel.app/',
+    tags: [
+      'educação',
+      'tecnologia',
+      'ciência',  
+    ],
+  },
 ];
