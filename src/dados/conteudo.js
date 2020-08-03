@@ -766,6 +766,15 @@ export default [
       'Corrida',
       'Podcast',
     ],
-  }
+  },
+  {
+    nome: 'Daniel Leal',
+    foto: 'https://avatars2.githubusercontent.com/u/37132172?s=460&u=7c43bece5e3160c317bfd4b2162999753567abb5&v=4%22',
+    nomeDoProjeto: 'gmFlix',
+    url: 'https://gm-flix.vercel.app/',
+    tags: [
+      'jogos',
+      'trailers',      
+    ],
+  },
 ];
-
