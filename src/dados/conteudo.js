@@ -33,4 +33,15 @@ export default [
       'música',
     ],
   },
+  {
+    nome: 'Igor Szot
+    foto: 'https://avatars0.githubusercontent.com/u/41743713?s=460&u=cc6058eebf960661567821230c84ce7a96f9dc92&v=4',
+    nomeDoProjeto: 'CsGoFlix
+    url: 'https://csgoflix-three.vercel.app/',
+    tags: [
+      'CSGO',
+      'Dicas',
+      'SKINS'
+    ],
+  },
 ];
