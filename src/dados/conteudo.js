@@ -668,6 +668,10 @@ export default [
     url: 'https://documentaryflix.vercel.app/',
     tags: [
       'Documentarios',
+      'Arte',
+      'Música',
+      'Sociedade',
+      'Ciência',
       'Tecnologia',
       'Recomendações',
     ],
