@@ -1089,4 +1089,19 @@ export default [
       'Games',
     ],
   },
+  {
+    nome: 'Carlos George',
+    foto: 'https://avatars2.githubusercontent.com/u/539098?s=460&u=057cb812c0d6d394c93a46a5f697dc85865b155c&v=4',
+    nomeDoProjeto: 'BolaFlix',
+    url: 'https://bola-flix.vercel.app/',
+    tags: [
+      'front end',
+      'back end',
+      'músicas',
+      "Data Science",
+      "Inteligência Artificial",
+      "Culinária",
+      "Viajantes",
+    ],
+  },
 ];
