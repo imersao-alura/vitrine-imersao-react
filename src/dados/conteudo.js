@@ -1089,4 +1089,14 @@ export default [
       'Games',
     ],
   },
+  {
+  nome: 'Mariana Medeiros',
+  foto: 'https://avatars1.githubusercontent.com/u/54807590?s=460&u=4a6de69ece84b40ac8472ce2d1740938b86fa6eb&v=4',
+  nomeDoProjeto: 'cafecoflix',
+  url: 'https://cafecoflix.vercel.app/',
+  tags: [
+    'Música',
+    'Programação',
+    ],
+  },
 ];
