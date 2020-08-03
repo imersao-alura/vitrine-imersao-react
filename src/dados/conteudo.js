@@ -410,14 +410,14 @@ export default [
       'entrevistas',
       'livros',
     ],
-  },  
+  },
   {
     nome: 'Lucas Frigo de Souza',
     foto: 'https://avatars1.githubusercontent.com/u/19676697?s=460&u=ada1d4318185992a782bd55ba9b8dab529e8d227&v=4',
     nomeDoProjeto: 'PodFlix',
     url: 'https://podflix.vercel.app/',
     tags: [
-      'podcast',   
+      'podcast',
     ],
   },
   {
@@ -757,7 +757,7 @@ export default [
       'animais',
       'curiosidades',
     ],
-  },  
+  },
   {
     nome: 'Allex Valério Costa',
     foto: 'https://avatars3.githubusercontent.com/u/13477681?s=460&u=3eba23bc6f14f25d43c82f76c9ffff0254063c39&v=4',
@@ -871,7 +871,7 @@ export default [
       'trailers',
     ],
   },
- {
+  {
     nome: 'GuiEnrik',
     redeSocial: 'https://www.instagram.com/guienrik_s/',
     foto: 'https://avatars3.githubusercontent.com/u/15097239?s=460&u=0c2c188e67749d520f1ea96154e803787df549ac&v=4',
@@ -882,5 +882,17 @@ export default [
       'tecnologia',
       'programação',
     ],
- },
+  },
+  {
+    nome: 'Matheus Resende',
+    redeSocial: 'https://www.linkedin.com/in/matheus-resende-de-oliveira-1065b5150/',
+    foto: 'https://avatars2.githubusercontent.com/u/44881126?s=460&u=1d5832bf9737fa15e792f0f250e622132c3d2f80&v=4',
+    nomeDoProjeto: 'MathFlix',
+    url: 'https://themathflix.vercel.app/',
+    tags: [
+      'filmes',
+      'games',
+      'programação',
+    ],
+  },
 ];
