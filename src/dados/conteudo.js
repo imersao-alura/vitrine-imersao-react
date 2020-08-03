@@ -1089,4 +1089,11 @@ export default [
       'Games',
     ],
   },
+  {
+    nome: 'José Vitor',
+    foto: 'https://avatars2.githubusercontent.com/u/64286814?s=96&v=4',
+    nomeDoProjeto: 'ASMRFlix',
+    url: 'https://asmrflix-seven.vercel.app/',
+    tags: [
+      'ASMR',
 ];
