@@ -1089,4 +1089,16 @@ export default [
       'Games',
     ],
   },
+  {
+    nome: 'Rafael Simionato',
+    foto: 'https://avatars2.githubusercontent.com/u/32374173?s=460&u=258cef4fd54c501227706412a4eff91a13809dd5&v=4',
+    nomeDoProjeto: 'RafaFlix',
+    url: 'https://rafaflix.vercel.app/',
+    tags: [
+      'tecnologia',
+      'vídeos',
+      'desenvolvimento',
+      'front end',
+    ],
+  },
 ];
