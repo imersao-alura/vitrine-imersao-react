@@ -1100,6 +1100,7 @@ export default [
       'Mandarim',
       'Inglês',
       'Coreano',
+      'Cultura dos países',
     ],
   },
 ];
