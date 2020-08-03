@@ -1089,4 +1089,15 @@ export default [
       'Games',
     ],
   },
+  {
+    nome: 'Eduardo Silveira',
+    foto: 'https://avatars0.githubusercontent.com/u/16305019?s=96&v=4',
+    nomeDoProjeto: 'PalaFlix',
+    url: 'https://reactflix.epsilveira.vercel.app/',
+    tags: [
+      'Vídeos',
+      'Cristianismo',
+      'Pregações',
+    ],
+  },
 ];
