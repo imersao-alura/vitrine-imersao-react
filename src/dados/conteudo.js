@@ -47,13 +47,13 @@ export default [
       'filmes',
     ],
   },
-  { 
+  {
     nome: 'Fernanda Degolin',
     foto: 'https://avatars3.githubusercontent.com/u/57374044?s=460&u=aecf13928486b9197a36f2510840efec261082d7&v=4',
     nomeDoProjeto: 'Fernanda Degolin',
     url: 'https://fernandadegolin.vercel.app',
     tags: [
-      'front-end',
+      'front end',
       'atriz',
       'arte',
       'códigos',
@@ -369,7 +369,7 @@ export default [
       'filmes',
       'séries',
     ],
-  },  
+  },
   {
     nome: 'Matheus Reis',
     foto: 'https://avatars3.githubusercontent.com/u/23380987?s=460&u=2afc67c46c005fd886ff5e4f76dbc8323350b9f2&v=4',
@@ -393,7 +393,7 @@ export default [
       'estudos',
       'vídeos',
       'tecnologia',
-      'aprendizado',
+      'aprendendo a aprender',
     ],
   },
   {
@@ -416,20 +416,20 @@ export default [
     tags: [
       'black',
       'racismo',
-      'consciencia',
+      'consciência',
       'filmes',
-      'documentarios',
+      'documentários',
       'entrevistas',
       'livros',
     ],
-  },  
+  },
   {
     nome: 'Lucas Frigo de Souza',
     foto: 'https://avatars1.githubusercontent.com/u/19676697?s=460&u=ada1d4318185992a782bd55ba9b8dab529e8d227&v=4',
     nomeDoProjeto: 'PodFlix',
     url: 'https://podflix.vercel.app/',
     tags: [
-      'podcast',   
+      'podcast',
     ],
   },
   {
@@ -476,7 +476,7 @@ export default [
       'tecnologia',
       'react',
       'data science',
-      'front end', 
+      'front end',
       'back end',
       'vídeos',
     ],
@@ -499,7 +499,7 @@ export default [
     url: 'https://musicx.vercel.app',
     tags: [
       'música',
-      'vídeo clips',
+      'vídeo clipes',
     ],
   },
   {
@@ -595,7 +595,7 @@ export default [
     url: 'https://aluraflix-xi.vercel.app/',
     tags: [
       'anime',
-      'game',
+      'games',
       'música',
     ],
   },
@@ -654,7 +654,7 @@ export default [
       'front end',
       'api',
       'tecnologia',
-      'animes',
+      'anime',
       'jogos',
       'filmes',
     ],
@@ -685,7 +685,7 @@ export default [
       'Filmes',
       'e-Sports',
       'Games',
-      'Animes',
+      'Anime',
     ],
   },
   {
@@ -695,7 +695,7 @@ export default [
     nomeDoProjeto: 'Rayonix',
     url: 'https://rayonix.vercel.app/',
     tags: [
-      'ciencia',
+      'ciência',
       'tecnologia',
       'filosofia',
       'música',
@@ -759,7 +759,7 @@ export default [
       'desenvolvimento',
       'curiosidades',
       'filmes',
-      'músicas',
+      'música',
       'séries',
     ],
   },
@@ -784,7 +784,7 @@ export default [
       'animais',
       'curiosidades',
     ],
-  },  
+  },
   {
     nome: 'Allex Valério Costa',
     foto: 'https://avatars3.githubusercontent.com/u/13477681?s=460&u=3eba23bc6f14f25d43c82f76c9ffff0254063c39&v=4',
@@ -820,9 +820,9 @@ export default [
     nomeDoProjeto: 'Patriflix',
     url: 'https://patriflix-alura.vercel.app/',
     tags: [
-      'dev',
-      'frontend',
-      'backend',
+      'desenvolvimento',
+      'front end',
+      'back end',
       'tecnologia',
     ],
   },
@@ -871,7 +871,7 @@ export default [
       'tecnologia',
       'empreendedorismo',
       'concurso',
-      'viagens',
+      'viagem',
       'yoga',
     ],
   },
@@ -882,7 +882,7 @@ export default [
     url: 'https://rodrigoflix-imersao-react.vercel.app/',
     tags: [
       'Carros',
-      'Formula 1',
+      'Fórmula 1',
       'Moto GP',
       'Corrida',
       'Podcast',
@@ -907,7 +907,7 @@ export default [
       'podcast',
     ],
   },
- {
+  {
     nome: 'GuiEnrik',
     redeSocial: 'https://www.instagram.com/guienrik_s/',
     foto: 'https://avatars3.githubusercontent.com/u/15097239?s=460&u=0c2c188e67749d520f1ea96154e803787df549ac&v=4',
@@ -918,7 +918,7 @@ export default [
       'tecnologia',
       'programação',
     ],
- },
+  },
   {
     nome: 'Octávio Barbosa',
     foto: 'https://avatars2.githubusercontent.com/u/40213753',
@@ -939,11 +939,11 @@ export default [
     tags: [
       'front end',
       'aventura',
-      'séries', 
-      'documentários', 
+      'séries',
+      'documentários',
     ],
   },
-    {
+  {
     nome: 'André Souza',
     redeSocial: 'https://www.linkedin.com/in/andresouzadev/',
     foto: 'https://avatars3.githubusercontent.com/u/60516113?s=96&v=4',
@@ -963,10 +963,13 @@ export default [
     nomeDoProjeto: 'BMX Flix',
     url: 'https://bmxflix.vercel.app/',
     tags: [
-      'esporte','bmx','racing','bike','bicicleta','cross'
+      'esporte',
+      'bmx',
+      'corrida',
+      'bike',
     ],
   },
-    {
+  {
     nome: 'Gabriel Gomes de Oliveira',
     foto: 'https://avatars3.githubusercontent.com/u/17833683?s=460&u=1b95ad233192dcc057d416c0222fb48760c0aca1&v=4',
     nomeDoProjeto: 'ScholarFlix',
@@ -974,7 +977,7 @@ export default [
     tags: [
       'educação',
       'tecnologia',
-      'ciência',  
+      'ciência',
     ],
   },
   {
@@ -983,8 +986,8 @@ export default [
     nomeDoProjeto: 'Zulflix',
     url: 'https://zulflix.vercel.app/',
     tags: [
-      'animes',
-      'música' 
+      'anime',
+      'música',
     ],
   },
   {
@@ -1011,7 +1014,7 @@ export default [
       'react',
       'comida',
       'churrasco',
-      'hamburguer',
+      'hambúrguer',
     ],
-  },  
+  },
 ];
