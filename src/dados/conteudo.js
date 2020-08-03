@@ -907,4 +907,18 @@ export default [
       'documentários', 
     ],
   },
+    {
+    nome: 'André Souza',
+    redeSocial: 'https://www.linkedin.com/in/andresouzadev/',
+    foto: 'https://avatars3.githubusercontent.com/u/60516113?s=96&v=4',
+    nomeDoProjeto: 'ASDevFlix',
+    url: 'https://asdevflix.vercel.app/404',
+    tags: [
+      'front end',
+      'back end',
+      'typescript',
+      'filmes',
+      'jogos',
+    ],
+  },
 ];
