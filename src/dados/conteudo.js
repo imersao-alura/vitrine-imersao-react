@@ -359,6 +359,19 @@ export default [
     ],
   },
   {
+    nome: 'Jean Jacques Barros',
+    foto: 'https://avatars3.githubusercontent.com/u/32225403?s=460&u=9c1a04035cc7b4e8749679fd87d0732c26a3dcd4&v=4',
+    nomeDoProjeto: 'Scienceflix',
+    url: 'http://scienceflix.jjeanjacques10.vercel.app/',
+    tags: [
+      'ciência',
+      'estudos',
+      'vídeos',
+      'tecnologia',
+      'aprendizado',
+    ],
+  },
+  {
     nome: 'Caique Giovannini',
     foto: 'https://avatars0.githubusercontent.com/u/49538313?s=460&u=3d05e4d58bcae17d11a2354e95f432668b289e0f&v=4',
     nomeDoProjeto: 'Rockyflix',
