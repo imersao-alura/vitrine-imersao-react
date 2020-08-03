@@ -1089,4 +1089,19 @@ export default [
       'Games',
     ],
   },
+    {
+    nome: 'Thales Lima',
+    foto: 'https://avatars0.githubusercontent.com/u/36715075?s=460&u=94986133fd774d9bcf5eb6a93fd84473c0470c97&v=4',
+    nomeDoProjeto: 'MUSICFLIX',
+    url: 'https://musicflix-react-six.vercel.app/',
+    tags: [
+      'Música',
+      'Violão',
+      'Guitarra',
+      'Contrabaixo',
+      'Teclado',
+      'Bateria',
+      'Documentários sobre música'
+    ],
+  },
 ];
