@@ -1089,4 +1089,17 @@ export default [
       'Games',
     ],
   },
+  {
+    nome: 'Jean Carlos De Meira',
+    foto: 'https://avatars2.githubusercontent.com/u/65555624?s=400&u=b466d27963ea609311d9462d5ce43cdbb2ab86ee&v=4',
+    nomeDoProjeto: 'Lumoflix',
+    url: 'https://aluraflix-smoky.vercel.app',
+    tags: [
+      'Músicas',
+      'Idiomas',
+      'Mandarim',
+      'Inglês',
+      'Coreano',
+    ],
+  },
 ];
