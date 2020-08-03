@@ -384,6 +384,7 @@ export default [
     ],
   },
   {
+<<<<<<< HEAD
     nome: 'Matheus Reis',
     foto: 'https://avatars3.githubusercontent.com/u/23380987?s=460&u=2afc67c46c005fd886ff5e4f76dbc8323350b9f2&v=4',
     nomeDoProjeto: 'CodeFlix',
@@ -1087,6 +1088,17 @@ export default [
       'Ficção científica',
       'Terror',
       'Games',
+    ]
+  },
+  {
+    nome: 'Carolyne Lira',
+    foto: 'https://avatars3.githubusercontent.com/u/49501070?s=460&u=a7c7d307c3b5606d29e1f33b0c9dacf076762894&v=4',
+    nomeDoProjeto: 'Cuteflix',
+    url: 'https://cuteflix.carollira.vercel.app/',
+    tags: [
+      'animação',
+      'animais',
+      'desenho'
     ],
   },
 ];
