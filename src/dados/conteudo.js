@@ -1089,4 +1089,20 @@ export default [
       'Games',
     ],
   },
+  {
+    nome: 'Renato Picco',
+    foto: 'https://avatars0.githubusercontent.com/u/56326785?s=460&u=e38e4a2e2485fa403cdace289c5d73c51b8a8f63&v=4',
+    nomeDoProjeto: 'CultureFlix',
+    url: 'https://cultureflix.netlify.app/',
+    tags: [
+      'filmes',
+      'música',
+      'vídeo clipes',
+      'vídeos',
+      'front end',
+      'react',
+      'jogos',
+      'metal',
+    ],
+  },
 ];
