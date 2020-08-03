@@ -37,9 +37,10 @@ export const DropdownContent = styled.div`
   border-radius: 12px;
   display: flex;
   flex-wrap: wrap;
+  justify-content: space-between;
   list-style: none;
   max-height: 80vh;
-  overflow-y: scroll;
+  overflow-y: auto;
   padding: 12px;
   position: absolute;
   right: 0;
@@ -65,11 +66,17 @@ export const CategoriesItem = styled.li`
 `;
 
 export const Category = styled.label`
+  background-color: var(--grayMedium);
   border: 2px solid;
   border-radius: 4px;
   cursor: pointer;
   font-size: 12px;
   padding: 5px;
+  transition: backgroun-color .3s;
+
+  &:hover {
+    background-color: var(--grayLight);
+  }
 `;
 
 export const RadioButton = styled.input`
