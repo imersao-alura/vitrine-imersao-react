@@ -357,6 +357,16 @@ export default [
       'desenho'
     ],
   }
+    nome: 'Mateus Souza',
+    foto: 'https://avatars2.githubusercontent.com/u/61070878?s=460&u=8ee46a489d2d21a094b1612ae37ec70e9dd2b90b&v=4',
+    nomeDoProjeto: 'Travelerflix',
+    url: 'https://travelerflix.vercel.app/',
+    tags: [
+      'viagem',
+      'cultura',
+      'mundo',
+    ],
+  },
   {
     nome: 'Matheus Rodrigues',
     foto: 'https://avatars2.githubusercontent.com/u/36890610?s=460&u=b0775141b0e149d0a8120a6f272456aba1f59624&v=4',
@@ -788,4 +798,16 @@ export default [
       'trailers',
     ],
   },
+ {
+    nome: 'GuiEnrik',
+    redeSocial: 'https://www.instagram.com/guienrik_s/',
+    foto: 'https://avatars3.githubusercontent.com/u/15097239?s=460&u=0c2c188e67749d520f1ea96154e803787df549ac&v=4',
+    nomeDoProjeto: 'CemiFlix',
+    url: 'https://cemiflix.vercel.app/',
+    tags: [
+      'educação',
+      'tecnologia',
+      'programação',
+    ],
+ },
 ];
