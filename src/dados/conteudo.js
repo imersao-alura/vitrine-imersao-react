@@ -777,4 +777,15 @@ export default [
       'trailers',
     ],
   },
+    {
+    nome: 'Eder Sato',
+    foto: 'https://avatars1.githubusercontent.com/u/64936033?s=460&v=4',
+    nomeDoProjeto: 'satoFlix',
+    url: 'https://satoflix.vercel.app',
+    tags: [
+      'musica',
+      'video clipes',
+      'musicas',
+    ],
+  },
 ];
