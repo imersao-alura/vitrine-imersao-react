@@ -1089,4 +1089,16 @@ export default [
       'Games',
     ],
   },
+    {
+    nome: 'Priscila Pinheiro',
+    foto: 'https://avatars0.githubusercontent.com/u/61117949?s=460&u=888fe00af41466dfa53396ef9a32d052a56b4927&v=4',
+    nomeDoProjeto: 'docesflix',
+    url: 'https://docesflix.vercel.app/',
+    tags: [
+      'Doces',
+      'Sobremesas',
+      'Bolos',
+      'Chocolate',
+    ],
+  },
 ];
