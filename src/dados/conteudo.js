@@ -1089,4 +1089,16 @@ export default [
       'Games',
     ],
   },
+  {
+    nome: 'Marcos Tomaz',
+    foto: 'https://avatars3.githubusercontent.com/u/7772980?s=460&u=976f5e43d532ba1449ca5063fe012a5bd379fe59&v=4',
+    nomeDoProjeto: 'Mengaoflix',
+    url: 'https://mengaoflix.vercel.app/',
+    tags: [
+      'jogos',
+      'futebol',
+      'flamengo',
+      'mengao'
+    ],
+  },
 ];
