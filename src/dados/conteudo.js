@@ -777,4 +777,16 @@ export default [
       'trailers',
     ],
   },
+ {
+    nome: 'GuiEnrik',
+    redeSocial: 'https://www.instagram.com/guienrik_s/',
+    foto: 'https://avatars3.githubusercontent.com/u/15097239?s=460&u=0c2c188e67749d520f1ea96154e803787df549ac&v=4',
+    nomeDoProjeto: 'CemiFlix',
+    url: 'https://cemiflix.vercel.app/',
+    tags: [
+      'educação',
+      'tecnologia',
+      'programação',
+    ],
+ },
 ];
