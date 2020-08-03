@@ -1090,18 +1090,6 @@ export default [
     ],
   },
   {
-    nome: 'Leandro Almeida',
-    foto: 'https://avatars2.githubusercontent.com/u/30052919?s=460&u=e7f2efe21341d9159a6dc944d1b795f9bd04b807&v=4',
-    nomeDoProjeto: 'garoupicks',
-    url: 'https://garoupicks.vercel.app/',
-    tags: [
-      'Filmes',
-      'Ficção científica',
-      'Terror',
-      'Games',
-    ],
-  },
-  {
     nome: 'Juliane Pires',
     foto: 'https://avatars1.githubusercontent.com/u/36718319?s=460&u=a013252bab4b605e42d542498617a5eecc1ed250&v=4',
     nomeDoProjeto: 'Miojoflix',
