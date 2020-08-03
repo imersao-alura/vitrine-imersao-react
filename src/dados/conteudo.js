@@ -307,7 +307,6 @@ export default [
     tags: [
       'livros',
       'resenhas',
-      'resenhas em videos'
     ],
   },
 ];
