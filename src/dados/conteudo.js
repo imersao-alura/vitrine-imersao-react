@@ -716,4 +716,16 @@ export default [
       'dança',
     ],
   },
+   {
+    nome: 'Carlos Barros',
+    foto: 'https://avatars2.githubusercontent.com/u/49073667?s=460&u=10faeafe3b1cf01647af4f44a682930ba2728e2a&v=4',
+    nomeDoProjeto: 'CarlosFlix',
+    url: 'https://reactflix.casbjr.vercel.app/',
+    tags: [
+      'data science',
+      'dataviz',
+      'podcast',
+      'música',
+    ],
+  },
 ];
