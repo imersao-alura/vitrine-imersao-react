@@ -1,6 +1,6 @@
 export default [
   {
-    name: 'Eduardo Cabral',
+    nome: 'Eduardo Cabral',
     foto: 'https://avatars2.githubusercontent.com/u/29133996?s=460&u=5b6448ac95459d30e91293f9893d9fafe54fb523&v=4',
     nomeDoProjeto: 'AlunosFlix',
     url: 'https://alunosflix-frontend.vercel.app/',
