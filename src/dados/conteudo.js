@@ -948,4 +948,13 @@ export default [
       'jogos',
     ],
   },
+  {
+    nome: 'Heliomar Marques',
+    foto: 'https://avatars0.githubusercontent.com/u/13087389?s=460&v=4',
+    nomeDoProjeto: 'BMX Flix',
+    url: 'https://bmxflix.vercel.app/',
+    tags: [
+      'esporte','bmx','racing','bike','bicicleta','cross'
+    ],
+  },
 ];
