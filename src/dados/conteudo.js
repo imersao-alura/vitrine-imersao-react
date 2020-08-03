@@ -1088,5 +1088,15 @@ export default [
       'Terror',
       'Games',
     ],
-  },
+  },{
+    nome: 'Andy Nadvorny',
+    foto: 'https://avatars0.githubusercontent.com/u/35880890?s=460&u=a744cf9ec7abc7d9e52e45107577b1ed5ffc0674&v=4',
+    nomeDoProjeto: 'ArmyFlix',
+    url: 'https://armyflix.vercel.app/',
+    tags: [
+      'Musica',
+      'BTS',
+      'K-pop',
+    ],
+  }
 ];
