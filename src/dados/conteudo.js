@@ -1089,4 +1089,15 @@ export default [
       'Games',
     ],
   },
+  {
+    nome: 'Thiago Laet',
+    foto: 'https://avatars2.githubusercontent.com/u/44308207?s=460&u=8c31c231f9cf3e0c262fb357b48042c3c7430e38&v=4',
+    nomeDoProjeto: 'Investflix',
+    url: 'https://investflix.vercel.app/',
+    tags: [
+      'Investimentos',
+      'Educação Financeira',
+      'Finanças'
+    ],
+  }
 ];
