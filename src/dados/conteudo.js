@@ -228,6 +228,18 @@ export default [
     ],
   },
   {
+    nome: 'Lucas Wyver',
+    foto: 'https://avatars2.githubusercontent.com/u/67572275?s=460&v=4',
+    nomeDoProjeto: 'Wyver GameDevFlix',
+    url: 'https://wyver-dev-react.vercel.app/',
+    tags: [
+      'GameDev',
+      'Unity3D',
+      'GameMaker2D',
+      'PixelArt',
+    ],
+  },
+  {
     nome: 'Luiz Gustavo Togni',
     foto: 'https://avatars1.githubusercontent.com/u/68093698?s=460&u=4282eb920a46d7e49ab54429946e1a2838e766a5&v=4',
     nomeDoProjeto: 'Canguruflix',
@@ -356,7 +368,44 @@ export default [
       'animais',
       'desenho'
     ],
-  }
+  },
+  {
+    nome: 'Caique Giovannini',
+    foto: 'https://avatars0.githubusercontent.com/u/49538313?s=460&u=3d05e4d58bcae17d11a2354e95f432668b289e0f&v=4',
+    nomeDoProjeto: 'Rockyflix',
+    url: 'https://rockyflix.vercel.app/',
+    tags: [
+      'filmes',
+      'música',
+      'vídeos',
+      'entretenimento',
+    ],
+  },
+  {
+    nome: 'Antonio Lazaro (Popete)',
+    foto: 'https://pbs.twimg.com/profile_images/1140251119568019456/3k8uoLan_400x400.jpg',
+    nomeDoProjeto: 'BlackFlix',
+    url: 'https://imersao-alura-blackflix.vercel.app/',
+    tags: [
+      'black',
+      'racismo',
+      'consciencia',
+      'filmes',
+      'documentarios',
+      'entrevistas',
+      'livros',
+    ],
+  },  
+  {
+    nome: 'Lucas Frigo de Souza',
+    foto: 'https://avatars1.githubusercontent.com/u/19676697?s=460&u=ada1d4318185992a782bd55ba9b8dab529e8d227&v=4',
+    nomeDoProjeto: 'PodFlix',
+    url: 'https://podflix.vercel.app/',
+    tags: [
+      'podcast',   
+    ],
+  },
+  {
     nome: 'Mateus Souza',
     foto: 'https://avatars2.githubusercontent.com/u/61070878?s=460&u=8ee46a489d2d21a094b1612ae37ec70e9dd2b90b&v=4',
     nomeDoProjeto: 'Travelerflix',
@@ -692,6 +741,15 @@ export default [
     tags: [
       'animais',
       'curiosidades',
+    ],
+  },  
+  {
+    nome: 'Allex Valério Costa',
+    foto: 'https://avatars3.githubusercontent.com/u/13477681?s=460&u=3eba23bc6f14f25d43c82f76c9ffff0254063c39&v=4',
+    nomeDoProjeto: 'Lekaoflix',
+    url: 'https://lekaoflix.vercel.app/',
+    tags: [
+      'Aprendendo a Aprender',
     ],
   },
   {
