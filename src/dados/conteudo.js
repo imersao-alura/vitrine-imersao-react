@@ -1065,4 +1065,17 @@ export default [
       'Destiny',
     ],
   },
+    {
+    nome: 'Thalita Mayra',
+    foto: 'https://avatars1.githubusercontent.com/u/45610020?s=460&u=dcd943c455d01bf39aaeed83619f8142d2510064&v=4',
+    nomeDoProjeto: 'BitaFlix',
+    url: 'https://bitaflix.vercel.app/',
+    tags: [
+      'quarentena',
+      'música',
+      'kids',
+      'filmes'
+    ],
+  },
+  
 ];
