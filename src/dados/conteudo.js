@@ -1089,4 +1089,18 @@ export default [
       'Games',
     ],
   },
+  {
+    nome: 'Ademir Rodrigues da Silva',
+    foto: 'https://avatars0.githubusercontent.com/u/7199002?s=460&u=4cdd79bfd71b57363915a7c48176cb4e157aa4bf&v=4',
+    nomeDoProjeto: 'degraçaflix',
+    url: 'https://degracaflix.vercel.app/',
+    tags: [
+      'front end',
+      'back end',
+      'data science',
+      'filmes',
+      'games',
+      'aprendendo a aprender',
+    ],
+  },
 ];
