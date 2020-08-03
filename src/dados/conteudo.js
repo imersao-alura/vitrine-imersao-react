@@ -455,6 +455,21 @@ export default [
     ],
   },
   {
+    nome: 'Johny W. Alves',
+    foto: 'https://avatars3.githubusercontent.com/u/5046995',
+    nomeDoProjeto: 'Devflix',
+    url: 'https://devflix.johnywalves.com.br/',
+    tags: [
+      'desenvolvimento',
+      'tecnologia',
+      'react',
+      'data science',
+      'front end', 
+      'back end',
+      'vídeos',
+    ],
+  },
+  {
     nome: 'Bruno Batalha',
     foto: 'https://avatars1.githubusercontent.com/u/33035221?s=460&u=c7648589c95511abcb5e7172eeab23d8cd1b4fab&v=4',
     nomeDoProjeto: 'LoLFlix',
