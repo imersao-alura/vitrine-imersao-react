@@ -357,7 +357,7 @@ export default [
       'filmes',
       'séries',
     ],
-  },
+  },  
   {
     nome: 'Matheus Reis',
     foto: 'https://avatars3.githubusercontent.com/u/23380987?s=460&u=2afc67c46c005fd886ff5e4f76dbc8323350b9f2&v=4',
@@ -883,4 +883,16 @@ export default [
       'programação',
     ],
  },
+  {
+    nome: 'Octávio Barbosa',
+    foto: 'https://avatars2.githubusercontent.com/u/40213753',
+    nomeDoProjeto: 'Beakmanflix',
+    url: 'https://beakmanflix.vercel.app/',
+    tags: [
+      'curiosidades',
+      'ciência',
+      'tecnologia',
+      'documentários',
+    ],
+  },
 ];
