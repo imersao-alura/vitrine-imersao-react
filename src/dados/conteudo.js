@@ -1017,4 +1017,14 @@ export default [
       'hambúrguer',
     ],
   },
+  {
+    nome: 'Francisco Rodrigues',
+    foto: 'https://avatars2.githubusercontent.com/u/36885950?s=460&u=37b10a9355b3ce3c912d2e75f5efe8fb57b0ab8d&v=4',
+    nomeDoProjeto: 'InvestFlix',
+    url: 'https://investflix-git-master.rodriguesfrancisco.vercel.app/',
+    tags: [
+      'investimentos',
+      'negócios',
+    ],
+  },
 ];
