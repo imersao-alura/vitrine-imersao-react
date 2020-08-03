@@ -359,6 +359,15 @@ export default [
     ],
   },
   {
+    nome: 'Lucas Frigo de Souza',
+    foto: 'https://avatars1.githubusercontent.com/u/19676697?s=460&u=ada1d4318185992a782bd55ba9b8dab529e8d227&v=4',
+    nomeDoProjeto: 'PodFlix',
+    url: 'https://podflix.vercel.app/',
+    tags: [
+      'podcast',   
+    ],
+  },
+  {
     nome: 'Mateus Souza',
     foto: 'https://avatars2.githubusercontent.com/u/61070878?s=460&u=8ee46a489d2d21a094b1612ae37ec70e9dd2b90b&v=4',
     nomeDoProjeto: 'Travelerflix',
