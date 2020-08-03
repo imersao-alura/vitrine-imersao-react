@@ -883,4 +883,14 @@ export default [
       'programação',
     ],
  },
+  {
+    nome: 'Henrique Catunda',
+    foto: 'https://avatars3.githubusercontent.com/u/65199498?s=460&u=86072499fdeedfc6f7f08d29a7e710c38f44755b&v=4',
+    nomeDoProjeto: 'Gameflix',
+    url: 'https://gameflix-five.vercel.app/',
+    tags: [
+      'jogos',
+      'filmes',
+    ],
+ },
 ];
