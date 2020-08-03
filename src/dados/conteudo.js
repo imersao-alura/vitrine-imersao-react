@@ -384,7 +384,6 @@ export default [
     ],
   },
   {
-<<<<<<< HEAD
     nome: 'Matheus Reis',
     foto: 'https://avatars3.githubusercontent.com/u/23380987?s=460&u=2afc67c46c005fd886ff5e4f76dbc8323350b9f2&v=4',
     nomeDoProjeto: 'CodeFlix',
@@ -408,6 +407,17 @@ export default [
       'vídeos',
       'tecnologia',
       'aprendendo a aprender',
+    ],
+  },
+  {
+    nome: 'Carolyne Lira',
+    foto: 'https://avatars3.githubusercontent.com/u/49501070?s=460&u=a7c7d307c3b5606d29e1f33b0c9dacf076762894&v=4',
+    nomeDoProjeto: 'Cuteflix',
+    url: 'https://cuteflix.carollira.vercel.app/',
+    tags: [
+      'animação',
+      'animais',
+      'desenho'
     ],
   },
   {
@@ -1066,7 +1076,7 @@ export default [
       'Destiny',
     ],
   },
-    {
+  {
     nome: 'Thalita Mayra',
     foto: 'https://avatars1.githubusercontent.com/u/45610020?s=460&u=dcd943c455d01bf39aaeed83619f8142d2510064&v=4',
     nomeDoProjeto: 'BitaFlix',
