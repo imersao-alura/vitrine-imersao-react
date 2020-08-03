@@ -38,6 +38,8 @@ export const DropdownContent = styled.div`
   display: flex;
   flex-wrap: wrap;
   list-style: none;
+  max-height: 80vh;
+  overflow-y: scroll;
   padding: 12px;
   position: absolute;
   right: 0;
