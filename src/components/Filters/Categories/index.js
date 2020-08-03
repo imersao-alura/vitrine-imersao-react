@@ -38,20 +38,22 @@ const Categories = ({ tags, selectedTags, updateSelectedTags }) => {
         open
 
       && (
-      <DropdownContent>
-        {tags.map((tag) => (
-          <CategoriesItem>
-            <RadioButton
-              value={tag}
-              type="checkbox"
-              id={tag}
-              onChange={handleChange}
-            />
-
-            <Category for={tag}>{tag}</Category>
-          </CategoriesItem>
-        ))}
-      </DropdownContent>
+      <>
+        <DropdownContent.Item />
+        <DropdownContent>
+          {tags.map((tag) => (
+            <CategoriesItem>
+              <RadioButton
+                value={tag}
+                type="checkbox"
+                id={tag}
+                onChange={handleChange}
+              />
+              <Category for={tag}>{tag}</Category>
+            </CategoriesItem>
+          ))}
+        </DropdownContent>
+      </>
       )
       }
     </CategoriesWrapper>

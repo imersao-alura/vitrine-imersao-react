@@ -47,17 +47,16 @@ export const DropdownContent = styled.div`
   top: calc(100% + 20px);
   width: 90vw;
   z-index: 1;
+`;
 
-  &:before {
-    border: 10px solid var(--primary);
-    border-left-color: transparent;
-    border-right-color: transparent;
-    border-top-color: transparent;
-    content: '';
-    position: absolute;
-    right: 2px;
-    top: -24px;
-  }
+DropdownContent.Item = styled.span`
+  border: 10px solid var(--primary);
+  border-right-color: transparent;
+  border-left-color: transparent;
+  border-top-color: transparent;
+  bottom: -20px;
+  position: absolute;
+  right: 10px;
 `;
 
 export const CategoriesItem = styled.li`
