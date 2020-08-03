@@ -883,4 +883,19 @@ export default [
       'programação',
     ],
  },
+  {
+    nome: 'Gabriela Melo',
+    redeSocial: 'https://www.linkedin.com/in/gabrielarochamelo/',
+    foto: 'https://avatars1.githubusercontent.com/u/65262529?s=460&u=e531da0eba77bdcd047bf7b1cb978794c65323e6&v=4',
+    nomeDoProjeto: 'Starflix',
+    url: 'https://starflix.vercel.app/',
+    tags: [
+      'cinema',
+      'star wars',
+      'filme',
+      'game',
+      'geek'
+      'ficção científica',
+    ],
+ },
 ];
