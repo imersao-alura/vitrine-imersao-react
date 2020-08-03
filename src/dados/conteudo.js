@@ -359,6 +359,18 @@ export default [
     ],
   },
   {
+    nome: 'Caique Giovannini',
+    foto: 'https://avatars0.githubusercontent.com/u/49538313?s=460&u=3d05e4d58bcae17d11a2354e95f432668b289e0f&v=4',
+    nomeDoProjeto: 'Rockyflix',
+    url: 'https://rockyflix.vercel.app/',
+    tags: [
+      'filmes',
+      'música',
+      'vídeos',
+      'entretenimento',
+    ],
+  },
+  {
     nome: 'Antonio Lazaro (Popete)',
     foto: 'https://pbs.twimg.com/profile_images/1140251119568019456/3k8uoLan_400x400.jpg',
     nomeDoProjeto: 'BlackFlix',
