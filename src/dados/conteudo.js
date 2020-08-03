@@ -359,6 +359,19 @@ export default [
     ],
   },
   {
+    nome: 'Matheus Reis',
+    foto: 'https://avatars3.githubusercontent.com/u/23380987?s=460&u=2afc67c46c005fd886ff5e4f76dbc8323350b9f2&v=4',
+    nomeDoProjeto: 'CodeFlix',
+    url: 'https://codeflix.reisdev.vercel.app',
+    tags: [
+      'tecnologia',
+      'back end',
+      'front end',
+      'programação',
+      'desenvolvimento',
+    ],
+  },
+  {
     nome: 'Jean Jacques Barros',
     foto: 'https://avatars3.githubusercontent.com/u/32225403?s=460&u=9c1a04035cc7b4e8749679fd87d0732c26a3dcd4&v=4',
     nomeDoProjeto: 'Scienceflix',
