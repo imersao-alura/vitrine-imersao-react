@@ -1,5 +1,18 @@
 export default [
   {
+    name: 'Eduardo Cabral',
+    foto: 'https://avatars2.githubusercontent.com/u/29133996?s=460&u=5b6448ac95459d30e91293f9893d9fafe54fb523&v=4',
+    nomeDoProjeto: 'AlunosFlix',
+    url: 'https://alunosflix-frontend.vercel.app/',
+    tags: [
+      'back end',
+      'front end',
+      'react',
+      'desenvolvimento',
+      'tecnologia',
+    ],
+  },
+  {
     nome: 'Marco Bruno',
     foto: 'https://avatars2.githubusercontent.com/u/4096456?s=400&v=4',
     nomeDoProjeto: 'Marco Bruno Flix',
