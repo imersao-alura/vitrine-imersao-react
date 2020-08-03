@@ -41,7 +41,7 @@ export default [
     tags: [
       'languages',
       'idiomas',
-      'aprenda',
+      'aula',
     ],
   },
 ];
