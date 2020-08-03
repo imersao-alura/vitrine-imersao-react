@@ -1096,7 +1096,7 @@ export default [
     url: 'https://astolflix.vercel.app/',
     tags: [
       'Filmes',
-      'Programação,
+      'Programação',
       'Livros',
       'Games',
       'Séries',
