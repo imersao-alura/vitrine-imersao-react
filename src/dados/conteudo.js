@@ -1013,5 +1013,19 @@ export default [
       'churrasco',
       'hamburguer',
     ],
-  },  
+  },
+  {
+    nome: 'Klinger Ferreira',
+    foto: 'https://avatars0.githubusercontent.com/u/60621086?s=400&u=9f3e012f572219b71fe8f16d9813b446d1a7e71d&v=4',
+    nomeDoProjeto: 'CoisaSimples',
+    url: 'https://coisasimplesflix.vercel.app/',
+    tags: [
+      'front end',
+      'back end',
+      'data science',
+      'tecnologia',
+      'games',
+      'filmes',
+    ],
+  }, 
 ];
