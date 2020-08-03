@@ -307,7 +307,7 @@ export default [
     tags: [
       'back end',
       'front end',
-      'coding',
+      'programação',
       'tecnologia',
       'música',
     ],
