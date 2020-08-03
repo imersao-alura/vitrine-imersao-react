@@ -978,4 +978,18 @@ export default [
       'música' 
     ],
   },
+  {
+    nome: 'TitenQ',
+    foto: 'https://avatars2.githubusercontent.com/u/29709832?s=460&u=d14f6fdc0b30bc3104c260d1117eba44d32c3601&v=4',
+    nomeDoProjeto: 'DevFlix',
+    url: 'https://devflix.titenq.vercel.app/',
+    tags: [
+      'HTML',
+      'CSS',
+      'JavaScript',
+      'React',
+      'Angular',
+      'Vue',
+    ],
+  },
 ];
