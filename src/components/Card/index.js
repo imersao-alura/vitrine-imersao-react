@@ -3,20 +3,39 @@ import propTypes from 'prop-types';
 
 import { CardWrapper, Tags, Tag } from './style';
 import Info from './Info';
+import Popover from '../Popover';
 
 const Card = ({
-  nome, redeSocial, foto, nomeDoProjeto, url, tags,
+  nome, redeSocial, foto, nomeDoProjeto, url, tags, indice,
 }) => {
+  const key = indice < 50 ? '296fe8' : 'c237fe';
   const thumbnail = `
-https://api.screenshotmachine.com?key=296fe8&url=${url}&dimension=1024x768
+https://api.screenshotmachine.com?key=${key}&url=${url}&dimension=1024x768
   `;
+
+  const visibleTags = tags.slice(0, 3);
+  const quantityPopoverTags = tags.length - 3;
+  const tagsPopover = tags.slice(3, tags.length);
 
   return (
     <CardWrapper thumbnail={thumbnail}>
       <Tags>
-        {tags.map((tag) => (
+        {visibleTags.map((tag) => (
           <Tag>{tag}</Tag>
         ))}
+        {
+          tags.length > 3
+            ? (
+              <Popover tags={tagsPopover}>
+                <Tag>
+                  +
+                  {' '}
+                  {quantityPopoverTags}
+                </Tag>
+              </Popover>
+            )
+            : ''
+        }
       </Tags>
       <Info
         foto={foto}
@@ -42,6 +61,7 @@ Card.propTypes = {
   nomeDoProjeto: propTypes.string.isRequired,
   url: propTypes.string.isRequired,
   tags: propTypes.arrayOf(propTypes.string),
+  indice: propTypes.number.isRequired,
 };
 
 export default Card;

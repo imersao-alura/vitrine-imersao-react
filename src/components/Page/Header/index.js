@@ -18,7 +18,7 @@ const Header = () => (
         <Logo src={logoImersao} alt="Logo Imersão React" />
       </a>
 
-      <Logo src={iconeImersao} alt="Icone de capacete de escafandro com símbolo do React no centro" />
+      <Logo.Icone src={iconeImersao} alt="Icone de capacete de escafandro com símbolo do React no centro" />
     </Menu>
   </HeaderWrapper>
 );
