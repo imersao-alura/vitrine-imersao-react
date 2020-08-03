@@ -1089,4 +1089,19 @@ export default [
       'Games',
     ],
   },
+  {
+    nome: 'Ezequiel França dos Santos',
+    foto: 'https://avatars1.githubusercontent.com/u/3648336?s=460&u=f22b9eed6ef13f2b99db56cfb52051473fc7fad5&v=4',
+    nomeDoProjeto: 'ZupFlix',
+    url: 'hhttps://zupflix-git-master.ezefranca.vercel.app/',
+    tags: [
+      'front end',
+      'tecnologia',
+      'filmes',
+      'carreira',
+      'música',
+      'talks',
+      'palestras'
+    ],
+  },
 ];
