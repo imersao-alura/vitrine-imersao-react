@@ -1054,4 +1054,15 @@ export default [
       'filmes',
     ],
   },
+  {
+    nome: 'Adriano Valença',
+    foto: 'https://avatars3.githubusercontent.com/u/64167395?s=460&u=123d1b8ca658f295dd57e5ce3e916113f87d9212&v=4',
+    nomeDoProjeto: 'favoritoflix',
+    url: 'https://imersao-react-ten.vercel.app/',
+    tags: [
+      'Games',
+      'Músicas',
+      'Destiny',
+    ],
+  },
 ];
