@@ -1,5 +1,19 @@
 export default [
   {
+    nome: 'Anderson Lima',
+    foto: 'https://www.gravatar.com/avatar/89d417561ad9cf985f77b7839b90cfa7',
+    nomeDoProjeto: 'AnsuFlix',
+    url: 'https://ansuflix.herokuapp.com/',
+    tags: [
+      'back-end',
+      'front-end',
+      'reactjs',
+      'react',
+      'desenvolvimento',
+      'tecnologia',
+    ],
+  },
+  {
     nome: 'Eduardo Cabral',
     foto: 'https://avatars2.githubusercontent.com/u/29133996?s=460&u=5b6448ac95459d30e91293f9893d9fafe54fb523&v=4',
     nomeDoProjeto: 'AlunosFlix',
