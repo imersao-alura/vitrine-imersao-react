@@ -1014,4 +1014,19 @@ export default [
       'hamburguer',
     ],
   },  
+  {
+    nome: 'Leticia Campos',
+    foto: 'https://avatars1.githubusercontent.com/u/34458509?s=400&u=e98523f7600c40c6bfd7df7121c5a2eda02e37d5&v=4',
+    nomeDoProjeto: 'AluraFlix',
+    url: 'https://leticiacamposs2-aluraflix.vercel.app/',
+    tags: [
+      'front end',
+      'react',
+      'alura',
+      'cursos',
+      'back end',
+      'filmes',
+      'games',
+    ],
+  },  
 ];
