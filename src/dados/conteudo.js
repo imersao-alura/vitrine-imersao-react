@@ -1089,4 +1089,16 @@ export default [
       'Games',
     ],
   },
+  {
+    nome: 'João Vitor Ferreira',
+    foto: 'https://avatars0.githubusercontent.com/u/4220066?s=460&u=9ac72d63ca16bb1555e682cb85ee93d6a40d1b72&v=4',
+    nomeDoProjeto: 'REACTFLIX',
+    url: 'https://reactflix-delta-nine.vercel.app/',
+    tags: [
+      'React',
+      'ReactJS',
+      'Javascript',
+      'Front end',
+    ],
+  },
 ];
