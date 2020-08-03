@@ -1089,4 +1089,17 @@ export default [
       'Games',
     ],
   },
+  {
+    nome: 'Maria Vitória',
+    foto: 'https://avatars2.githubusercontent.com/u/62755952?s=460&u=6b15ea34158f6419570429a1447c1219a3457b2c&v=4',
+    nomeDoProjeto: 'WhatFlix',
+    url: 'https://whatflix.vercel.app/',
+    tags: [
+      'Curiosidades',
+      'Programação',
+      'Podcast',
+      'Veganismo',
+      'Música',
+    ],
+  },
 ];
