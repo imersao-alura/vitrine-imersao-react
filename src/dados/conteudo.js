@@ -1089,4 +1089,15 @@ export default [
       'Games',
     ],
   },
+  {
+    nome: 'Guilherme Teixeira',
+    foto: 'https://avatars0.githubusercontent.com/u/24235344?s=460&u=b335b31127861b3d0f4f99f42f7880ccbcc0743b&v=4',
+    nomeDoProjeto: 'LanguageFlix',
+    url: 'https://languageflix.vercel.app/',
+    tags: [
+      'Linguística',
+      'Matemática',
+      'Ciência',
+    ],
+  },
 ];
