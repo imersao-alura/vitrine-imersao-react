@@ -228,6 +228,18 @@ export default [
     ],
   },
   {
+    nome: 'Lucas Wyver',
+    foto: 'https://avatars2.githubusercontent.com/u/67572275?s=460&v=4',
+    nomeDoProjeto: 'Wyver GameDevFlix',
+    url: 'https://wyver-dev-react.vercel.app/',
+    tags: [
+      'GameDev',
+      'Unity3D',
+      'GameMaker2D',
+      'PixelArt',
+    ],
+  },
+  {
     nome: 'Luiz Gustavo Togni',
     foto: 'https://avatars1.githubusercontent.com/u/68093698?s=460&u=4282eb920a46d7e49ab54429946e1a2838e766a5&v=4',
     nomeDoProjeto: 'Canguruflix',
