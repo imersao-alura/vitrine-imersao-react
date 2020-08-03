@@ -1088,5 +1088,11 @@ export default [
       'Terror',
       'Games',
     ],
+  },{
+    nome: 'Renato Holzlsauer Mattos Macedo',
+    foto: 'https://avatars2.githubusercontent.com/u/22153172',
+    nomeDoProjeto: 'Holzflix',
+    url: 'https://holzflix.vercel.app/',
+    tags: [],
   },
 ];
