@@ -740,5 +740,19 @@ export default [
       'tecnologia'
     ],
   },
+  {
+    nome: 'Nathaly Mesquita',
+    foto: 'https://avatars0.githubusercontent.com/u/19518771?s=460&u=d7d3f2a6399376e71e2279bfc6599ce47446deb6&v=4',
+    nomeDoProjeto: 'Nathyflix',
+    url: 'https://nathyflix.vercel.app/',
+    tags: [
+      'investimentos',
+      'tecnologia',
+      'empreendedorismo',
+      'concurso',
+      'viagens',
+      'yoga',
+    ],
+  },
 ];
 
