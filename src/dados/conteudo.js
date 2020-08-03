@@ -35,22 +35,7 @@ export default [
       'games',
       'filmes',
     ],
-  },
-  {
-    nome: 'Débora Moura dos Santos',
-    foto: 'https://avatars1.githubusercontent.com/u/43018061',
-    nomeDoProjeto: 'DebFlix',
-    url: 'https://dmsdebflix.vercel.app/',
-    tags: [
-      'animais',
-      'nerd',
-      'games',
-      'tecnologia',
-      'programação',
-      'séries',
-      'filmes',
-    ],
-  },
+  }, 
   {
     nome: 'Mateus Cirino',
     foto: 'https://avatars0.githubusercontent.com/u/40328105?s=460&u=1c1aac08db6b9afce11593f4add4717fb005ffef&v=4',
@@ -1042,4 +1027,19 @@ export default [
       'negócios',
     ],
   },
+   {
+    nome: 'Débora Moura dos Santos',
+    foto: 'https://avatars1.githubusercontent.com/u/43018061',
+    nomeDoProjeto: 'DebFlix',
+    url: 'https://dmsdebflix.vercel.app/',
+    tags: [
+      'animais',
+      'nerd',
+      'games',
+      'tecnologia',
+      'programação',
+      'séries',
+      'filmes',
+    ],
+  }
 ];
