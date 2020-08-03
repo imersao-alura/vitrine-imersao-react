@@ -1054,4 +1054,39 @@ export default [
       'filmes',
     ],
   },
+  {
+    nome: 'Adriano Valença',
+    foto: 'https://avatars3.githubusercontent.com/u/64167395?s=460&u=123d1b8ca658f295dd57e5ce3e916113f87d9212&v=4',
+    nomeDoProjeto: 'favoritoflix',
+    url: 'https://imersao-react-ten.vercel.app/',
+    tags: [
+      'Games',
+      'Músicas',
+      'Destiny',
+    ],
+  },
+    {
+    nome: 'Thalita Mayra',
+    foto: 'https://avatars1.githubusercontent.com/u/45610020?s=460&u=dcd943c455d01bf39aaeed83619f8142d2510064&v=4',
+    nomeDoProjeto: 'BitaFlix',
+    url: 'https://bitaflix.vercel.app/',
+    tags: [
+      'quarentena',
+      'música',
+      'kids',
+      'filmes'
+    ],
+  },
+  {
+    nome: 'Leandro Almeida',
+    foto: 'https://avatars2.githubusercontent.com/u/30052919?s=460&u=e7f2efe21341d9159a6dc944d1b795f9bd04b807&v=4',
+    nomeDoProjeto: 'garoupicks',
+    url: 'https://garoupicks.vercel.app/',
+    tags: [
+      'Filmes',
+      'Ficção científica',
+      'Terror',
+      'Games',
+    ],
+  },
 ];
