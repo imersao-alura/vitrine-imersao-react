@@ -1089,4 +1089,16 @@ export default [
       'Games',
     ],
   },
+  {
+  nome: 'João Souto',
+  foto: 'https://avatars1.githubusercontent.com/u/42191629?v=4',
+  nomeDoProjeto: 'AngraFlix',
+  url: 'https://angraflix.vercel.app/',
+  tags: [
+    'metal',
+    'música',
+    'folk',
+    'bateria',
+  ],
+},
 ];
