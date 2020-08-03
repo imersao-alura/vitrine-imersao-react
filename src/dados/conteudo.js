@@ -1089,4 +1089,17 @@ export default [
       'Games',
     ],
   },
+  {
+    nome: 'Marcus Vinícius',
+    foto: 'https://scontent-gig2-1.cdninstagram.com/v/t51.2885-19/s150x150/70658039_2562190990515501_7604791191627890688_n.jpg?_nc_ht=scontent-gig2-1.cdninstagram.com&_nc_ohc=AGVH7liLuS0AX-MqXz4&oh=56598238d201ba80a745820c6ccb9a61&oe=5F528244',
+    nomeDoProjeto: 'ViniFlix',
+    url: 'https://vini-flix.vercel.app/',
+    tags: [
+      'Jogos',
+      'GameDev',
+      'Programação',
+      'Indies',
+      'Tecnologia',
+    ],
+  },
 ];
