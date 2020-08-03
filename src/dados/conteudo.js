@@ -345,7 +345,7 @@ export default [
       'filmes',
       'séries',
     ],
-  },   
+  },
   {
     nome: 'Matheus Rodrigues',
     foto: 'https://avatars2.githubusercontent.com/u/36890610?s=460&u=b0775141b0e149d0a8120a6f272456aba1f59624&v=4',
@@ -625,7 +625,7 @@ export default [
       'front end',
       'back end',
       'devops',
-    ]
+    ],
   },
   {
     nome: 'Bruno Dornela',
@@ -651,7 +651,7 @@ export default [
       'séries',
     ],
   },
-  {    
+  {
     nome: 'Vinicius Figueiredo Santana',
     foto: 'https://avatars1.githubusercontent.com/u/30605801?s=460&v=4',
     nomeDoProjeto: 'Duplo 6',
@@ -693,7 +693,7 @@ export default [
       'música',
     ],
   },
-    {
+  {
     nome: 'Patrick Cruz',
     foto: 'https://avatars0.githubusercontent.com/u/54329272?s=460&u=082247fc07ab60bcf25579dcffb9dfaf6ee6e3de&v=4',
     nomeDoProjeto: 'Patriflix',
@@ -705,7 +705,7 @@ export default [
       'tecnologia',
     ],
   },
-     {
+  {
     nome: 'Thalita Mayra',
     foto: 'https://avatars1.githubusercontent.com/u/45610020?s=460&u=dcd943c455d01bf39aaeed83619f8142d2510064&v=4',
     nomeDoProjeto: 'BitaFlix',
@@ -716,7 +716,7 @@ export default [
       'dança',
     ],
   },
-   {
+  {
     nome: 'Carlos Barros',
     foto: 'https://avatars2.githubusercontent.com/u/49073667?s=460&u=10faeafe3b1cf01647af4f44a682930ba2728e2a&v=4',
     nomeDoProjeto: 'CarlosFlix',
@@ -737,7 +737,7 @@ export default [
       'front end',
       'filmes',
       'séries',
-      'tecnologia'
+      'tecnologia',
     ],
   },
   {
@@ -774,7 +774,7 @@ export default [
     url: 'https://gm-flix.vercel.app/',
     tags: [
       'jogos',
-      'trailers',      
+      'trailers',
     ],
   },
 ];
