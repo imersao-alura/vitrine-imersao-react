@@ -1093,7 +1093,7 @@ export default [
     nome: 'Juliane Pires',
     foto: 'https://avatars1.githubusercontent.com/u/36718319?s=460&u=a013252bab4b605e42d542498617a5eecc1ed250&v=4',
     nomeDoProjeto: 'Miojoflix',
-    url: 'https://miojoflix.netlify.app',
+    url: 'https://miojoflix.vercel.app',
     tags: [
       'front end',
       'tecnologia',
