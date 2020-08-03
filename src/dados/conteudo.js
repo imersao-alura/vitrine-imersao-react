@@ -1089,4 +1089,18 @@ export default [
       'Games',
     ],
   },
+  {
+    nome: 'Gabriel Deggau Schmidt',
+    foto: 'https://avatars0.githubusercontent.com/u/37387111?s=460&u=1c9e73f22c48df83f670883c0629f98aa706788e&v=4',
+    nomeDoProjeto: 'deggauflix',
+    url: 'https://deggauflix.vercel.app/',
+    tags: [
+      'react',
+      'node.js',
+      'games',
+      'aprendendo a aprender',
+      'musculação',
+      'techno',
+    ],
+  },
 ];
