@@ -728,4 +728,17 @@ export default [
       'música',
     ],
   },
+  {
+    nome: 'Vinicius Santos',
+    foto: 'https://avatars0.githubusercontent.com/u/46813491?s=460&u=bc2d6b762fe0b8472b7ab9c85da4380c6627f7a4&v=4',
+    nomeDoProjeto: 'ViniFlix',
+    url: 'https://vinisantosflix.vercel.app/',
+    tags: [
+      'front end',
+      'filmes',
+      'séries',
+      'tecnologia'
+    ],
+  },
 ];
+
