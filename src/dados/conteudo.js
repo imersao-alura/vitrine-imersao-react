@@ -33,4 +33,17 @@ export default [
       'filmes',
     ],
   },
+  {
+    nome: 'Matheus Alves Nunes',
+    foto: 'https://avatars0.githubusercontent.com/u/45295157?s=460&u=c331efc433c284a9d401a0b2eb6d904902b1222b&v=4',
+    nomeDoProjeto: 'Sciflix',
+    url: 'https://sciflix.vercel.app/',
+    tags: [
+      'Ciência',
+      'Divulgação científica',
+      'Filmes',
+      'Livros',
+      'Podcasts',
+    ],
+  },
 ];
