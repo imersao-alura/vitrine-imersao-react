@@ -1259,6 +1259,17 @@ export default [
     ],
   },
   {
+    nome: 'Thaís Silveira',
+    foto: 'https://avatars3.githubusercontent.com/u/34002389?s=460&u=87794bfaceacc304760b3329b20af09ed10e2c1b&v=4',
+    nomeDoProjeto: 'Fitflix',
+    url: 'https://fitflix.vercel.app/',
+    tags: [
+      'front end',
+      'back end',
+      'fitness',
+    ],
+  },
+  {
     nome: 'Kleber Rocha',
     foto: 'https://avatars2.githubusercontent.com/u/65262770?v=4',
     nomeDoProjeto: 'HorrorFlix',
