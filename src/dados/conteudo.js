@@ -1096,8 +1096,9 @@ export default [
     url: 'https://flix-wheat.vercel.app/',
     tags: [
       'música',
-      'acústica',
-      'MTV',
+      'vídeo clipes',
+      'folk',
+      'indie',
     ],
   },
 ];
