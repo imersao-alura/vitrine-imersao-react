@@ -420,11 +420,7 @@ export default [
     nomeDoProjeto: 'Sportflix',
     url: 'https://sportflix.vercel.app/',
     tags: [
-      'front end',
-      'sports',
-      'esportes',
-      "API",
-      "API externa"
+      'esportes'
     ],
   },
 ];
