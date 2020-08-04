@@ -1191,4 +1191,15 @@ export default [
       'pixelart',
     ],
   },
+  {
+    nome: 'Monica Hillman',
+    foto: 'https://avatars0.githubusercontent.com/u/51282495?s=460&u=82be8af0981a38fa9e6cf2e514b73227326d547e&v=4',
+    nomeDoProjeto: 'DigiFlix',
+    url: 'https://digiflix.vercel.app/',
+    tags: [
+      'Portfólio',
+      'Educação',
+      'Desenvolvimento',
+    ],
+  },
 ];
