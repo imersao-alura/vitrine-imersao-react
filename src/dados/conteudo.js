@@ -1089,4 +1089,18 @@ export default [
       'Games',
     ],
   },
+  {
+    nome: 'André Zagatti',
+    foto: 'https://avatars1.githubusercontent.com/u/40201172?s=460&u=adaf68194a331e5c46f4213f1ff4a5a4337c5095&v=4',
+    nomeDoProjeto: 'Zagaflix',
+    url: 'https://zagaflix.azagatti.dev/',
+    tags: [
+      'Animes',
+      'Entretenimento',
+      'Tecnologia',
+      'Finanças',
+      'Música',
+      'Treino e nutrição',
+    ],
+  },
 ];
