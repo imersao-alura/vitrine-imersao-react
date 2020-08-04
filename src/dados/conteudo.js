@@ -1281,4 +1281,13 @@ export default [
       'Terror',
     ],
   },
+  {
+    nome: 'Orlando Vandres',
+    foto: 'https://avatars2.githubusercontent.com/u/57423200?s=460&u=6cccaace678c205a49cc6d77b40084731ad57975&v=4',
+    nomeDoProjeto: 'ReplayFlix',
+    url: 'https://replayflix.vercel.app/',
+    tags: [
+      'Jogos',
+    ],
+  },
 ];
