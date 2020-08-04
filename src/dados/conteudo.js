@@ -1453,4 +1453,15 @@ export default [
       'comédia',
     ],
   },
+  {
+    nome: 'Arthur Neves Monteiro',
+    foto: 'https://avatars0.githubusercontent.com/u/55425833?s=460&u=33f43f7e4ea04ca70a526fd168b0a73bba017671&v=4',
+    nomeDoProjeto: 'Apache Prime',
+    url: 'https://apache-prime.vercel.app/',
+    tags: [
+      'música',
+      'filmes',
+      'variedades',
+    ],
+  },
 ];
