@@ -1,11 +1,19 @@
-import React from 'react';
+import React, { useState } from 'react';
 import propTypes from 'prop-types';
 
+import DownArrowIcon from '../../../assets/images/down-arrow.svg';
 import {
-  Category, RadioButton, CategoriesWrapper, CategoriesItem,
+  Category,
+  RadioButton,
+  CategoriesWrapper,
+  CategoriesItem,
+  Dropdown,
+  DropdownContent,
 } from './style';
 
 const Categories = ({ tags, selectedTags, updateSelectedTags }) => {
+  const [open, setOpen] = useState(false);
+
   const handleChange = (e) => {
     const newSelectedTags = [...selectedTags];
     const targetValue = e.target.value;
@@ -20,18 +28,34 @@ const Categories = ({ tags, selectedTags, updateSelectedTags }) => {
 
   return (
     <CategoriesWrapper>
-      {tags.map((tag) => (
-        <CategoriesItem>
-          <RadioButton
-            value={tag}
-            type="checkbox"
-            id={tag}
-            onChange={handleChange}
-          />
+      <Dropdown
+        onClick={() => setOpen(!open)}
+        icon={DownArrowIcon}
+      >
+        Categorias
+      </Dropdown>
+      {
+        open
 
-          <Category for={tag}>{tag}</Category>
-        </CategoriesItem>
-      ))}
+      && (
+      <>
+        <DropdownContent.Item />
+        <DropdownContent>
+          {tags.map((tag) => (
+            <CategoriesItem>
+              <RadioButton
+                value={tag}
+                type="checkbox"
+                id={tag}
+                onChange={handleChange}
+              />
+              <Category for={tag}>{tag}</Category>
+            </CategoriesItem>
+          ))}
+        </DropdownContent>
+      </>
+      )
+      }
     </CategoriesWrapper>
   );
 };

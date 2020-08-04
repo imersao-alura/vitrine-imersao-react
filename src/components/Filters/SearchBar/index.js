@@ -15,13 +15,11 @@ const SearchBar = ({ updateSearchTerm }) => {
 
   return (
     <Form onSubmit={handleSubmit}>
-      <Input onChange={handleTyping} />
-      <Button>
-        <img
-          src={SearchIcon}
-          alt="Ícone de uma lupa"
-        />
-      </Button>
+      <Input
+        onChange={handleTyping}
+        placeholder="Buscar"
+        icon={SearchIcon}
+      />
     </Form>
   );
 };
