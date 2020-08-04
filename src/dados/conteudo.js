@@ -1,4 +1,17 @@
 export default [
+   {
+    nome: 'Victor Costa',
+    foto: 'https://avatars2.githubusercontent.com/u/21694466?s=460&u=625d8412b8e6f222e51a005dffbd67813fe0ffd1&v=4',
+    nomeDoProjeto: 'Tcholaflix',
+    url: 'https://tcholaflix.vercel.app/',
+    tags: [
+      'back end',
+      'front end',
+      'react',
+      'desenvolvimento',
+      'tecnologia',
+    ],
+  },
   {
     nome: 'Eduardo Cabral',
     foto: 'https://avatars2.githubusercontent.com/u/29133996?s=460&u=5b6448ac95459d30e91293f9893d9fafe54fb523&v=4',
