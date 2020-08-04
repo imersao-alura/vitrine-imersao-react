@@ -42,10 +42,9 @@ export default [
     nomeDoProjeto: 'Chopperflix',
     url: 'https://chopperflix.vercel.app/',
     tags: [
-      'chopper',
+      'música',
       'anime',
       'amv',
-      'rosinha',
     ],
   },
 ];
