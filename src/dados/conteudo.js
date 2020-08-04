@@ -20,24 +20,26 @@ export default [
     tags: [
       'front end',
       'filmes',
-      'música',
+      'música'
     ],
   },
   {
     nome: 'Juliana Negreiros',
     redeSocial: 'https://twitter.com/juunegreiros',
-    foto: 'https://avatars0.githubusercontent.com/u/17054729?s=460&u=7f84a845859479f59c18063284260644928f094c&v=4',
+    foto:
+      'https://avatars0.githubusercontent.com/u/17054729?s=460&u=7f84a845859479f59c18063284260644928f094c&v=4',
     nomeDoProjeto: 'Juflix',
     url: 'https://www.alura.com.br/imersao-react',
     tags: [
       'front end',
       'filmes',
-      'música',
+      'música'
     ],
   },
   {
     nome: 'Mario Souto',
-    foto: 'https://avatars1.githubusercontent.com/u/13791385?s=460&u=6f629f0aa7530d62552d7b746fc106531588f638&v=4',
+    foto:
+      'https://avatars1.githubusercontent.com/u/13791385?s=460&u=6f629f0aa7530d62552d7b746fc106531588f638&v=4',
     nomeDoProjeto: 'DevSoutinhoFlix',
     url: 'https://devsoutinhoflix.com.br/',
     tags: [
@@ -824,7 +826,18 @@ export default [
     tags: [
       'front end',
       'filmes',
-      'música',
+      'música'
+    ],
+  },
+  {
+    nome: 'Emerson Moreira',
+    foto: 'https://avatars2.githubusercontent.com/u/42968718?s=460&v=4',
+    nomeDoProjeto: 'EmerFlix',
+    url: 'https://emerflix.vercel.app/',
+    tags: [
+      'front end',
+      'Back end',
+      'Games'
     ],
   },
   {
@@ -1089,6 +1102,7 @@ export default [
       'Games',
     ],
   },
+
    {
     nome: 'Alberto Lucas',
     foto: 'https://avatars1.githubusercontent.com/u/38790522?s=460&u=438ddea744d8f5c9e5fdfad4ab7867721377bb59&v=4',
@@ -1099,6 +1113,185 @@ export default [
       'data science e inteligência artificial',
       'merchandising',
       'músicas'
+  },
+
+  {
+    nome: 'Tori Calasans',
+    foto: 'https://avatars2.githubusercontent.com/u/56488155?s=400&u=9b21fa50917f45e3684d23d34cc91ecf962b1732&v=4',
+    nomeDoProjeto: 'NerdFlix',
+    url: 'https://nerd-flix-git-master.toricalasans.vercel.app',
+    tags: [
+      'Anime',
+      'Mangás',
+      'Jogos',
+      'Tecnologia',
+      'Ciência',
+    ],
+  },
+    {
+    nome: 'Mandrake Profeta',
+    foto: 'https://avatars2.githubusercontent.com/u/49409357?s=460&u=c9884c9b16df0af2e8e3d03ac00a881afb8ef45c&v=4',
+    nomeDoProjeto: 'MdkLab',
+    url: 'https://mdklab.vercel.app/',
+    tags: [
+      'tecnologia',
+      'variedades',
+      'desenvolvimento',
+      'DIY',
+      'sobrevivência',
+      'magia'
+    ],
+  },
+  {
+    nome: 'Marcelo Augusto',
+    foto: 'https://avatars3.githubusercontent.com/u/11545976?s=460&u=ea0982bb2014a19d43b231dae1f86b6f9d4a331d&v=4',
+    nomeDoProjeto: 'mcuflix',
+    url: 'https://mcuflix.vercel.app/',
+    tags: [
+      'Filmes',
+      'Herois',
+      'Marvel',
+      'Universo'
+    ]
+  },
+  {
+    nome: 'Augusto Pedro Gomes',
+    foto: 'https://avatars2.githubusercontent.com/u/52221457?s=460&v=4',
+    nomeDoProjeto: 'My Top List',
+    url: 'https://mytoplist.vercel.app/',
+    tags: [
+      'Jogos',
+      'Música',
+      'Filmes',
+      'Geral',
+      'Séries',
+      'Cult',
+      'Brasil',
+      'Switch',
+      'Playstation',
+      'Xbox'
+    ]
+  },
+  {
+    nome: 'Rodrigo Aramburu',
+    foto: 'https://avatars1.githubusercontent.com/u/389627?s=460&v=4',
+    nomeDoProjeto: 'rpgflix',
+    url: 'https://rpgflix.vercel.app/',
+    tags: [
+      'RPG',
+      'lives'
+    ]
+  },
+  {
+    nome: 'Vanessa Ribeiro Koch',
+    foto: 'https://avatars1.githubusercontent.com/u/49540299?s=460&u=f88ab6da79935e30fc189625bfb9e46301e32f23&v=4',
+    nomeDoProjeto: 'healthflix',
+    url: 'https://healthflix.vercel.app/',
+    tags: [
+      'saúde',
+      'quarentena',
+      'vida saudável',
+    ],
+  },
+  {
+    nome: 'Francisco Noberto',
+    foto: 'https://avatars2.githubusercontent.com/u/32619479?s=460&u=73445bb9ec11dd30e838bc7f9f2c7c8a6b0ab2d3&v=4',
+    nomeDoProjeto: 'Mineflix',
+    url: 'https://imersao-aluraflix-1bldplo65.vercel.app/',
+    tags: [
+      'minecraft',
+      'Jogos',
+      'pixelart',
+    ],
+  },
+  {
+    nome: 'Monica Hillman',
+    foto: 'https://avatars0.githubusercontent.com/u/51282495?s=460&u=82be8af0981a38fa9e6cf2e514b73227326d547e&v=4',
+    nomeDoProjeto: 'DigiFlix',
+    url: 'https://digiflix.vercel.app/',
+    tags: [
+      'Portfólio',
+      'Educação',
+      'Desenvolvimento',
+    ],
+  },
+  {
+    nome: 'Lucas Ribeiro',
+    foto: 'https://avatars2.githubusercontent.com/u/16158197?s=460&u=2458ce95ab260c9232b28953cb83b64679318a82&v=4',
+    nomeDoProjeto: 'LucasFlix',
+    url: 'https://lucasflix.vercel.app/',
+    tags: [
+      'standup',
+      'business intelligence',
+      'programação',
+      'data science',
+      'séries',
+      'música',
+    ],
+  },
+  {
+    nome: 'Douglas de Assis',
+    redeSocial: 'https://www.instagram.com/ddads/',
+    foto: 'https://avatars1.githubusercontent.com/u/32401953?s=460&u=df7a4e57a57b31f4cec758a7d9268db4821a2406&v=4',
+    nomeDoProjeto: 'DougFlix',
+    url: 'https://dougflix-tech.vercel.app/',
+    tags: [
+      'culinária',
+      'jardinagem',
+      'quarentena',
+      'finanças',
+      'política',
+    ],
+  },
+  {
+    nome: 'Thiago Santiago',
+    foto: 'https://avatars3.githubusercontent.com/u/3447962?s=460&u=9e674b6d98b334fa96a61aab11e02caa7c08618c&v=4',
+    nomeDoProjeto: 'santiagoflix',
+    url: 'https://santiagoflix.vercel.app/',
+    tags: [
+      'jogos',
+      'jogos de Tabuleiro',
+      'filmes',
+      'front end',
+      'back end',
+      'esportes',
+      'bola de gude',
+    ],
+  },
+  {
+    nome: 'João Gabriel',
+    foto: 'https://avatars3.githubusercontent.com/u/63380935?s=460&u=3ff3a39f57e6550cc5079610afeca100b20ee12b&v=4',
+    nomeDoProjeto: 'PythonFlix',
+    url: 'https://pythonflix.vercel.app/',
+    tags: [
+      'python',
+      'back end',
+      'inteligência artificial',
+      'data science',
+      'selenium',
+    ],
+  },
+  {
+    nome: 'Thaís Silveira',
+    foto: 'https://avatars3.githubusercontent.com/u/34002389?s=460&u=87794bfaceacc304760b3329b20af09ed10e2c1b&v=4',
+    nomeDoProjeto: 'Fitflix',
+    url: 'https://fitflix.vercel.app/',
+    tags: [
+      'front end',
+      'back end',
+      'fitness',
+    ],
+  },
+  {
+    nome: 'Kleber Rocha',
+    foto: 'https://avatars2.githubusercontent.com/u/65262770?v=4',
+    nomeDoProjeto: 'HorrorFlix',
+    url: 'https://horror-flix.vercel.app/',
+    tags: [
+      'Filmes',
+      'Jogos',
+      'Séries',
+      'Terror',
     ],
   },
 ];
