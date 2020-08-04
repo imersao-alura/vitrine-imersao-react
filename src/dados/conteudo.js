@@ -1100,5 +1100,5 @@ export default [
       'back end',
       'front end',
     ],
-  }
+  },
 ];
