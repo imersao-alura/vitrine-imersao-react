@@ -1159,4 +1159,14 @@ export default [
       'Xbox'
     ]
   },
+  {
+    nome: 'Rodrigo Aramburu',
+    foto: 'https://avatars1.githubusercontent.com/u/389627?s=460&v=4',
+    nomeDoProjeto: 'rpgflix',
+    url: 'https://rpgflix.vercel.app/',
+    tags: [
+      'RPG',
+      'lives'
+    ]
+  },
 ];
