@@ -406,7 +406,7 @@ export default [
     ],
   },
    {
-    nome: 'Henrique Faria',
+    nome: 'Henrique G. Faria',
     foto: 'https://avatars0.githubusercontent.com/u/66914517?s=60&v=4',
     nomeDoProjeto: 'SAILFLIX',
     url: 'https://sailflix.vercel.app/',
