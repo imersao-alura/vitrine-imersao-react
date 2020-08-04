@@ -1526,4 +1526,19 @@ export default [
       'desenvolvimento',
     ],
   },
+  {
+    nome: 'Thalita Colofatti',
+    foto: 'https://avatars3.githubusercontent.com/u/62973671?v=4',
+    nomeDoProjeto: 'Artflix',
+    url: 'https://alura-artflix.vercel.app/',
+    tags: [
+      'arte',
+      'crafts',
+      'pintura',
+      'DIY',
+      'dioramas',
+      'tutorial',
+      'desenho',
+      ],
+  },
 ];
