@@ -40,10 +40,13 @@ export default [
     url: 'https://therpgreflix.vercel.app/',
     tags: [
       'Jogos',
+      'Games',
       'RPG',
       'MMORPG',
       'ARPG',
       'JRPG',
+      'Roguelike',
+      'Animes',
     ],
   }
 ];
