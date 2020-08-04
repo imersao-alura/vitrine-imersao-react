@@ -1089,4 +1089,17 @@ export default [
       'Games',
     ],
   },
+  {
+    nome: 'Bruno Maia',
+    foto: 'https://avatars2.githubusercontent.com/u/62728443?s=460&u=c10bcf9ef144d4280eea367681557468cc124106&v=4',
+    nomeDoProjeto: 'VariadoFlix',
+    url: 'https://variadoflix.vercel.app/',
+    tags: [
+      'humor',
+      'viagem',
+      'games',
+      'educação financeira',
+      'desenvolvimento pessoal',
+    ],
+  },
 ];
