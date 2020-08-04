@@ -1513,4 +1513,17 @@ export default [
       'tecnologia',
     ],
   },
+  {  
+    nome: 'Almerindo da Paixão',
+    foto: 'https://avatars3.githubusercontent.com/u/58123442?s=400&u=9a2176a2f67ba7d79a3d5f59069c7d655b2f016b&v=4',
+    nomeDoProjeto: 'guanabaraflix',
+    url: 'https://guanabaraflix.vercel.app/',
+    tags: [
+      'front end',
+      'tecnologia',
+      'aprendendo a aprender',
+      'back end',
+      'desenvolvimento',
+    ],
+  },
 ];
