@@ -671,7 +671,6 @@ export default [
       'Tecnologia',
       'FrontEnd',
       'BackEnd',
-      'Alura',
       'Cursos',
       'Desenvolvimente web',
       'Programação',
