@@ -1340,4 +1340,14 @@ export default [
       'Vídeo',
     ],
   },
+  {
+    nome: 'Alex Camargo',
+    foto: 'https://avatars3.githubusercontent.com/u/50621345?s=460&u=19d72ca677ff688f6074e4243898f9ba6c469809&v=4',
+    nomeDoProjeto: 'HeroFlix',
+    url: 'https://heroflix.vercel.app/',
+    tags: [
+      'herois',
+      'Filme de herois',
+    ],
+  },
 ];
