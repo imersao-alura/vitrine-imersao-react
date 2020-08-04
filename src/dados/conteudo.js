@@ -1464,4 +1464,17 @@ export default [
       'variedades',
     ],
   },
+  {
+    nome: 'Jéssica Batista',
+    foto: 'https://avatars3.githubusercontent.com/u/68614231?s=460&u=2d8ca978132f13dd616bb7f15ac47453d0146bd3&v=4',
+    nomeDoProjeto: 'Adaflix',
+    url: 'https://adaflix-mu.vercel.app/',
+    tags: [
+      'mulheres',
+      'tecnologia',
+      'programação',
+      'filmes',
+      'documentários',
+    ],
+  },
 ];
