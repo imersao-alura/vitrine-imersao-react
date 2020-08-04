@@ -1302,4 +1302,17 @@ export default [
       'minecraft',
     ],
   },
+  {
+    nome: 'Filipe Soares',
+    foto: 'https://avatars1.githubusercontent.com/u/6752559?s=460&v=4',
+    nomeDoProjeto: 'FilipeFlix',
+    url: 'https://filipeflix.vercel.app/',
+    tags: [
+      'Clean Code',
+      'TDD',
+      'SOLID',
+      'Back End',
+      'Data Science e Inteligência Artificial',
+    ],
+  },
 ];
