@@ -1526,4 +1526,13 @@ export default [
       'desenvolvimento',
     ],
   },
+  {
+    nome: 'Lais Frigério',
+    foto: 'https://avatars0.githubusercontent.com/u/20709086?s=460&u=a2bbd98064a6a27ba01c6bfbd8d5e8378382ee3c&v=4',
+    nomeDoProjeto: 'Sportflix',
+    url: 'https://sportflix.vercel.app/',
+    tags: [
+      'esportes'
+    ],
+  },
 ];
