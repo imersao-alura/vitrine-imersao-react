@@ -1089,4 +1089,20 @@ export default [
       'Games',
     ],
   },
+    {
+    nome: 'Edson Maia',
+    foto: 'https://avatars0.githubusercontent.com/u/25182209?s=460&u=953bf2004f22bbab4fba13c4e20e17912bd88b6b&v=4',
+    nomeDoProjeto: 'maiaflix',
+    url: 'https://maiaflix.vercel.app/',
+    tags: [
+      'Geografia',
+      'Astronomia',
+      'Climatologia',
+      'Meteorologia',
+      'Vegetação',
+      'Educação',
+      'Educacional',
+      'Vídeo aulas',
+    ],
+  },
 ];
