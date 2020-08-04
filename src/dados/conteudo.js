@@ -1288,7 +1288,8 @@ export default [
     url: 'https://teloflix.vercel.app/',
     tags: [
       'trending',
-      'data science e inteligência artificial',
+      'data science',
+      'inteligência artificial',
       'merchandising',
       'músicas',
    ],
