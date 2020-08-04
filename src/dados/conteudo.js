@@ -1320,7 +1320,7 @@ export default [
     redeSocial: 'https://www.linkedin.com/in/gon%C3%A7alofontenele/',
     foto: 'https://avatars1.githubusercontent.com/u/54777894?s=460&u=593935bf87ddc04cfd871a2402daeb9c1104a190&v=4',
     nomeDoProjeto: 'ZEUSFLIX',
-    url: 'zeusflix.vercel.app',
+    url: 'https://zeusflix.vercel.app',
     tags: [
       'engenharia',
       'elétrica',
