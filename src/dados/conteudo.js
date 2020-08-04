@@ -1292,4 +1292,14 @@ export default [
       'videos',
     ],
   },
+  {
+    nome: 'Davi Lucas',
+    foto: 'https://avatars3.githubusercontent.com/u/66884233?s=460&u=326b08a6b03aa8baae6b23fa0bfaea1063593c78&v=4',
+    nomeDoProjeto: 'MineFlix',
+    url: 'https://mine-fix.vercel.app/',
+    tags: [
+      'jogos',
+      'minecraft',
+    ],
+  },
 ];
