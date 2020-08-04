@@ -1245,4 +1245,17 @@ export default [
       'bola de gude',
     ],
   },
+  {
+    nome: 'João Gabriel',
+    foto: 'https://avatars3.githubusercontent.com/u/63380935?s=460&u=3ff3a39f57e6550cc5079610afeca100b20ee12b&v=4',
+    nomeDoProjeto: 'PythonFlix',
+    url: 'https://pythonflix.vercel.app/',
+    tags: [
+      'python',
+      'back end',
+      'inteligência artificial',
+      'data science',
+      'selenium',
+    ],
+  },
 ];
