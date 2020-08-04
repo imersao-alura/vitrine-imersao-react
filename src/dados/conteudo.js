@@ -1526,4 +1526,17 @@ export default [
       'desenvolvimento',
     ],
   },
+    {  
+    nome: 'Clarisse de Almeida e Alvarenga',
+    foto: 'https://images-na.ssl-images-amazon.com/images/I/41R20BtJFCL._SY400_.jpg',
+    nomeDoProjeto: 'nerdflix',
+    url: 'https://nerdflix-opal.vercel.app/',
+    tags: [
+      'nerd',
+      'tecnologia',
+      'história',
+      'educação',
+      'reddit',
+    ],
+  }
 ];
