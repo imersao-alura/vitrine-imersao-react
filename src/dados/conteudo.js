@@ -1202,4 +1202,18 @@ export default [
       'Desenvolvimento',
     ],
   },
+  {
+    nome: 'Lucas Ribeiro',
+    foto: 'https://avatars2.githubusercontent.com/u/16158197?s=460&u=2458ce95ab260c9232b28953cb83b64679318a82&v=4',
+    nomeDoProjeto: 'LucasFlix',
+    url: 'https://lucasflix.vercel.app/',
+    tags: [
+      'standup',
+      'business intelligence',
+      'programação',
+      'data science',
+      'séries',
+      'música',
+    ],
+  },
 ];
