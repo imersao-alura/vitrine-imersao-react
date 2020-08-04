@@ -1245,4 +1245,18 @@ export default [
       'bola de gude',
     ],
   },
+    {
+    nome: 'Viviane Viana',
+    redeSocial: 'https://www.linkedin.com/in/vivianevianaa/',
+    foto:
+      'https://media-exp1.licdn.com/dms/image/C4D03AQHJNep3d3Blzw/profile-displayphoto-shrink_200_200/0?e=1602115200&v=beta&t=bm3YYJyvrFQo-53AmQDIfhqkinRjuWlKTc1tjX1UAig',
+    nomeDoProjeto: 'Aprovaflix',
+    url: 'https://aprovaflix.vercel.app/',
+    tags: [
+      'ENEM',
+      'Estudo',
+      'Matérias',
+      'Ensino médio',
+    ],
+  },
 ];
