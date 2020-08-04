@@ -1442,4 +1442,15 @@ export default [
       'animes',
     ],
   },
+  {
+    nome: 'Marcos Paulo de Souza Wergles',
+    foto: 'https://avatars2.githubusercontent.com/u/49041179?s=460&u=b769f1f3c79698be942e4c2d3b90284df2337f07&v=4',
+    nomeDoProjeto: '4 Flix',
+    url: 'https://4flix.vercel.app/',
+    tags: [
+      'videos',
+      'standup',
+      'comédia',
+    ],
+  },
 ];
