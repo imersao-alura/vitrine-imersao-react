@@ -675,8 +675,7 @@ export default [
       'Cursos',
       'Desenvolvimente web',
       'Programação',
-    ],
+       ],
   },
-    
- ],   
+];   
      
