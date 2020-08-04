@@ -1303,6 +1303,19 @@ export default [
     ],
   },
   {
+    nome: 'Alberto Lucas',
+    foto: 'https://avatars1.githubusercontent.com/u/38790522?s=460&u=438ddea744d8f5c9e5fdfad4ab7867721377bb59&v=4',
+    nomeDoProjeto: 'TelóFlix',
+    url: 'https://teloflix.vercel.app/',
+    tags: [
+      'trending',
+      'data science',
+      'inteligência artificial',
+      'merchandising',
+      'músicas',
+   ],
+  },
+  {
     nome: 'Gabriel Rios',
     foto: 'https://avatars2.githubusercontent.com/u/60109015?s=460&u=941726645c23518f8cbcb9fca84ea7becc0508c5&v=4',
     nomeDoProjeto: 'Enlgishflix',
