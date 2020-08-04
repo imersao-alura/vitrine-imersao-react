@@ -1340,4 +1340,15 @@ export default [
       'Vídeo',
     ],
   },
+  {
+    nome: 'Welisson Silveira',
+    foto: 'https://avatars2.githubusercontent.com/u/65079043?s=460&u=8b201ceaf678d73c6b52af632dc76f4bb6957a59&v=4',
+    nomeDoProjeto: 'YouFlix',
+    url: 'https://well-flix.vercel.app/',
+    tags: [
+      'front end',
+      'filmes',
+      'música',
+    ],
+  },
 ];
