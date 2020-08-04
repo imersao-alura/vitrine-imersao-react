@@ -677,4 +677,4 @@ export default [
       'Programação',
     ],
   },
-  {    
+     
