@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+
+:root {
+  --primary: #495F8C;
+  --black: #000000;
+  --blueLighter: #A0EAF2;
+  --grayLight: #F5F5F5;
+  --grayMedium: #e5e5e5; 
+  --grayDark: #141414;
+  --white: #FFFFFF;
+  --frontEnd: #79D0F2;
+  --backEnd: #403E8C;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  background: var(--black);
+  min-height: 100vh;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: inherit;
+} 
+
+
+/* Auxiliares
+------------------------------------------------------ */
+.text-center{text-align: center;}
+.text-left{text-align: left;}
+.text-right{text-align: right;}

@@ -1,0 +1,228 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Battlefield 4",
+      "descricao": "Aqui é só gameplay de Battlefield 4",
+      "cor": "#EF5B23"
+    },
+    {
+      "id": 2,
+      "titulo": "Battlefield 3",
+      "descricao": "Aqui é só gameplay de Battlefield 3",
+      "cor": "#403E8C"
+    },
+    {
+      "id": 3,
+      "titulo": "Battlefield Bad Company 2",
+      "descricao": "Aqui é só gameplay de Battlefield Bad Company 2",
+      "cor": "#7C9DBF"
+    },
+    {
+      "id": 4,
+      "titulo": "Battlefield Campanhas",
+      "descricao": "Aqui é só gameplay de campanhas do Battlefield",
+      "cor": "#FCF13F"
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "Battlefield 4",
+      "url": "https://www.youtube.com/watch?v=a1MvYr0Q1cU"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "GUN MASTER",
+      "url": "https://www.youtube.com/watch?v=FpKLHEHUbE4&list=PLJfrEeBsowZKWAq7cPlswthtD1NhRImj_&index=7"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "Battlefield 4: Ultra 60fps (Que lindeza cara!!!)",
+      "url": "https://www.youtube.com/watch?v=IhqVwRdPq-0"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "A mais nova arma primaria no Battlefield 4",
+      "url": "https://www.youtube.com/watch?v=1hZosrW5XUc"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "Highlights 3º e 4º Classificatória pro Mundial de Battlefield 4",
+      "url": "https://www.youtube.com/watch?v=D7RGS8JWwdw"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "Azidéia: Battlefield 4 no Controle (Dureza)",
+      "url": "https://www.youtube.com/watch?v=mo6IygRNWFQ&list=PLJfrEeBsowZLGf2IG3LuBiVwxDEgHRnoM"
+    },
+    {
+      "id": 7,
+      "categoriaId": 1,
+      "titulo": "BATTLEFIELD 4 - O INÍCIO DA CAMPANHA!",
+      "url": "https://www.youtube.com/watch?v=s8UZFUYqaas"
+    },
+    {
+      "id": 8,
+      "categoriaId": 1,
+      "titulo": "Battlefield 4 in 2020 is getting MORE PLAYERS again!",
+      "url": "https://www.youtube.com/watch?v=NumxuGHU_w4"
+    },
+    {
+      "id": 9,
+      "categoriaId": 1,
+      "titulo": "Mira nos Doritos",
+      "url": "https://www.youtube.com/watch?v=jwq6kzaNA30&list=PLJfrEeBsowZKWAq7cPlswthtD1NhRImj_"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "Desafio ziGueira 0/50",
+      "url": "https://www.youtube.com/watch?v=kgqt8ncD7nM"
+    },
+    {
+      "id": 11,
+      "categoriaId": 2,
+      "titulo": "Nostalgia no Canal ziGueira BF3",
+      "url": "https://www.youtube.com/watch?v=TFDg1f1UxKY"
+    },
+    {
+      "id": 12,
+      "categoriaId": 2,
+      "titulo": "Esse MAPA é LENDÁRIO",
+      "url": "https://www.youtube.com/watch?v=ctXiClOH2so"
+    },
+    {
+      "id": 13,
+      "categoriaId": 2,
+      "titulo": "Como ser ODIADO! 83 (Que jogo!)",
+      "url": "https://www.youtube.com/watch?v=mkQJEeaeDk4"
+    },
+    {
+      "id": 14,
+      "categoriaId": 2,
+      "titulo": "Sniper em Firestorm!",
+      "url": "https://www.youtube.com/watch?v=TBgFkzM6NoQ"
+    },
+    {
+      "id": 15,
+      "categoriaId": 2,
+      "titulo": "O assassino invisível 49",
+      "url": "https://www.youtube.com/watch?v=6fThvOOA8ec"
+    },
+    {
+      "id": 16,
+      "categoriaId": 2,
+      "titulo": "Battleroça Especial de Natal 2016",
+      "url": "https://www.youtube.com/watch?v=bcJd3ENHNso&list=PLJfrEeBsowZLtoH4-QrReKFCL2OKP1HRf&index=13"
+    },
+    {
+      "id": 17,
+      "categoriaId": 2,
+      "titulo": "Battleroça: Se beber não jogue",
+      "url": "https://www.youtube.com/watch?v=O1pzYskmkKE&list=PLJfrEeBsowZLtoH4-QrReKFCL2OKP1HRf"
+    },
+    {
+      "id": 18,
+      "categoriaId": 3,
+      "titulo": "Bad Company 2 - M24, sniper de respeito!",
+      "url": "https://www.youtube.com/watch?v=bEccneOlyWQ"
+    },
+    {
+      "id": 19,
+      "categoriaId": 3,
+      "titulo": "Um dos MAIS revolucionários da franquia! (Bad company 2)",
+      "url": "https://www.youtube.com/watch?v=OC1fFoWU3Xw"
+    },
+    {
+      "id": 20,
+      "categoriaId": 3,
+      "titulo": "BaD 50 Cent Company 2",
+      "url": "https://www.youtube.com/watch?v=DTUOp5H5K_A"
+    },
+    {
+      "id": 21,
+      "categoriaId": 3,
+      "titulo": "Bad Company 2 - Comentários sobre o Gameplay",
+      "url": "https://www.youtube.com/watch?v=kYAVHZQf7qA"
+    },
+    {
+      "id": 22,
+      "categoriaId": 3,
+      "titulo": "Battlefield Bad Company 2 - Aprendendo a Jogar com LeHeroh",
+      "url": "https://www.youtube.com/watch?v=4FvLBzzArMk"
+    },
+    {
+      "id": 23,
+      "categoriaId": 3,
+      "titulo": "Mira nos Doritos",
+      "url": "https://www.youtube.com/watch?v=jwq6kzaNA30&t=2s"
+    },
+    {
+      "id": 24,
+      "categoriaId": 3,
+      "titulo": "Battlefield Bad Company 2 | Multiplayer Gameplay",
+      "url": "https://www.youtube.com/watch?v=rGb2AlynDwg"
+    },
+    {
+      "id": 25,
+      "categoriaId": 3,
+      "titulo": "Battlefield: Bad Company 2 - 2020 Multiplayer - Valparaiso",
+      "url": "https://www.youtube.com/watch?v=XIXMOiDEJbc"
+    },
+    {
+      "id": 26,
+      "categoriaId": 4,
+      "titulo": "Battlefield 4 - Parte 1: Crise na Ásia!",
+      "url": "https://www.youtube.com/watch?v=OxZ6zC_bX3U"
+    },
+    {
+      "id": 27,
+      "categoriaId": 4,
+      "titulo": "Battlefield 4 - Parte 2: Prisão no Monte Kulun!",
+      "url": "https://www.youtube.com/watch?v=ekR7y0oVYLo"
+    },
+    {
+      "id": 28,
+      "categoriaId": 4,
+      "titulo": "Battlefield 4 - FINAL ÉPICO!",
+      "url": "https://www.youtube.com/watch?v=gyi_7MfOUhY"
+    },
+    {
+      "id": 29,
+      "categoriaId": 4,
+      "titulo": "Battlefield 3 - Missão 5 - Operation Guillotine",
+      "url": "https://www.youtube.com/watch?v=N7l78aPA1n4&list=PLsAQvBsp_bGSrrwClGFNCHV_nAiI_Vhqh&index=5"
+    },
+    {
+      "id": 30,
+      "categoriaId": 4,
+      "titulo": "Battlefield 3 - Missão 9 - Night Shift",
+      "url": "https://www.youtube.com/watch?v=-oK13cKIlJ0&list=PLsAQvBsp_bGSrrwClGFNCHV_nAiI_Vhqh&index=9"
+    },
+    {
+      "id": 31,
+      "categoriaId": 4,
+      "titulo": "Battlefield 3 - Missão 11 - Kaffarov",
+      "url": "https://www.youtube.com/watch?v=r3eWystWomo&list=PLsAQvBsp_bGSrrwClGFNCHV_nAiI_Vhqh&index=11"
+    },
+    {
+      "id": 32,
+      "categoriaId": 4,
+      "titulo": "Battlefield: Bad Company 2 - Sangre Del Toro",
+      "url": "https://www.youtube.com/watch?v=X6mKHj7dtM8&list=PLCULgUxGxEOTzPb2ObQmjrlMCHV0Lf-8l&index=9"
+    },
+    {
+      "id": 33,
+      "categoriaId": 4,
+      "titulo": "Battlefield: Bad Company 2 - Ninguém Fica para Trás",
+      "url": "https://www.youtube.com/watch?v=Mg8TzNG2Tbo&list=PLCULgUxGxEOTzPb2ObQmjrlMCHV0Lf-8l&index=10"
+    }
+  ]
+}
