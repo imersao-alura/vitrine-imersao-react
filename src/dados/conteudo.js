@@ -1089,4 +1089,16 @@ export default [
       'Games',
     ],
   },
+  {
+    nome: 'Felipe Ferreira',
+    foto: 'https://media-exp1.licdn.com/dms/image/C4D03AQFgUzPmNqLbow/profile-displayphoto-shrink_200_200/0?e=1602115200&v=beta&t=STerB6q6f03g8WKjouGqvIV4ekiYmBa12uAe4hzQdb8',
+    nomeDoProjeto: 'Comedyflix',
+    url: 'https://comedyflix-virid.vercel.app/',
+    tags: [
+      'Vídeos',
+      'Humor',
+      'Quarentena',
+      'Stand Up'
+    ],
+  },
 ];
