@@ -1372,5 +1372,20 @@ export default [
       'metal',
       'japão',
     ],
-  },  
+  },
+  {
+    nome: 'Gabriel Moura',
+    foto: 'https://avatars0.githubusercontent.com/u/51333439?s=460&v=4',
+    nomeDoProjeto: 'LearningFlix',
+    url: 'https://learningflix-react.vercel.app/',
+    tags: [
+      'idioma',
+      'educação',
+      'inglês',
+      'espanhol',
+      'francês',
+      'italiano',
+      'alemão',
+    ],
+  },
 ];
