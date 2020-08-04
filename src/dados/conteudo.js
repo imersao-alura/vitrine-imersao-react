@@ -1502,4 +1502,15 @@ export default [
       'documentários',
     ],
   },
+  {
+    nome: 'Alberto Carvalho Sardinha',
+    foto: 'https://avatars2.githubusercontent.com/u/38788696?s=460&u=b2b92f010a13732e1b57769de49165f70cd09390&v=4',
+    nomeDoProjeto: 'Aluraflix',
+    url: 'https://aluraflix.betosardinha.vercel.app/',
+    tags: [
+      'desenvolvimento',
+      'programação',
+      'tecnologia',
+    ],
+  },
 ];
