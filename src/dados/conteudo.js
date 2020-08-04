@@ -20,24 +20,26 @@ export default [
     tags: [
       'front end',
       'filmes',
-      'música',
+      'música'
     ],
   },
   {
     nome: 'Juliana Negreiros',
     redeSocial: 'https://twitter.com/juunegreiros',
-    foto: 'https://avatars0.githubusercontent.com/u/17054729?s=460&u=7f84a845859479f59c18063284260644928f094c&v=4',
+    foto:
+      'https://avatars0.githubusercontent.com/u/17054729?s=460&u=7f84a845859479f59c18063284260644928f094c&v=4',
     nomeDoProjeto: 'Juflix',
     url: 'https://www.alura.com.br/imersao-react',
     tags: [
       'front end',
       'filmes',
-      'música',
+      'música'
     ],
   },
   {
     nome: 'Mario Souto',
-    foto: 'https://avatars1.githubusercontent.com/u/13791385?s=460&u=6f629f0aa7530d62552d7b746fc106531588f638&v=4',
+    foto:
+      'https://avatars1.githubusercontent.com/u/13791385?s=460&u=6f629f0aa7530d62552d7b746fc106531588f638&v=4',
     nomeDoProjeto: 'DevSoutinhoFlix',
     url: 'https://devsoutinhoflix.com.br/',
     tags: [
@@ -824,7 +826,18 @@ export default [
     tags: [
       'front end',
       'filmes',
-      'música',
+      'música'
+    ],
+  },
+  {
+    nome: 'Emerson Moreira',
+    foto: 'https://avatars2.githubusercontent.com/u/42968718?s=460&v=4',
+    nomeDoProjeto: 'EmerFlix',
+    url: 'https://emerflix.vercel.app/',
+    tags: [
+      'front end',
+      'Back end',
+      'Games'
     ],
   },
   {
