@@ -801,6 +801,15 @@ export default [
     ],
   },
   {
+    nome: 'Christian Testtzlaffe',
+    foto: 'https://avatars3.githubusercontent.com/u/50345995?s=460&u=44aa87e4ff3d423b7bb0566ef035f0d48bac6b00&v=4',
+    nomeDoProjeto: 'Netfenix',
+    url: 'https://netfenix.vercel.app/',
+    tags: [
+      'anime',
+    ]
+  },
+  {
     nome: 'Allex Valério Costa',
     foto: 'https://avatars3.githubusercontent.com/u/13477681?s=460&u=3eba23bc6f14f25d43c82f76c9ffff0254063c39&v=4',
     nomeDoProjeto: 'Lekaoflix',
