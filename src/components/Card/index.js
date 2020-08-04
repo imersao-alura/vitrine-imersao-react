@@ -21,7 +21,7 @@ https://api.screenshotmachine.com?key=${key}&url=${url}&dimension=1024x768
     <CardWrapper thumbnail={thumbnail}>
       <Tags>
         {visibleTags.map((tag) => (
-          <Tag>{tag}</Tag>
+          <Tag key={tag}>{tag}</Tag>
         ))}
         {
           tags.length > 3
