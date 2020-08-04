@@ -1116,4 +1116,16 @@ export default [
       'magia'
     ],
   },
+  {
+    nome: 'Marcelo Augusto',
+    foto: 'https://avatars3.githubusercontent.com/u/11545976?s=460&u=ea0982bb2014a19d43b231dae1f86b6f9d4a331d&v=4',
+    nomeDoProjeto: 'mcuflix',
+    url: 'https://mcuflix.vercel.app/',
+    tags: [
+      'Filmes',
+      'Herois',
+      'Marvel',
+      'Universo'
+    ]
+  },
 ];
