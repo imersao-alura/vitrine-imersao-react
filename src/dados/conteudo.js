@@ -1065,7 +1065,7 @@ export default [
       'Destiny',
     ],
   },
-    {
+  {
     nome: 'Thalita Mayra',
     foto: 'https://avatars1.githubusercontent.com/u/45610020?s=460&u=dcd943c455d01bf39aaeed83619f8142d2510064&v=4',
     nomeDoProjeto: 'BitaFlix',
@@ -1087,6 +1087,21 @@ export default [
       'Ficção científica',
       'Terror',
       'Games',
+    ],
+  },
+  {
+    nome: 'Jussara Soares',
+    foto: 'https://avatars0.githubusercontent.com/u/53361061?s=460&u=af97e88bc7f2aa68781bbea396b9480e6eab7c38&v=4',
+    nomeDoProjeto: 'CookBook',
+    url: 'https://cook-book-videos.vercel.app/',
+    tags: [
+      'Vegana',
+      'Receitas',
+      'Comida',
+      'Vegetariana',
+      'Dicas',
+      'Culinária',
+      'Quarentena',
     ],
   },
 ];
