@@ -1351,4 +1351,15 @@ export default [
       'música',
     ],
   },
+  {
+    nome: 'Diego Souza',
+    foto: 'https://avatars3.githubusercontent.com/u/6974831?s=460&u=1a4fe9ab2da3948723361308911fd55a36b757d2&v=4',
+    nomeDoProjeto: 'Bubbleflix',
+    url: 'https://bubbleflix.vercel.app/',
+    tags: [
+      'esporte',
+      'musculação',
+      'animes',
+    ],
+  },
 ];
