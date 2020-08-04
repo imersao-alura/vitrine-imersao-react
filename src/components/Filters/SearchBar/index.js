@@ -1,7 +1,7 @@
 import React from 'react';
 import propTypes from 'prop-types';
 
-import { Form, Input, Button } from './style';
+import { Form, Input } from './style';
 import SearchIcon from '../../../assets/images/search-icon.svg';
 
 const SearchBar = ({ updateSearchTerm }) => {
