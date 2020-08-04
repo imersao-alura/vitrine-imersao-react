@@ -1102,4 +1102,18 @@ export default [
       'Ciência',
     ],
   },
+    {
+    nome: 'Mandrake Profeta',
+    foto: 'https://avatars2.githubusercontent.com/u/49409357?s=460&u=c9884c9b16df0af2e8e3d03ac00a881afb8ef45c&v=4',
+    nomeDoProjeto: 'MdkLab',
+    url: 'https://mdklab.vercel.app/',
+    tags: [
+      'tecnologia',
+      'variedades',
+      'desenvolvimento',
+      'DIY',
+      'sobrevivência',
+      'magia'
+    ],
+  },
 ];
