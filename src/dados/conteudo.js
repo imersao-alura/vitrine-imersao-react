@@ -1258,4 +1258,26 @@ export default [
       'selenium',
     ],
   },
+  {
+    nome: 'Afonso Amaro',
+    redeSocial: 'https://twitter.com/AfonsoAmaroDev',
+    foto:
+      'hhttps://avatars3.githubusercontent.com/u/8459716?s=460&u=a6871d8a4f2e744655ba84c28f56758d7b408bee&v=4',
+    nomeDoProjeto: 'Nerdflix',
+    url: 'https://nerdflix.doominating.vercel.app/',
+    tags: [
+      'Jovem Nerd',
+      'Nerd',
+      'Geek',
+      'Games',
+      'Filmes',
+      'Séries',
+      'Animes',
+      'Mangás',
+      'HQs',
+      'Livros',
+      'Ciência',
+      'Tecnologia'
+    ],
+  },
 ];
