@@ -35,7 +35,7 @@ const Home = () => {
         )
       );
     });
-    const valueToUpdate = selectedTags.length > 0 ? filteredProjects : projetos;
+    const valueToUpdate = selectedTags.length > 0 || searchTerm ? filteredProjects : projetos;
     setProjetosFiltrados(valueToUpdate);
   };
 
@@ -59,7 +59,7 @@ const Home = () => {
         }
       });
     });
-    setUniqueTags(orderTags);
+    setUniqueTags(orderTags.sort());
   }, []);
 
   useEffect(() => {
