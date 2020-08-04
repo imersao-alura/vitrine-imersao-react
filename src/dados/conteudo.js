@@ -1281,4 +1281,18 @@ export default [
       'Terror',
     ],
   },
+  
+  {
+    nome: 'Alberto Lucas',
+    foto: 'https://avatars1.githubusercontent.com/u/38790522?s=460&u=438ddea744d8f5c9e5fdfad4ab7867721377bb59&v=4',
+    nomeDoProjeto: 'TelóFlix',
+    url: 'https://teloflix.vercel.app/',
+    tags: [
+      'trending',
+      'data science e inteligência artificial',
+      'merchandising',
+      'músicas',
+   ],
+  },
+  
 ];
