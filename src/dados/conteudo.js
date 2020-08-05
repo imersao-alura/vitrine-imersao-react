@@ -730,16 +730,14 @@ export default [
     ],
   },
   {
-    nome: 'Heverton Reis',
-    foto: 'https://avatars1.githubusercontent.com/u/66853052?s=400&v=4',
-    nomeDoProjeto: 'HSRMax',
-    url: 'https://hsrmax.vercel.app/',
+    nome: 'João Victor Soares',
+    redeSocial: 'https://instagram.com/joao.victor.ssv',
+    foto: 'https://avatars0.githubusercontent.com/u/63375574?s=460&u=8ac3cf30639b5a02182741ae5b59a2aad8a1de3f&v=4',
+    nomeDoProjeto: 'Aniflix',
+    url: 'https://aniflix.vercel.app/',
     tags: [
-      'ciência',
+      'animes',
       'música',
-      'desenhos animados',
-      'filmes',
-      'tecnologia',
     ],
   },
   {
