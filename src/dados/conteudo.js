@@ -1526,4 +1526,14 @@ export default [
       'desenvolvimento',
     ],
   },
+  {
+    nome: 'Davi Ribeiro',
+    foto: 'https://avatars2.githubusercontent.com/u/22081873?s=460&u=bfdb7befd9ec36d7f20af7a82f883e063e324be4&v=4',
+    nomeDoProjeto: 'Futeflix',
+    url: 'https://futeflix.vercel.app/',
+    tags: [
+      'futebol',
+      'esportes',
+    ],
+  },
 ];
