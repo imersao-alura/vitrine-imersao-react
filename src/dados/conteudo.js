@@ -1526,4 +1526,15 @@ export default [
       'desenvolvimento',
     ],
   },
+  {  
+    nome: 'Jennyffer de Morais',
+    foto: 'https://avatars2.githubusercontent.com/u/55637611?s=460&u=bd362fbf952d2470855ed12f52533fbb83b74601&v=4',
+    nomeDoProjeto: 'blackflix',
+    url: 'https://blackflix.vercel.app/',
+    tags: [
+      'front end',
+      'tecnologia',
+      'videos',      
+    ],
+  }
 ];
