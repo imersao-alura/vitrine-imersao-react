@@ -36,12 +36,15 @@ export default [
   {
     nome: 'Mario Requejo',
     foto: 'https://avatars0.githubusercontent.com/u/24419690?s=460&u=b5a8a9274bcad8290bac739322097dbbea1f2d73&v=4',
-    nomeDoProjeto: 'MarioFlix',
-    url: 'https://www.netflix.com/',
+    nomeDoProjeto: 'InternautaFlix',
+    url: 'https://internautaflix.vercel.app',
     tags: [
-      'full stack',
-      'filmes',
-      'games',
+      'Jogos',
+      'Trailers',
+      'Humor',
+      'Culinaria',
+      'Maquiagem',
+      'Gatos'
     ],
   },
 ];
