@@ -1526,4 +1526,15 @@ export default [
       'desenvolvimento',
     ],
   },
+  {  
+    nome: 'Daniele Oliveira',
+    foto: 'https://avatars0.githubusercontent.com/u/62821027?s=460&u=ed66afe086a11bbded4067bcd33421d788c59533&v=4',
+    nomeDoProjeto: 'Sciflix',
+    url: 'https://imers-o-react-ten.vercel.app/',
+    tags: [
+      'educação',
+      'tecnologia',
+      'aprendendo a aprender',
+    ],
+  },
 ];
