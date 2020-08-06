@@ -920,6 +920,21 @@ export default [
     ],
   },
   {
+
+    nome: 'Caroline Heloíse de Oliveira',
+    foto: 'https://avatars1.githubusercontent.com/u/63017741?s=460&u=16f8a9bd4bb07380d10b9e422c286acdafa1752e&v=4',
+    nomeDoProjeto: 'DiverStudy',
+    url: 'https://diver-study.vercel.app/',
+    tags: [
+      'estudos',
+      'ensino médio',
+      'física',
+      'biologia',
+      'matemática',
+      'ciência',
+    ],
+  },
+  {
     nome: 'Nathaly Mesquita',
     foto: 'https://avatars0.githubusercontent.com/u/19518771?s=460&u=d7d3f2a6399376e71e2279bfc6599ce47446deb6&v=4',
     nomeDoProjeto: 'Nathyflix',
