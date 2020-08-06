@@ -1634,4 +1634,16 @@ export default [
       'crossover',
     ],
   },
+  {
+    nome: 'Camila Guimarães',
+    foto: 'https://avatars3.githubusercontent.com/u/38961741?s=460&u=7aee18ab42573b95c52e0bc05bfa1d6048eb45bf&v=4',
+    nomeDoProjeto: 'Miilacg',
+    url: 'https://miilacgflix.vercel.app/',
+    tags: [
+      'comida',
+      'receitas',
+      'sobremesas',
+      'veganismo',
+    ],
+  },
 ];
