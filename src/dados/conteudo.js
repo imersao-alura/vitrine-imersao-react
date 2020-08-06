@@ -1589,4 +1589,16 @@ export default [
       'literatura',
     ],
   },
+  {
+    nome: 'Emanuel Massafera',
+    foto: 'https://avatars1.githubusercontent.com/u/65625500?s=460&u=eb9e300de61698fc8531949a451ce2f0e9da46f9&v=4',
+    nomeDoProjeto: 'Emanuflix',
+    url: 'https://emanuflix.vercel.app/',
+    tags: [
+      'desenvolvimento',
+      'investimentos',
+      'séries',
+      'vídeos',
+    ],
+  },
 ];
