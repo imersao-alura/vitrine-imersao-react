@@ -59,7 +59,7 @@ const Home = () => {
         }
       });
     });
-    setUniqueTags(orderTags);
+    setUniqueTags(orderTags.sort());
   }, []);
 
   useEffect(() => {
