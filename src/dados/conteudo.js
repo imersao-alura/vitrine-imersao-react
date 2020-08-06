@@ -1674,4 +1674,15 @@ export default [
       'Tecnologia',
     ],
   },
+  {
+    nome: 'Kiane L. Casagrande',
+    foto: 'https://avatars0.githubusercontent.com/u/19346397?s=460&u=9401106698bf0c26d29899201d186fb1a2d2fe59&v=4',
+    nomeDoProjeto: 'Kianeflix',
+    url: 'https://kianeflix.vercel.app/',
+    tags: [
+      'Jardinagem',
+      'Decoração',
+      'Culinária',
+    ],
+  },
 ];
