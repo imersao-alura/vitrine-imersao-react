@@ -1526,4 +1526,20 @@ export default [
       'desenvolvimento',
     ],
   },
+   {  
+    nome: 'Aexandre Coelho S dAvila',
+    foto: 'https://avatars1.githubusercontent.com/u/68710816?s=460&u=a7677e50eb113d5cc3b70ac711828dc642522b0c&v=4',
+    nomeDoProjeto: 'zenflix',
+    url: 'https://zenflix.vercel.app/',
+    tags: [
+      'front end',
+      'tecnologia',
+      'aprendendo a aprender',
+      'back end',
+      'desenvolvimento',
+      'programacao',
+      'yoga'
+    ],
+  }
+  https://drive.google.com/file/d/1JI3NC8JWTVhGReezjxQyl-sjZ5tQiAIj/view
 ];
