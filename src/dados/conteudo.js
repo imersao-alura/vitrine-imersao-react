@@ -1601,4 +1601,15 @@ export default [
       'vídeos',
     ],
   },
+  {
+    nome: 'Carlos Castro',
+    foto: 'https://avatars0.githubusercontent.com/u/59832418?s=460&u=f3fc286c2b56a19368f7d605ca3754f14f5d4a4b&v=4',
+    nomeDoProjeto: 'Chopperflix',
+    url: 'https://chopperflix.vercel.app/',
+    tags: [
+      'música',
+      'anime',
+      'amv',
+    ],
+  },
 ];
