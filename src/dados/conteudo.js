@@ -1612,4 +1612,15 @@ export default [
       'vídeos',
     ],
   },
+  {
+    nome: 'Mateus Tymoniuk',
+    foto: 'https://avatars0.githubusercontent.com/u/21376921?s=460&u=8016bdd3caca2057cca0a5858b0fa88df0cc5879&v=4',
+    nomeDoProjeto: 'Meu Youtube Flix',
+    url: 'https://meu-youtube-flix.vercel.app/',
+    tags: [
+      'desenvolvimento',
+      'front end',
+      'vídeos',
+    ],
+  },
 ];
