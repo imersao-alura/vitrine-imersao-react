@@ -1526,4 +1526,16 @@ export default [
       'desenvolvimento',
     ],
   },
+  {
+    nome: 'Leonardo Vitor Dantas Nascimento',
+    foto: 'https://avatars1.githubusercontent.com/u/21160525?s=460&u=25b91b8274b362edff695a70e486d9ea26d8e142&v=4',
+    nomeDoProjeto: 'NotFlix',
+    url: 'https://notflix-alpha.vercel.app/',
+    tags: [
+      'animes',
+      'mangás',
+      'games',
+      'rock',
+    ],
+  },
 ];
