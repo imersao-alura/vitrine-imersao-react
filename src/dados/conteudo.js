@@ -1540,6 +1540,6 @@ export default [
       'programacao',
       'yoga'
     ],
-  }
-  https://drive.google.com/file/d/1JI3NC8JWTVhGReezjxQyl-sjZ5tQiAIj/view
+  },
+  
 ];
