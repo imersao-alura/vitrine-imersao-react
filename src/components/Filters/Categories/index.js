@@ -41,17 +41,21 @@ const Categories = ({ tags, selectedTags, updateSelectedTags }) => {
       <>
         <DropdownContent.Item />
         <DropdownContent>
-          {tags.map((tag) => (
-            <CategoriesItem>
-              <RadioButton
-                value={tag}
-                type="checkbox"
-                id={tag}
-                onChange={handleChange}
-              />
-              <Category for={tag}>{tag}</Category>
-            </CategoriesItem>
-          ))}
+          {tags.map((tag) => {
+            const isChecked = selectedTags.includes(tag);
+
+            return (
+              <CategoriesItem>
+                <RadioButton
+                  value={tag}
+                  type="checkbox"
+                  id={tag}
+                  onChange={handleChange}
+                />
+                <Category for={tag} isChecked={isChecked}>{tag}</Category>
+              </CategoriesItem>
+            );
+          })}
         </DropdownContent>
       </>
       )
