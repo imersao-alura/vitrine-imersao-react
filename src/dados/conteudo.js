@@ -1674,4 +1674,17 @@ export default [
       'Tecnologia',
     ],
   },
+   {
+    nome: 'Marcello Fadul',
+    foto: 'https://photos.app.goo.gl/VB1fkLoUj2Nm7uyX9',
+    nomeDoProjeto: 'SeuPimentaFlix',
+    url: 'https://fadulflix.mrfadul.com/',
+    tags: [
+      'React',
+      'Culinária',
+      'Paródia',
+      'Stand Up',
+      'João Pimenta',
+    ],
+  },
 ];
