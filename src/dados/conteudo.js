@@ -408,6 +408,17 @@ export default [
       'séries',
     ],
   },
+     {
+    nome: 'Diego Sano',
+    foto: 'https://avatars0.githubusercontent.com/u/45228799?s=460&u=91befca9af818cc80a23cb6e8ddcbfbd22d87bfe&v=4',
+    nomeDoProjeto: 'E-SportsFlix',
+    url: 'https://e-sportsflix.vercel.app/',
+    tags: [
+      'jogos',
+      'league of legends',
+      'vídeo clipes',
+    ],
+  },
   {
     nome: 'Matheus Reis',
     foto: 'https://avatars3.githubusercontent.com/u/23380987?s=460&u=2afc67c46c005fd886ff5e4f76dbc8323350b9f2&v=4',
