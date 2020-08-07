@@ -1674,4 +1674,17 @@ export default [
       'Tecnologia',
     ],
   },
+  {
+    nome: 'SidiBecker',
+    foto: 'https://avatars1.githubusercontent.com/u/40251890?s=460&u=5152496e25b5ef77dc415c32bd8ee266112c5fff&v=4',
+    nomeDoProjeto: 'Coverflix',
+    url: 'https://coverflix.vercel.app/',
+    tags: [
+      'Música',
+      'instrumentos musicais',
+      'vídeos',
+      'vídeo clipes',
+      'Cover'
+    ],
+  }
 ];
