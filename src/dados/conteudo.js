@@ -1674,4 +1674,18 @@ export default [
       'Tecnologia',
     ],
   },
+  {
+    nome: 'Gustavo Matheus',
+    foto: 'https://avatars1.githubusercontent.com/u/47375774?s=460&u=82e2c9e4dee8dd34c3b6c21581e54c574c4aedfe&v=4',
+    nomeDoProjeto: 'HyperFlix',
+    url: 'https://hyperflix.vercel.app/',
+    tags: [
+      'Filmes',
+      'Games',
+      'Programação',
+      'Música',
+      'Tecnologia',
+      'Dev'
+    ],
+  }
 ];
