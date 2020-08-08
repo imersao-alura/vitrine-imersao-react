@@ -1674,4 +1674,32 @@ export default [
       'Tecnologia',
     ],
   },
+    {
+    nome: 'Alisson Michel Sganzerla',
+    foto: 'https://avatars2.githubusercontent.com/u/22710963?s=460&u=42b751c09ca56077b68c360a942c42bc5d2ebcb0&v=4',
+    nomeDoProjeto: 'NintendoFlix',
+    url: 'https://nintendoflix.vercel.app',
+    tags: [
+      'Games',
+      'Consoles',
+      'Jogos',
+      'Animes',
+      'Nintendo',
+      'Mario'
+    ],
+  },
+     {
+    nome: 'Alisson Michel Sganzerla',
+    foto: 'https://avatars2.githubusercontent.com/u/22710963?s=460&u=42b751c09ca56077b68c360a942c42bc5d2ebcb0&v=4',
+    nomeDoProjeto: 'NetchêFlix',
+    url: 'https://netcheflix.vercel.app',
+    tags: [
+      'Humor',
+      'Guri de Uruguaiana',
+      'Cultura',
+      'Cómedia',
+      'Jair Kobe'
+    ],
+  }, 
+  
 ];
