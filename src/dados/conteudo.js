@@ -1697,7 +1697,7 @@ export default [
       'Humor',
       'Guri de Uruguaiana',
       'Cultura',
-      'Cómedia',
+      'Comédia',
       'Jair Kobe'
     ],
   }, 
