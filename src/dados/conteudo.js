@@ -1862,4 +1862,18 @@ export default [
       'filmes',
     ],
   },
+  {
+    nome: 'Davi Ramos de Sousa',
+    foto: 'https://avatars2.githubusercontent.com/u/45334263?s=460&u=d0a63eb1929d0656a7036668fa3f9dec44a1d990&v=4',
+    nomeDoProjeto: 'Reactflix',
+    url: 'reactflix-git-master.daviramosds.vercel.app',
+    tags: [
+      'Filmes',
+      'Games',
+      'Front End',
+      'Back End',
+      'Data Science',
+      'Inteligencia Artificial'
+    ],
+  },
 ];
