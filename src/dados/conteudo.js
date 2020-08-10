@@ -1775,5 +1775,6 @@ export default [
       'sobremesa',
       'almoço',
       'janta',
+    ]
   },
 ];
