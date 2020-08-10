@@ -435,6 +435,17 @@ export default [
     ],
   },
   {
+    nome: 'Carolyne Lira',
+    foto: 'https://avatars3.githubusercontent.com/u/49501070?s=460&u=a7c7d307c3b5606d29e1f33b0c9dacf076762894&v=4',
+    nomeDoProjeto: 'Cuteflix',
+    url: 'https://cuteflix.carollira.vercel.app/',
+    tags: [
+      'animação',
+      'animais',
+      'desenho'
+    ],
+  },
+  {
     nome: 'Caique Giovannini',
     foto: 'https://avatars0.githubusercontent.com/u/49538313?s=460&u=3d05e4d58bcae17d11a2354e95f432668b289e0f&v=4',
     nomeDoProjeto: 'Rockyflix',
@@ -1125,7 +1136,7 @@ export default [
       'Destiny',
     ],
   },
-    {
+  {
     nome: 'Thalita Mayra',
     foto: 'https://avatars1.githubusercontent.com/u/45610020?s=460&u=dcd943c455d01bf39aaeed83619f8142d2510064&v=4',
     nomeDoProjeto: 'BitaFlix',
@@ -1147,6 +1158,17 @@ export default [
       'Ficção científica',
       'Terror',
       'Games',
+    ]
+  },
+  {
+    nome: 'Carolyne Lira',
+    foto: 'https://avatars3.githubusercontent.com/u/49501070?s=460&u=a7c7d307c3b5606d29e1f33b0c9dacf076762894&v=4',
+    nomeDoProjeto: 'Cuteflix',
+    url: 'https://cuteflix.carollira.vercel.app/',
+    tags: [
+      'animação',
+      'animais',
+      'desenho'
     ],
   },
   {
