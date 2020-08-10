@@ -2002,4 +2002,18 @@ export default [
       'Chocolate',
     ],
   },
+  {
+    nome: 'Abner Willys',
+    foto: 'https://avatars0.githubusercontent.com/u/59853942?s=460&u=000274e39c7029e3c065fd9a6913c850907d4691&v=4',
+    nomeDoProjeto: 'Astolflix',
+    url: 'https://astolflix.vercel.app/',
+    tags: [
+      'Filmes',
+      'Programação',
+      'Livros',
+      'Games',
+      'Séries',
+      'Músicas',
+    ],
+  },
 ];
