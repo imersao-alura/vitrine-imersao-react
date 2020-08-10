@@ -1674,4 +1674,15 @@ export default [
       'Tecnologia',
     ],
   },
+  {
+    nome: 'Rafaela Oliveira',
+    foto: 'https://avatars1.githubusercontent.com/u/54906981?s=460&u=d1f00945d8cf39f90e79f89a4bf17868b14cdc1f&v=4',
+    nomeDoProjeto: 'Warflix',
+    url: 'https://warflix.vercel.app/',
+    tags: [
+      'jogos',
+      'MMORPG',
+      'World of Warcraft',
+     ]
+  },
 ];
