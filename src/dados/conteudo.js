@@ -61,7 +61,7 @@ export default [
       'games',
       'filmes',
     ],
-  },
+  }, 
   {
     nome: 'Lucas Gomes',
     foto: 'https://avatars1.githubusercontent.com/u/66390420?s=460&u=51a160473ef1856496e6c925178153c0cbe66fd4&v=4',
@@ -1845,6 +1845,21 @@ export default [
       'musica',
       'rock',
       'documentario',
+    ],
+  },
+ {
+    nome: 'Débora Moura dos Santos',
+    foto: 'https://avatars1.githubusercontent.com/u/43018061',
+    nomeDoProjeto: 'DebFlix',
+    url: 'https://dmsdebflix.vercel.app/',
+    tags: [
+      'animais',
+      'nerd',
+      'games',
+      'tecnologia',
+      'programação',
+      'séries',
+      'filmes',
     ],
   },
 ];
