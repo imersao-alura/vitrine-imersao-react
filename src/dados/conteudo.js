@@ -2091,4 +2091,14 @@ export default [
       'SKINS'
     ],
   },
+  {
+    nome: 'Amanda Gundes',
+    foto: 'https://avatars2.githubusercontent.com/u/55407153?s=460&u=019141b7eac59d72362f9bdedf4d5d67d5f2a1da&v=4',
+    nomeDoProjeto: 'horrorflix',
+    url: 'https://horrorflix.vercel.app/',
+    tags: [
+      'Filmes',
+      'Terror',
+    ],
+  },
 ];
