@@ -1978,4 +1978,16 @@ export default [
       'bateria',
     ],
   },
+  {
+    nome: 'Henrique Baeta',
+    foto: 'https://avatars2.githubusercontent.com/u/60404874?s=460&u=5ac8c3307fb5046e6c9d25b4b78bd6996ca1c85b&v=4',
+    nomeDoProjeto: 'BaêtaLeiteFlix',
+    url: 'https://baetaflix.vercel.app/',
+    tags: [
+      'Desenvolvimento',
+      'Back End',
+      'Front End',
+      'JavaScript',
+    ],
+  },
 ];
