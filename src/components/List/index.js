@@ -19,6 +19,7 @@ const List = ({ projetos }) => (
             url={projeto.url}
             tags={projeto.tags}
             key={key}
+            indice={index}
           />
         );
       })
