@@ -1727,4 +1727,13 @@ export default [
       'curiosidades',
       ],
   },
+  {
+    nome: 'Luis Sousa',
+    foto: 'https://avatars1.githubusercontent.com/u/48053804?v=4',
+    nomeDoProjeto: 'Sciflix',
+    url: 'https://sciflix-phi.vercel.app',
+    tags: [
+      'ciência'
+    ],
+  },
 ];
