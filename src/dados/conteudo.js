@@ -1952,4 +1952,18 @@ export default [
       'Música',
       ],
   },
+  {
+    nome: 'Anderson Lima',
+    foto: 'https://www.gravatar.com/avatar/89d417561ad9cf985f77b7839b90cfa7',
+    nomeDoProjeto: 'AnsuFlix',
+    url: 'https://ansuflix.herokuapp.com/',
+    tags: [
+      'back-end',
+      'front-end',
+      'reactjs',
+      'react',
+      'desenvolvimento',
+      'tecnologia',
+      ],
+  },
 ];
