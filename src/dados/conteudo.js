@@ -2150,4 +2150,16 @@ export default [
       'Programação',
     ],
   },
+  {
+    nome: 'Octávio Lage',
+    foto: 'https://avatars0.githubusercontent.com/u/49345154?s=460&u=6af1ba76ba6209e42644cd3f27166d40ae4d64db&v=4',
+    nomeDoProjeto: 'Nerdflix',
+    url: 'https://nerdflix-eight.vercel.app/',
+    tags: [
+      'Tecnologia',
+      'Nerd',
+      'Filmes',
+      'Games',
+    ],
+  },
 ];
