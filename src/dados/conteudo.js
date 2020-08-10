@@ -991,7 +991,7 @@ export default [
       'tecnologia',
       'programação',
     ],
-  },
+ },
   {
     nome: 'Octávio Barbosa',
     foto: 'https://avatars2.githubusercontent.com/u/40213753',
@@ -1755,5 +1755,26 @@ export default [
       'video clipes',
       'musicas',
     ],
+  },
+  {
+    nome: 'Vinícius Catarino',
+    redeSocial: 'https://www.linkedin.com/in/vin%C3%ADcius-catarino-188244b1/',
+    foto: 'https://media-exp1.licdn.com/dms/image/C4E03AQFzZ2FDjlXR9w/profile-displayphoto-shrink_200_200/0?e=1602115200&v=beta&t=rW2jv6bhldoawd_MeKIGEI9sBJH792317rG9kN7oK7E',
+    nomeDoProjeto: 'Singleflix',
+    url: 'https://single-flix-project.vercel.app/',
+    tags: [
+      'solteiro',
+      'solteira',
+      'morar sozinho',
+      'Independência',
+      'cozinha',
+      'organização',
+      'dinheiro',
+      'gastar',
+      'poupar',
+      'sobremesa',
+      'almoço',
+      'janta',
+    ]
   },
 ];
