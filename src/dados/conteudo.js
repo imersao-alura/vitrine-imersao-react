@@ -409,6 +409,18 @@ export default [
     ],
   },
   {
+    nome: 'Andresa Braz',
+    foto: 'https://avatars1.githubusercontent.com/u/3681971?s=460&u=d0b47f79e7292f6e4dc26d751eb21ba56ecda308&v=4',
+    nomeDoProjeto: 'AndresinhaFlix',
+    url: 'https://andresinhaflix.vercel.app/',
+    tags: [
+      'música',
+      'tecnologia',
+      'vídeo clipes',
+      'investimentos',
+    ],
+  },
+  {
     nome: 'Matheus Reis',
     foto: 'https://avatars3.githubusercontent.com/u/23380987?s=460&u=2afc67c46c005fd886ff5e4f76dbc8323350b9f2&v=4',
     nomeDoProjeto: 'CodeFlix',
