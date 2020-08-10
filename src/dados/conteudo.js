@@ -2176,4 +2176,15 @@ export default [
       'aprendendo a aprender',
     ],
   },
+   {
+    nome: 'Danielle Emely',
+    foto: 'https://avatars1.githubusercontent.com/u/55715593?s=460&u=e990ec73a7a194d4b39e0f3399baceaf862c3e38&v=4',
+    nomeDoProjeto: 'astroflix',
+    url: 'https://astroflix.vercel.app',
+    tags: [
+      'aprendendo a aprender',
+      'astronomia',
+      'ciência',
+      ],
+   },
 ];
