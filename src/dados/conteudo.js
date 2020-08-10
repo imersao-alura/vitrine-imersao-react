@@ -2091,4 +2091,16 @@ export default [
       'SKINS'
     ],
   },
+ {
+    nome: 'Albert Melo',
+    foto: 'https://avatars3.githubusercontent.com/u/12687467?s=460&v=4',
+    nomeDoProjeto: 'CatsFlix',
+    url: 'http://catsflix.vercel.app/',
+    tags: [
+      'Humor',
+      'Animais',
+      'Front',
+      'React',
+    ],
+   },
 ];
