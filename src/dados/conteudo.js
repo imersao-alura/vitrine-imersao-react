@@ -1918,4 +1918,13 @@ export default [
       'techno',
     ],
   },
+  {
+    nome: 'Daniel Negrisoli Batista',
+    foto: 'https://avatars0.githubusercontent.com/u/5664421?s=460&v=4',
+    nomeDoProjeto: 'BookFlix',
+    url: 'https://react-bookflix.vercel.app/',
+    tags: [
+      'Livros',
+      ],
+  },
 ];
