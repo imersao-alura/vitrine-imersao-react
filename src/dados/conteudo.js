@@ -991,8 +991,8 @@ export default [
       'tecnologia',
       'programação',
     ],
- },
-{
+  },
+  {
     nome: 'Octávio Barbosa',
     foto: 'https://avatars2.githubusercontent.com/u/40213753',
     nomeDoProjeto: 'Beakmanflix',
@@ -1785,6 +1785,18 @@ export default [
     tags: [
       'jogos',
       'filmes',
+    ],
+ },
+  {
+    nome: 'Matheus Resende',
+    redeSocial: 'https://www.linkedin.com/in/matheus-resende-de-oliveira-1065b5150/',
+    foto: 'https://avatars2.githubusercontent.com/u/44881126?s=460&u=1d5832bf9737fa15e792f0f250e622132c3d2f80&v=4',
+    nomeDoProjeto: 'MathFlix',
+    url: 'https://themathflix.vercel.app/',
+    tags: [
+      'filmes',
+      'games',
+      'programação',
     ],
  },
 ];
