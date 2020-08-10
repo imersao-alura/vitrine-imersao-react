@@ -2101,4 +2101,14 @@ export default [
       'Terror',
     ],
   },
+  {
+    nome: 'Wellisson Ribeiro',
+    foto: 'https://avatars2.githubusercontent.com/u/20648572?s=460&u=e45c5b7becdb8d7bb95199d059fa0d594894b859&v=4',
+    nomeDoProjeto: 'React Evil',
+    url: 'https://react-evil.vercel.app/',
+    tags: [
+      'Games',
+      'Films'
+    ],
+  },
 ];
