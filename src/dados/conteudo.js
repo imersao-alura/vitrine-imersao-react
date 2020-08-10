@@ -2041,4 +2041,14 @@ export default [
       'Programação',
     ],
   },
+  {
+    nome: 'Lucas Novaes',
+    foto: 'https://avatars1.githubusercontent.com/u/61071?s=460&v=4',
+    nomeDoProjeto: 'Breadflix',
+    url: 'https://breadflix.vercel.app/',
+    tags: [
+      'culinária',
+      'panificação',
+    ],
+  },
 ];
