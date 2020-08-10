@@ -1674,4 +1674,17 @@ export default [
       'Tecnologia',
     ],
   },
+  {
+    nome: 'João Capoani',
+    foto: 'https://avatars1.githubusercontent.com/u/62189134?s=400&u=6596dcf52e86a7f0205dc278dab1fa76ad1d1595&v=4',
+    nomeDoProjeto: 'VikingsFlix',
+    url: 'http://vikingsflix.vercel.app/',
+    tags: [
+      'Filmes',
+      'Séries',
+      'Documentários',
+      'Música',
+      'Games',
+    ],
+  },
 ];
