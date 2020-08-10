@@ -2137,4 +2137,17 @@ export default [
       'Pregações',
     ],
   },
+  {
+    nome: 'Luiz Krzyzaniak',
+    foto: 'https://avatars2.githubusercontent.com/u/54411127?s=460&u=4d19551f9c11a8711c38da356b3c051f6463dee8&v=4',
+    nomeDoProjeto: 'KrzyzaniakFlix',
+    url: 'https://krzyzaniakflix.netlify.app/',
+    tags: [
+      'Front End',
+      'Back End',
+      'Games',
+      'Filmes',
+      'Programação',
+    ],
+  },
 ];
