@@ -2378,4 +2378,14 @@ export default [
       'desenvolvimento pessoal',
       ],
   },
+ {
+    nome: 'Camila Matos',
+    foto: 'https://avatars0.githubusercontent.com/u/63053569?s=460&u=8784f9e9f5759faeb8ffa1dde53a1fa8ba0e4585&v=4',
+    nomeDoProjeto: 'crujflix',
+    url: 'https://crujflix.vercel.app/',
+    tags: [
+      'Desenhos Animados',
+      'Animes',
+    ],
+   },
 ];
