@@ -2488,4 +2488,20 @@ export default [
       'Vídeo aulas',
     ],
   },
+  {
+    nome: 'Daractor',
+    foto: 'https://avatars0.githubusercontent.com/u/48837388?s=460&v=4',
+    nomeDoProjeto: 'techflix',
+    url: 'https://techflix-roan.vercel.app/',
+    tags: [
+      'Tecnologia',
+      'Back End',
+      'Front End',
+      'Data Science',
+      'Desenvolvimento',
+      'Filmes',
+      'Games',
+      'Músicas'
+    ],
+  },
 ];
