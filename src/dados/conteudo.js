@@ -1485,7 +1485,22 @@ export default [
       'back end',
       'data science',
     ],
-  },
+  },  
+  {
+    nome: 'Leticia Campos',
+    foto: 'https://avatars1.githubusercontent.com/u/34458509?s=400&u=e98523f7600c40c6bfd7df7121c5a2eda02e37d5&v=4',
+    nomeDoProjeto: 'AluraFlix',
+    url: 'https://leticiacamposs2-aluraflix.vercel.app/',
+    tags: [
+      'front end',
+      'react',
+      'alura',
+      'cursos',
+      'back end',
+      'filmes',
+      'games',
+    ],
+  },  
   {
     nome: 'Monise F. Gomes',
     foto: 'https://avatars2.githubusercontent.com/u/63984437?s=460&u=702a040753a3478b875596c879017ba922d44732&v=4',
