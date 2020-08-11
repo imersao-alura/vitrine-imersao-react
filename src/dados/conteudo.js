@@ -2674,4 +2674,15 @@ export default [
       'yoga'
     ],
   },
+  {
+    nome: 'Vinícius Santos',
+    foto: 'https://avatars0.githubusercontent.com/u/65261720?s=460&u=56e401dc28e971f3003a482fc9e24446c77999b5&v=4',
+    nomeDoProjeto: 'Viniflix',
+    url: 'https://imersao-react.viniciusgabriels.vercel.app/',
+    tags: [
+      'Música',
+      'Shows',
+      'Games',
+    ],
+  },
 ];
