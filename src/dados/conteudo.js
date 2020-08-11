@@ -2279,4 +2279,16 @@ export default [
       'Treino e nutrição',
     ],
   },
+  {
+    nome: 'Emerson Bezerra',
+    foto: 'https://avatars1.githubusercontent.com/u/14952971?s=460&u=07eddeb2486f080dad5c346a154a9cb9de3d17cc&v=4',
+    nomeDoProjeto: 'Ciênciasflix',
+    url: 'https://cienciasflix.vercel.app/',
+    tags: [
+      'ciência',
+      'estudar',
+      'escola',
+      'aluno',
+    ],
+  },
 ];
