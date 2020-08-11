@@ -2339,4 +2339,18 @@ export default [
       'musica',
     ],
   },
+  {
+    nome: 'Thalia Rodrigues',
+    foto: 'https://avatars3.githubusercontent.com/u/68879749?s=460&u=abf5a669af616547448e70d88f209a209436fa26&v=4',
+    nomeDoProjeto: 'Tetrix',
+    url: 'https://gamerflix.vercel.app/',
+    tags: [
+      'Games',
+      'Clássicos',
+      'Terror',
+      'Ação',
+      'Games & Filmes',
+      'New Gen Games',
+      ],
+  },
 ];
