@@ -2674,4 +2674,18 @@ export default [
       'yoga'
     ],
   },
+  {
+    nome: 'Aline Silva Reis',
+    foto: 'https://avatars3.githubusercontent.com/u/68937798?s=460&v=4',
+    nomeDoProjeto: 'AlineFlix',
+    url: 'https://aline-flix.vercel.app/',
+    tags: [
+      'gameDev',
+      'games',
+      'animes',
+      'filmes',
+      'front-end',
+      'back-end',
+    ],
+  },
 ];
