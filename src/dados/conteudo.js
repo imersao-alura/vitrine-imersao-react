@@ -1329,6 +1329,7 @@ export default [
       'Terror',
     ],
   },
+
   {
     nome: 'Alberto Lucas',
     foto: 'https://avatars1.githubusercontent.com/u/38790522?s=460&u=438ddea744d8f5c9e5fdfad4ab7867721377bb59&v=4',
@@ -2560,6 +2561,15 @@ export default [
       'Filmes',
       'Livros',
       'Podcasts',
+    ],
+  },
+  {
+    nome: 'Orlando Vandres',
+    foto: 'https://avatars2.githubusercontent.com/u/57423200?s=460&u=6cccaace678c205a49cc6d77b40084731ad57975&v=4',
+    nomeDoProjeto: 'ReplayFlix',
+    url: 'https://replayflix.vercel.app/',
+    tags: [
+      'Jogos',
     ],
   },
 ];
