@@ -2611,4 +2611,19 @@ export default [
       'reddit',
     ],
   },
+  {  
+    nome: 'Bruno Barbosa',
+    foto: 'https://avatars1.githubusercontent.com/u/25774278?s=460&u=9f3207c7fe6543da8b2985fcdf81fbe35ace0e5f&v=4',
+    nomeDoProjeto: 'Nihonflix',
+    url: 'https://nihonflix.vercel.app/',
+    tags: [
+      'japão',
+      'aula de javponês',
+      'curiosidades sobre o japão',
+      'nihongo',
+      'games',
+      'animes'
+    ],
+  },
+  
 ];
