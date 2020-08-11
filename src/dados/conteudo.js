@@ -2416,4 +2416,15 @@ export default [
       'tecnologia',
     ],
   },
+  {
+    nome: 'Vinícius Alves',
+    foto: 'https://avatars2.githubusercontent.com/u/60452510?s=460&u=e140c911dab4ccb4adadb4dc542567f7f66ab933&v=4',
+    nomeDoProjeto: 'GameDevFlix',
+    url: 'https://game-dev-flix.vercel.app/',
+    tags: [
+      'Games',
+      'Game Design',
+      'Game Development'
+      ],
+  },
 ];
