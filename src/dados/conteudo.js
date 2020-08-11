@@ -2587,5 +2587,15 @@ export default [
       'desenho',
       ],
   },
-
+  {  
+    nome: 'Elisa Andrade',
+    foto: 'https://avatars0.githubusercontent.com/u/46823745?s=460&u=4ed035c5804fadfd99ac33623abdfa02abe1370b&v=4',
+    nomeDoProjeto: 'Rockflix',
+    url: 'lisarockflix.vercel.app/',
+    tags: [
+      'música',
+      'rock',
+      'documentários',
+    ],
+  },
 ];
