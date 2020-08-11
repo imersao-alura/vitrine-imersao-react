@@ -2460,5 +2460,16 @@ export default [
       'Dicas',
     ],
   },
-
+  {
+    nome: 'Gabriela Garcia',
+    foto: 'https://avatars0.githubusercontent.com/u/58146407?s=460&u=3343bc33c7a1d332fdc1dc7d1fcec89743da3462&v=4',
+    nomeDoProjeto: 'Dramaflix',
+    url: 'https://dramaflix.vercel.app/',
+    tags: [
+      'Filmes',
+      'Séries',
+      'Música',
+      'Drama',
+    ],
+  },
 ];
