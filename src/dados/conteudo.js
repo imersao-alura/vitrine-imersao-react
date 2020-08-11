@@ -23,6 +23,19 @@ export default [
       'tecnologia',
     ],
   },
+  {  
+    nome: 'Jennyffer de Morais',
+    foto: 'https://avatars2.githubusercontent.com/u/55637611?s=460&u=bd362fbf952d2470855ed12f52533fbb83b74601&v=4',
+    nomeDoProjeto: 'Blackflix',
+    url: 'https://blackflix.vercel.app/',
+    tags: [
+      'front end',
+      'tecnologia',
+      'blackflix',
+      'pretos',
+      'youtubers',
+    ],
+  },
   {
     nome: 'Marco Bruno',
     foto: 'https://avatars2.githubusercontent.com/u/4096456?s=400&v=4',
