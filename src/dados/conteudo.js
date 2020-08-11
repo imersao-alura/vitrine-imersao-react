@@ -2403,4 +2403,17 @@ export default [
       "Viajantes",
     ],
   },
+  {
+    nome: 'Amanda Bezerra',
+    foto: 'https://avatars1.githubusercontent.com/u/16064248?s=400&u=faae62d3c1385934ba95e7adacd0c6d214a47bab&v=4',
+    nomeDoProjeto: 'AdaFlix',
+    url: 'adaflix.vercel.app',
+    tags: [
+      'carreira',
+      'desenvolvimento',
+      'front end',
+      'back end',
+      'tecnologia',
+    ],
+  },
 ];
