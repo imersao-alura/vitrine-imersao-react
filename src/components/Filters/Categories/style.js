@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled, { css } from 'styled-components';
 
 export const CategoriesWrapper = styled.ul`
   display: flex;
@@ -76,12 +76,20 @@ export const Category = styled.label`
   &:hover {
     background-color: var(--grayLight);
   }
+
+  ${
+  ({ isChecked }) => (isChecked && css`
+    color: var(--primary);
+    background-color: var(--secondary);
+  `
+  )
+}
 `;
 
 export const RadioButton = styled.input`
   display: none;
 
-  &:checked + label {
+  &:checked + label{
     color: var(--primary);
     background-color: var(--secondary);
   }
