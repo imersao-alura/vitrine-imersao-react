@@ -2200,4 +2200,16 @@ export default [
       'mmorpg',
      ],
   },
+  {
+    nome: 'Stephanie Nascimento',
+    foto: 'https://avatars1.githubusercontent.com/u/54187353?s=460&u=466c17907d7eee22d3fccc25eff0ccc0e55da09e&v=4',
+    nomeDoProjeto: 'viagemflix',
+    url: 'https://viagemflix.vercel.app/',
+    tags: [
+      'Viagem',
+      'Praia',
+      'Trip',
+      'Dicas',
+    ],
+  },
 ];
