@@ -2187,4 +2187,17 @@ export default [
       'ciência',
       ],
    },
+  {
+    nome: 'Jean Ferreira',
+    foto: 'https://avatars3.githubusercontent.com/u/16404783?s=460&u=1aafc3ce7584db18d84de14fd0628c105c12efd8&v=4',
+    nomeDoProjeto: 'TIBIAFLIX',
+    url: 'https://tibiaflix-react.vercel.app/',
+    tags: [
+      'games',
+      'tibia',
+      'gameplay',
+      'jogos',
+      'mmorpg',
+     ],
+  },
 ];
