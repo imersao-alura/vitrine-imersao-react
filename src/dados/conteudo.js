@@ -2291,4 +2291,13 @@ export default [
       'aluno',
     ],
   },
+ {
+    nome: 'Jon Hoffmam',
+    foto: 'https://avatars2.githubusercontent.com/u/46982925?s=460&u=e7f2efe21341d9159a6dc944d1b795f9bd04b807&v=4',
+    nomeDoProjeto: 'Trailerflix',
+    url: 'https://trailerflix-umber.vercel.app/',
+    tags: [
+      'Filmes',
+    ],
+   },
 ];
