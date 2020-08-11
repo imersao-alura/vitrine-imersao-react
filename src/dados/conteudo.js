@@ -2253,4 +2253,16 @@ export default [
       'Tecnologia',
     ],
   },
+  {
+    nome: 'Hugo Cury',
+    foto: 'https://avatars3.githubusercontent.com/u/68428036?s=460&u=270e1f90169dcd5b72c11d033227a87c27d06300&v=4',
+    nomeDoProjeto: 'Unplugged Flix',
+    url: 'https://flix-wheat.vercel.app/',
+    tags: [
+      'música',
+      'vídeo clipes',
+      'folk',
+      'indie',
+    ],
+  },
 ];
