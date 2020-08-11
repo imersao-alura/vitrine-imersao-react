@@ -2700,4 +2700,15 @@ export default [
       'Cover'
     ],
   },
+  {
+    nome: 'Matheus Encarnação',
+    foto: 'https://avatars0.githubusercontent.com/u/29285241?s=460&u=84226176811753279afeaeb8b9028ba28bcebda6&v=4',
+    nomeDoProjeto: 'amazonflix',
+    url: 'http://amazonflix.matheusencarnacao.vercel.app/',
+    tags: [
+      'Filmes',
+      'Séries',
+      'Nerd',
+      ],
+   },
 ];
