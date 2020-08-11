@@ -2427,4 +2427,16 @@ export default [
       'Game Development'
       ],
   },
+  {
+    nome: 'Nanda Dias',
+    foto: 'https://avatars1.githubusercontent.com/u/1746045?s=460&u=56a33d280afe91d8f34ca26771d044fd16672535&v=4',
+    nomeDoProjeto: 'Trellozera',
+    url: 'https://trellozera.nandadias.vercel.app/',
+    tags: [
+      'música',
+      'data science',
+      'back end',
+      'front end',
+    ],
+  },
 ];
