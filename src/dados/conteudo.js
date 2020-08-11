@@ -2439,4 +2439,13 @@ export default [
       'front end',
     ],
   },
+  {
+    nome: 'Petronio Bernardino',
+    foto: 'https://avatars0.githubusercontent.com/u/66075228?s=460&u=e1c9f083e912f4dcae817a9b409c8ebf94d896bf&v=4',
+    nomeDoProjeto: 'AnimeFlix',
+    url: 'https://experts-anime-flix.vercel.app/',
+    tags: [
+      'Anime',
+      ],
+  },
 ];
