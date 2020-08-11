@@ -2226,4 +2226,18 @@ export default [
       'Cultura dos países',
     ],
   },
+  {
+    nome: 'Lucas Pedroso',
+    foto: 'https://avatars0.githubusercontent.com/u/42256673?s=460&u=8ed44bbe252addb3b58ea6c5490e1ebe55cde891&v=4',
+    nomeDoProjeto: 'PedradaFlix',
+    url: 'https://pedradaflix.netlify.app/',
+    tags: [
+      'front end',
+      'back end',
+      'data science',
+      'tecnologia',
+      'games',
+      'filmes',
+    ],
+  },
 ];
