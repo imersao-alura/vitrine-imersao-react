@@ -2328,4 +2328,15 @@ export default [
       'Games',
     ],
   },
+  {
+    nome: 'William Gonçalves',
+    foto: 'https://euwilliamgoncalves.github.io/img/portfolio/012/image03.png',
+    nomeDoProjeto: 'Dragonflix',
+    url: 'https://dragonflix.vercel.app/',
+    tags: [
+      'rock',
+      'metal',
+      'musica',
+    ],
+  },
 ];
