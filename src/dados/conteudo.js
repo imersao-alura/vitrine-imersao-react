@@ -1,4 +1,17 @@
 export default [
+   {
+    nome: 'Victor Costa',
+    foto: 'https://avatars2.githubusercontent.com/u/21694466?s=460&u=625d8412b8e6f222e51a005dffbd67813fe0ffd1&v=4',
+    nomeDoProjeto: 'Tcholaflix',
+    url: 'https://tcholaflix.vercel.app/',
+    tags: [
+      'back end',
+      'front end',
+      'react',
+      'desenvolvimento',
+      'tecnologia',
+    ],
+  },
   {
     nome: 'Juliana dos Santos Ribeiro',
     foto: 'https://avatars1.githubusercontent.com/u/54780605?s=460&u=58d983e84d01a6500dcb1fab3d9287ad1c1c2268&v=4',
