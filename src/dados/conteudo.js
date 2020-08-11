@@ -2448,4 +2448,17 @@ export default [
       'Anime',
       ],
   },
+   {
+    nome: 'Lygia Botelho',
+    foto: 'https://avatars3.githubusercontent.com/u/45698817?s=460&u=476f02e995267b48ee35a8a0c85106c816585ef3&v=4',
+    nomeDoProjeto: 'Lyflix',
+    url: 'https://lyflix.vercel.app/',
+    tags: [
+      'Fron-end',
+      'Back-end',
+      'Filmes',
+      'Dicas',
+    ],
+  },
+
 ];
