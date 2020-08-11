@@ -2315,4 +2315,17 @@ export default [
       'Quarentena',
     ],
   },
+
+   {
+    nome: 'Nivaldo Couto',
+    foto: 'https://avatars3.githubusercontent.com/u/54515563?s=460&u=d11009e161fbccf6c376f47472a0628a8b538aa8&v=4',
+    nomeDoProjeto: 'WEBFLIX',
+    url: 'https://web-flix.vercel.app/',
+    tags: [
+      'Filmes',
+      'Ficção científica',
+      'tecnologia',
+      'Games',
+    ],
+  },
 ];
