@@ -1128,6 +1128,16 @@ export default [
       'filmes',
     ],
   },
+   {
+    nome: 'Henrique G. Faria',
+    foto: 'https://avatars0.githubusercontent.com/u/66914517?s=60&v=4',
+    nomeDoProjeto: 'SAILFLIX',
+    url: 'https://sailflix.vercel.app/',
+    tags: [
+      'velejar',
+      'mar',
+      ],
+    },   
   {
     nome: 'Adriano Valença',
     foto: 'https://avatars3.githubusercontent.com/u/64167395?s=460&u=123d1b8ca658f295dd57e5ce3e916113f87d9212&v=4',
