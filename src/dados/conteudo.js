@@ -2711,4 +2711,17 @@ export default [
       'Nerd',
       ],
    },
+   {
+    nome: 'Ivís Confessor',
+    foto: 'https://avatars2.githubusercontent.com/u/50881965?s=460&u=2814d28680b4f2ac1723464a92adde320b3367ba&v=4',
+    nomeDoProjeto: 'MaranataFlix',
+    url: 'https://maranataflix.vercel.app/',
+    tags: [
+      'Gospel',
+      'Louvores',
+      'Meditações',
+      'Filmes gospel',
+      'Músicas cristã'
+      ],
+   },
 ];
