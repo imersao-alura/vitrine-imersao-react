@@ -2711,4 +2711,15 @@ export default [
       'Nerd',
       ],
    },
+  {
+    nome: 'Alana Bacco',
+    foto: 'https://avatars2.githubusercontent.com/u/67171850?s=460&u=2b4877afe4fd8d19d9c211bf8c4d142f0e02b24c&v=4',
+    nomeDoProjeto: 'AlanaFlix',
+    url: 'https://alanaflix.vercel.app/',
+    tags: [
+      'Estudos',
+      'Séries',
+      'Músicas',
+      ],
+   },
 ];
