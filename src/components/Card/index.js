@@ -6,10 +6,11 @@ import Info from './Info';
 import Popover from '../Popover';
 
 const Card = ({
-  nome, redeSocial, foto, nomeDoProjeto, url, tags,
+  nome, redeSocial, foto, nomeDoProjeto, url, tags, indice,
 }) => {
+  const key = indice < 50 ? '296fe8' : 'c237fe';
   const thumbnail = `
-https://api.screenshotmachine.com?key=296fe8&url=${url}&dimension=1024x768
+https://api.screenshotmachine.com?key=${key}&url=${url}&dimension=1024x768
   `;
 
   const visibleTags = tags.slice(0, 3);
@@ -23,7 +24,7 @@ https://api.screenshotmachine.com?key=296fe8&url=${url}&dimension=1024x768
           <Tag>{tag}</Tag>
         ))}
         {
-          quantityPopoverTags
+          tags.length > 3
             ? (
               <Popover tags={tagsPopover}>
                 <Tag>
@@ -60,6 +61,7 @@ Card.propTypes = {
   nomeDoProjeto: propTypes.string.isRequired,
   url: propTypes.string.isRequired,
   tags: propTypes.arrayOf(propTypes.string),
+  indice: propTypes.number.isRequired,
 };
 
 export default Card;
