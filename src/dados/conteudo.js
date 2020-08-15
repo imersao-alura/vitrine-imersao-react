@@ -361,6 +361,15 @@ export default [
     ],
   },
   {
+    nome: 'Débora Polesel',
+    foto: 'https://avatars1.githubusercontent.com/u/64554521?s=460&u=a241c405cbf323bfb12129df94be9c933c24125f&v=4',
+    nomeDoProjeto: 'Cryptoflix',
+    url: 'https://cryptoflix.vercel.app/',
+    tags: [
+      'criptomoedas',
+    ]
+  },
+  {
     nome: 'Anderson Dias',
     foto: 'https://avatars2.githubusercontent.com/u/1341627?s=460&u=27c7097332d79c4a86cf212393d00b88fc1be289&v=4',
     nomeDoProjeto: 'AndersonDiasFlix',
