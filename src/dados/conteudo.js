@@ -110,6 +110,22 @@ export default [
       'códigos',
     ],
   },
+  
+    {
+    nome: 'Wilson Silva',
+    foto: 'https://avatars3.githubusercontent.com/u/68927738?s=460&u=cf9cbb0890ea79361d388cbdb3b73f515fc55068&v=4',
+    nomeDoProjeto: 'WilsonFlix',
+    url: 'https://www.netflix.com.br/',
+    tags: [
+      'front-end',
+      'back-end',
+      'data science',
+      'tecnologia',
+      'games',
+      'filmes',
+    ],
+  },
+  
   {
     nome: 'Vinicius Santos',
     foto: 'https://avatars1.githubusercontent.com/u/62895999?s=460&u=90819b38224622bceb1b6f55d1bde2dae94d469f&v=4',
