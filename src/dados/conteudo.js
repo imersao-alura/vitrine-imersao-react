@@ -2711,4 +2711,17 @@ export default [
       'Nerd',
       ],
    },
+   {
+    nome: 'Emilly Horta',
+    foto: 'https://avatars3.githubusercontent.com/u/23532298?s=400&u=2477cf0d5761f27d7ae45eabade4aae1ab6f7aef&v=4',
+    nomeDoProjeto: 'pyladiesFlix',
+    url: 'https://imersao-react-alura-kappa.vercel.app/',
+    tags: [
+      'tecnologia',
+      'front end',
+      'react',
+      'desenvolvimento',
+    ],
+  },
+
 ];
