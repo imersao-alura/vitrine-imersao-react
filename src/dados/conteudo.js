@@ -768,6 +768,18 @@ export default [
     ],
   },
   {
+    nome: 'Hudson Lima',
+    foto: 'https://media-exp1.licdn.com/dms/image/C4E03AQHZwFn79Ynz1A/profile-displayphoto-shrink_100_100/0?e=1601510400&v=beta&t=XS0U7qooFi5n5heu9v0wB4zVuVGibK8Irwtnd-gO0sU',
+    nomeDoProjeto: 'HuudFlix',
+    url: 'https://huudflix.vercel.app/',
+    tags: [
+      'Música',
+      'Filmes',
+      'Séries',
+      'Livros',
+    ],
+  },
+  {
     nome: 'Ciro Moura',
     foto: 'https://avatars0.githubusercontent.com/u/28021343?s=460&u=5fb5f38d67fc6ccc26540bbce0718ad05f170db3&v=4',
     nomeDoProjeto: 'GuardaVídeos',
