@@ -2711,4 +2711,14 @@ export default [
       'Nerd',
       ],
    },
+   {
+    nome: 'Eder Lopes Gonçalves',
+    foto: 'https://avatars1.githubusercontent.com/u/49789329?s=400&u=5e36db0acf2a64f45bed6c4df52bdf0d3dcf69cd&v=4',
+    nomeDoProjeto: 'Techflix',
+    url: 'https://techflix-eder.vercel.app/',
+    tags: [
+      'tecnologia',
+      'programacao',
+      'desenvolvimento'
+    ],
 ];
