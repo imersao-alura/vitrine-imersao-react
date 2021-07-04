@@ -154,6 +154,18 @@ export default [
     ],
   },
   {
+    nome: 'Petherson Moreno',
+    foto: 'https://lh3.googleusercontent.com/ogw/ADGmqu9ra2ujZ4GdudE-K56wxjwMedJtJ4Kcbj3AaP92=s83-c-mo',
+    nomeDoProjeto: 'MorenoFlix',
+    url: 'https://morenoflix-green.vercel.app/',
+    tags: [
+      'arquitetura',
+      'software',
+      'patterns',
+      'design',
+    ],
+  },
+  {
     nome: 'Stefânio Jr.',
     foto: 'https://avatars0.githubusercontent.com/u/52108997?s=460&u=1c2893ad23d13844d3ced5d17970dfed772c61ce&v=4',
     nomeDoProjeto: 'indieflix',
