@@ -2712,3 +2712,19 @@ export default [
       ],
    },
 ];
+{
+    nome: 'Douglas Pinheiro',
+    foto: 'https://avatars1.githubusercontent.com/u/65875860?s=400&u=0fd91cc9ea7a2d21b39fd5dd88226e000d13d271&v=4',
+    nomeDoProjeto: 'Coderflix',
+    url: 'https://dgsdev.vercel.app/',
+    tags: [
+      'Tecnologia',
+      'FrontEnd',
+      'BackEnd',
+      'Cursos',
+      'Desenvolvimente web',
+      'Programação',
+       ],
+  },
+];   
+     
